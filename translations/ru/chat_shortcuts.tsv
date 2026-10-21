@@ -1,0 +1,11 @@
+chat_shortcuts_description_unblock	Разблокировывает данному игроку чат и голосовую связь (/unblock player_name)
+chat_shortcuts_description_profile	Показывает профиль выбранного игрока (/profile player_name)
+chat_shortcuts_description_unmute	Разблокировывает средства связи выбранному игроку для данной битвы (/unmute player_name)
+chat_shortcuts_description_team	Командный Чат (/team message)
+chat_shortcuts_description_notify	Оповещает всех игроков при помощи большой надписи (/notify message), можт использоваться только лидером команды.
+chat_shortcuts_description_help	Показывает все доступные игровые команды для данной игры (/help)
+chat_shortcuts_description_poll	Начать голосование за выбор лидера (/poll)
+chat_shortcuts_description_roll	Генерирует в чате случайное число от 1 до 100
+chat_shortcuts_description_vote	Голосование за лидера команды (/vote player_name)
+chat_shortcuts_description_all	Общий Чат (/all message)
+chat_shortcuts_description_add	Добавляет выбранного игрока в список друзей (/add player_name)

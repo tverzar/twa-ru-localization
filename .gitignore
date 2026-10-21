@@ -1,0 +1,7 @@
+sheets/
+report*.csv
+__pycache__/
+*.pyc
+backup_ru/
+*.pack
+*.pack.orig

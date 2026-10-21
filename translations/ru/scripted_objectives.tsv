@@ -1,0 +1,191 @@
+scripted_objectives_localised_text_congratulations	Поздравляем, полководец: вы прошли подготовку новобранцев. Вы готовы встретить врагов на поле боя!
+scripted_objectives_localised_text_rec_8_attacking_4	Мечники
+scripted_objectives_localised_text_enemy_is_flanked	Враг обойдён с фланга! Смотрите, как падает его мораль: скоро отряд побежит.
+scripted_objectives_localised_text_rec_8_attacking_2	Атакуйте и уничтожьте вражескую пехоту.
+scripted_objectives_localised_text_rec_8_attacking_1	Атакуйте врага
+scripted_objectives_localised_text_rec_9_morale_1	У отрядов есть и [[col:orange]]мораль[[/col]] (1, белая), и [[col:orange]]здоровье[[/col]] (2, цветное).
+scripted_objectives_localised_text_rec_9_morale_3	Обход с фланга, особенно с тыла, — один из простейших способов снизить мораль врага.
+scripted_objectives_localised_text_rec_9_morale_2	Сломленная мораль отряда заставляет его бежать и прекращать сопротивление.
+scripted_objectives_localised_text_rec_9_morale_5	У отрядов есть и [[col:white]]мораль (1)[[/col]], и [[col:red]]здоровье (2)[[/col]]. Сломленная мораль заставляет отряд прекратить бой и бежать на свою базу.
+scripted_objectives_localised_text_rec_9_morale_4	Атакуйте вражеский отряд сзади, чтобы обойти его с фланга и сломить мораль.
+scripted_objectives_localised_text_rec_9_morale_7	Убейте врага
+scripted_objectives_localised_text_rec_9_morale_6	Обойдите врага с фланга
+scripted_objectives_localised_text_rec_9_morale_9	[[col:orange]]СОВЕТ:[[/col]] Удерживайте [[col:orange]]ПРОБЕЛ[[/col]], чтобы увидеть точное расположение ваших бойцов в бою. Также видны дальность атаки отряда и его приказы движения, если они есть.
+scripted_objectives_localised_text_rec_9_morale_8	Добейте вражеский отряд.
+scripted_objectives_localised_text_objectives	Задачи
+scripted_objectives_localised_text_off_fe_2_rewards_1	Какой бой! Вы доказали, что достойны звания полководца.
+scripted_objectives_localised_text_off_fe_2_rewards_3	Для начала вот небольшой набор наград.
+scripted_objectives_localised_text_off_fe_2_rewards_2	Вы получаете награды в трёх валютах: опыт отряда, свободный опыт и серебро.
+scripted_objectives_localised_text_off_fe_2_rewards_4	Закройте экран наград за бой.
+scripted_objectives_localised_text_aid_ally	(По желанию) Ваш союзник прижат: используйте местность, чтобы обойти отряд пикинёров и ударить сзади
+scripted_objectives_localised_text_off_fe_7_units_1	Каждый раз, когда вы добавляете отряды в состав, нужно платить немного серебра. При удалении отряда серебро возвращается.
+scripted_objectives_localised_text_off_fe_7_units_3	Нажмите кнопку покупки за серебро.
+scripted_objectives_localised_text_off_fe_7_units_2	Добавьте лёгких гоплитов в состав
+scripted_objectives_localised_text_off_fe_7_units_5	Нажмите на каждый отряд, чтобы пометить его на замену
+scripted_objectives_localised_text_off_fe_7_units_4	Состав полон, поэтому отряды придётся заменить
+scripted_objectives_localised_text_off_fe_7_units_7	Отлично, теперь вы знаете, как развиваться в Total War: Arena
+scripted_objectives_localised_text_off_fe_7_units_6	Теперь нажмите кнопку замены, чтобы поменять отряды
+scripted_objectives_localised_text_off_fe_7_units_9	Удачи, полководец.
+scripted_objectives_localised_text_off_fe_7_units_8	Дальше вам придётся полагаться на собственный ум и смекалку.
+scripted_objectives_localised_text_rec_5_formed_movement_1	Мечники
+scripted_objectives_localised_text_rec_5_formed_movement_2	Мечники
+scripted_objectives_localised_text_rec_5_formed_movement_3	Мечники
+scripted_objectives_localised_text_rec_5_formed_movement_4	Мечники
+scripted_objectives_localised_text_rec_5_formed_movement_5	Мечники
+scripted_objectives_localised_text_ally_is_engaged	Наш союзник сражается с врагом на другой стороне моста. Выбрав отряды, щёлкните правой кнопкой по вражескому отряду, чтобы отдать приказ атаки.
+scripted_objectives_localised_text_off_ba_3_hints_2	Когда подсказки срабатывают от ваших действий, они появляются здесь и ждут вас.
+scripted_objectives_localised_text_off_ba_4_hints_5	Все советы и подсказки можно просмотреть в меню паузы.
+scripted_objectives_localised_text_off_ba_3_hints_3	Нажмите сейчас на подсказку «Нажмите сюда».
+scripted_objectives_localised_text_off_ba_4_hints_4	При нажатии на подсказку игра встаёт на паузу, и появляется окно с подробностями механики или функции.
+scripted_objectives_localised_text_off_ba_3_hints_1	Это подсказки.
+scripted_objectives_localised_text_off_ba_3_hints_6	Все советы и подсказки можно просмотреть в меню паузы.
+scripted_objectives_localised_text_off_ba_4_hints_1	Это подсказки.
+scripted_objectives_localised_text_off_ba_3_hints_4	При нажатии на подсказку бой встаёт на паузу, и появляется окно с подробной информацией.
+scripted_objectives_localised_text_off_ba_4_hints_3	Нажмите сейчас на подсказку «Нажмите сюда».
+scripted_objectives_localised_text_off_ba_3_hints_5	Прочитав и поняв, закройте подсказку, чтобы продолжить бой.
+scripted_objectives_localised_text_off_ba_4_hints_2	Подсказки появляются от ваших действий и ждут в очереди, пока вы их откроете.
+scripted_objectives_localised_text_off_fe_6_tiers_4	Откройте лёгких гоплитов за опыт отряда
+scripted_objectives_localised_text_off_fe_6_tiers_5	Теперь нужно потратить серебро, чтобы добавить лёгких гоплитов в состав
+scripted_objectives_localised_text_off_fe_6_tiers_6	Откройте лёгких гоплитов
+scripted_objectives_localised_text_off_fe_6_tiers_1	Теперь ваш полководец II ранга, и вы можете покупать отряды этого ранга.
+scripted_objectives_localised_text_off_fe_6_tiers_3	Теперь можно открыть лёгких гоплитов
+scripted_objectives_localised_text_throw_pila	(По желанию) Используйте alt+правую кнопку, чтобы бросить пилумы в переднего спартанского отряда
+scripted_objectives_localised_text_rec_4_select_and_move_1	Выберите головной отряд, чтобы взять его под управление.
+scripted_objectives_localised_text_rec_4_select_and_move_2	Переместите головной отряд в отмеченное место.
+scripted_objectives_localised_text_rec_4_select_and_move_3	Переместите отряд полководца
+scripted_objectives_localised_text_rec_4_select_and_move_4	Выберите отряд полководца
+scripted_objectives_localised_text_rec_4_select_and_move_5	[[col:orange]]ЩЁЛКНИТЕ ЛЕВОЙ КНОПКОЙ[[/col]] по отряду или его шкале здоровья, чтобы выбрать его, или нажмите клавишу 1. 
+scripted_objectives_localised_text_rec_4_select_and_move_6	[[col:orange]]ЩЁЛКНИТЕ ПРАВОЙ КНОПКОЙ[[/col]] по земле при выбранных отрядах, чтобы отправить их туда.
+scripted_objectives_localised_text_move_to_marked_location	Переместите отряды в отмеченное место.
+scripted_objectives_localised_text_rec_3_camera_4	Мечники
+scripted_objectives_localised_text_rec_3_camera_1	Двигайте камеру
+scripted_objectives_localised_text_rec_3_camera_3	Клавиши [[col:orange]]W, A, S, D[[/col]] двигают камеру, [[col:orange]]Q, E[[/col]] поворачивают вид, а [[col:orange]]колесо мыши[[/col]] приближает и отдаляет.
+scripted_objectives_localised_text_rec_3_camera_2	Переместите камеру в отмеченное место на вражеской базе.
+scripted_objectives_localised_text_attack_leonidas	Уничтожьте спартанцев на перевале
+scripted_objectives_localised_text_rec_1_victory_1	Условия победы
+scripted_objectives_localised_text_rec_1_victory_2	- [[col:orange]]Уничтожьте[[/col]] вражеские силы
+scripted_objectives_localised_text_rec_1_victory_3	- [[col:orange]]Захватите[[/col]] вражескую базу
+scripted_objectives_localised_text_rec_1_victory_4	- [[col:orange]]Выживите[[/col]] с большим числом живых бойцов
+scripted_objectives_localised_text_rec_1_victory_5	Мечники
+scripted_objectives_localised_text_rotate_to_continue	Поверните камеру в обе стороны, чтобы продолжить.
+scripted_objectives_localised_text_move_unit	Выбрав отряд, щёлкните правой кнопкой по земле, чтобы отдать приказ движения
+scripted_objectives_localised_text_off_ba_1_victory_1	Помните: чтобы победить, нужно захватить вражескую базу или уничтожить все вражеские силы.
+scripted_objectives_localised_text_off_ba_2_victory_1	В Total War: Arena две команды борются за победу.
+scripted_objectives_localised_text_off_ba_1_victory_2	Если время выйдет, всё решит счёт: побеждает набравший больше очков.
+scripted_objectives_localised_text_off_ba_2_victory_2	Чтобы победить, уничтожьте вражескую команду, захватите её базу или наберите больше очков.
+scripted_objectives_localised_text_rec_2_commander_1	Мечники
+scripted_objectives_localised_text_rec_2_commander_2	Мечники
+scripted_objectives_localised_text_use_wasd_to_move_camera	Двигайте камеру клавишами WASD.
+scripted_objectives_localised_text_select_all	Зажмите левую кнопку и тяните, чтобы выбрать несколько отрядов
+scripted_objectives_localised_text_b2_archers_engage	Стреляйте по вражеским отрядам
+scripted_objectives_localised_text_off_ba_2_mission_1	Это задача: она напоминает о вашей цели.
+scripted_objectives_localised_text_off_ba_3_mission_1	Это задача: она напоминает о вашей цели.
+scripted_objectives_localised_text_off_ba_2_mission_2	Это побочные задания: их выполнение даст дополнительные награды после боя.
+scripted_objectives_localised_text_off_ba_3_mission_2	Это побочные задания: их выполнение даст дополнительные награды после боя.
+scripted_objectives_localised_text_select_whole_squad	Чтобы выбрать весь отряд, зажмите и протяните рамку выбора вокруг всех ваших отрядов.
+scripted_objectives_localised_text_change_depth_obj	(По желанию) Измените глубину строя, чтобы быстрее пройти по узкой дороге
+scripted_objectives_localised_text_b2_swords_charge	Бросьтесь в рывок на вражеские отряды
+scripted_objectives_localised_text_b2_swords_engage	Вступите в ближний бой
+scripted_objectives_localised_text_alternate_rotate_camera	Либо удерживайте среднюю кнопку мыши и двигайте мышь.
+scripted_objectives_localised_text_b2_units_1	Обычные типы отрядов
+scripted_objectives_localised_text_b2_units_3	[[img:inf_bow]][[/img]] [[col:orange]]Лучники[[/col]] — стрелки с высоким уроном, слабые в ближнем бою.
+scripted_objectives_localised_text_b2_units_2	[[img:inf_sword]][[/img]] [[col:orange]]Мечевая пехота[[/col]] — бойцы ближнего боя с хорошим нападением и защитой.
+scripted_objectives_localised_text_b2_units_5	[[img:inf_spear]][[/img]] [[col:orange]]Копейная пехота[[/col]] — защитные бойцы ближнего боя: перекрывают пути и отражают рывки спереди.
+scripted_objectives_localised_text_b2_units_4	[[img:cav_spear]][[/img]] [[col:orange]]Копейная кавалерия[[/col]] — быстрые всадники с разрушительным рывком, но слабые в затяжном бою.
+scripted_objectives_localised_text_charge_remaining	Совет: нажмите T, чтобы активировать «Рывок тяжёлой пехоты» и ударить в спины оставшимся спартанцам
+scripted_objectives_localised_text_rec_rotate_camera	Вращайте камеру клавишами Q или E либо зажав среднюю кнопку мыши и двигая мышью
+scripted_objectives_localised_text_b2_swords_throw_pila	Лёгкие пилумы по вражеским отрядам
+scripted_objectives_localised_text_rec_7_fog_of_war_1	Отряды «видят» лишь на ограниченное расстояние ([[col:orange]]дальность обзора[[/col]]). Всё за её пределами скрыто [[col:orange]]туманом войны[[/col]].
+scripted_objectives_localised_text_rec_7_fog_of_war_2	Вы видите всё, что видят ваши и союзные отряды, но за этой границей [[col:orange]]движение врага скрыто[[/col]].
+scripted_objectives_localised_text_use_vengeance	Совет: способность «Возмездие» даст вашим отрядам огромный бонус в ближнем бою
+scripted_objectives_localised_text_give_group_move_order	Выбрав все отряды, щёлкните правой кнопкой по отмеченному месту, чтобы отправить их туда.
+scripted_objectives_localised_text_change_depth	Совет: выбрав один отряд, щёлкните правой кнопкой и тяните, чтобы изменить ширину и глубину
+scripted_objectives_localised_text_eliminate_defenders	(По желанию) Уничтожьте отмеченные отряды, обороняющие базу
+scripted_objectives_localised_text_directed_move_order	Выбрав отряды, щёлкните правой кнопкой и тяните, чтобы отдать направленный приказ движения. Это сбросит строй отряда.
+scripted_objectives_localised_text_off_fe_5_orders_8	Свободного опыта хватает, чтобы открыть его второй боевой приказ!
+scripted_objectives_localised_text_off_fe_5_orders_9	Откройте способность «Держать строй».
+scripted_objectives_localised_text_off_fe_5_orders_2	Это отряд II ранга, поэтому ваш полководец должен быть II ранга, чтобы их использовать.
+scripted_objectives_localised_text_off_fe_5_orders_3	Давайте повысим вашего полководца до II ранга.
+scripted_objectives_localised_text_off_fe_5_orders_1	Вы почти можете открыть лёгких гоплитов, но они II ранга, поэтому полководец тоже должен быть II ранга
+scripted_objectives_localised_text_off_fe_5_orders_6	Нажмите на портрет Леонида, чтобы увидеть его приказы.
+scripted_objectives_localised_text_off_fe_5_orders_7	Чтобы повысить полководца, нужно потратить свободный опыт на его приказы.
+scripted_objectives_localised_text_off_fe_5_orders_4	Достигните II ранга полководца
+scripted_objectives_localised_text_off_fe_5_orders_5	Откройте панель полководцев
+scripted_objectives_localised_text_off_fe_3_equipment_10	Поздравляем, ваши гоплиты-ополченцы получили щегольской шлем.
+scripted_objectives_localised_text_off_fe_3_equipment_11	Откроем шлем для этого отряда
+scripted_objectives_localised_text_off_ba_1_deploy_4	Когда все игроки нажмут «Играть», бой начнётся.
+scripted_objectives_localised_text_off_ba_1_deploy_3	Просто щёлкните по одной из пронумерованных позиций, чтобы выбрать слот развёртывания, затем нажмите «Играть».
+scripted_objectives_localised_text_off_ba_1_deploy_2	Здесь вы выбираете, где на карте развернуть отряды.
+scripted_objectives_localised_text_off_ba_1_deploy_1	Это экран развёртывания.
+scripted_objectives_localised_text_rec_3_camerarotate_2	Поворачивайте камеру, пока не увидите свой отряд.
+scripted_objectives_localised_text_rec_3_camerarotate_3	Клавиши [[col:orange]]Q, E[[/col]] поворачивают вид камеры.
+scripted_objectives_localised_text_rec_3_camerarotate_1	Поверните камеру
+scripted_objectives_localised_text_rec_6_1_multi_move_directed_2	Выберите все отряды и верните их в боевой строй.
+scripted_objectives_localised_text_rec_6_1_multi_move_directed_3	[[col:orange]]ЩЁЛКНИТЕ ПРАВОЙ КНОПКОЙ И ТЯНИТЕ[[/col]] мышь здесь, чтобы изменить интервалы между отрядами и выбрать направление взгляда. Выберите все отряды, чтобы поставить их в строй.
+scripted_objectives_localised_text_rec_6_1_multi_move_directed_1	Восстановите строй
+scripted_objectives_localised_text_rec_6_1_multi_move_directed_4	[[col:orange]]СОВЕТ:[[/col]] Всегда перемещайте отряды так, чтобы они были рассредоточены и лучше избегали атак.
+scripted_objectives_localised_text_off_fe_2_unit_progression_6	Нажмите кнопку [[col:unit_xp]][[img:xp_unit]][[/img]]опыта отряда[[/col]], чтобы изучить оружие.
+scripted_objectives_localised_text_off_fe_4_matchmaking_1	Пора начать следующий бой.
+scripted_objectives_localised_text_off_fe_4_matchmaking_3	Войдите во второй бой
+scripted_objectives_localised_text_off_fe_4_matchmaking_2	Нажмите кнопку «Играть».
+scripted_objectives_localised_text_off_fe_5_orders_10	Поздравляем, Леонид теперь II ранга и имеет доступ к отрядам II ранга.
+scripted_objectives_localised_text_capture_base	Захватите вражескую базу
+scripted_objectives_localised_text_off_fe_1_commander_6	Выберите Леонида своим полководцем
+scripted_objectives_localised_text_off_fe_1_commander_5	Наконец пора взять Леонида в бой. Нажмите кнопку его выбора на левой панели.
+scripted_objectives_localised_text_off_fe_1_commander_4	Теперь нажмите на Леонида, чтобы узнать о нём и его приказах. Он более оборонительный полководец.
+scripted_objectives_localised_text_off_fe_1_commander_3	Теперь выберите греческую фракцию в карусели. Её символ — сова.
+scripted_objectives_localised_text_off_fe_1_commander_2	Откройте вкладку «Полководцы».
+scripted_objectives_localised_text_off_fe_1_commander_1	Первый шаг при подготовке к бою — выбор полководца, которого вы возьмёте с собой.
+scripted_objectives_localised_text_rotate_camera	Q и E поворачивают камеру.
+scripted_objectives_localised_text_attacking_from_behind	Хорошо, атака сзади даст обход с фланга и принесёт быструю победу.
+scripted_objectives_localised_text_b2_win	Выиграйте бой
+scripted_objectives_localised_text_b2_cav_flank	Обходите вражеские отряды с фланга
+scripted_objectives_localised_text_rec_10_orders_3	Мечники
+scripted_objectives_localised_text_rec_10_orders_2	Мечники
+scripted_objectives_localised_text_rec_10_orders_1	Мечники
+scripted_objectives_localised_text_rec_10_orders_6	Мечники
+scripted_objectives_localised_text_rec_10_orders_5	Мечники
+scripted_objectives_localised_text_rec_10_orders_4	Мечники
+scripted_objectives_localised_text_rec_11_capturing_7	Под огнём!
+scripted_objectives_localised_text_rec_11_capturing_6	Атакуйте вражеского лучника, чтобы он перестал стрелять, и захватите базу.
+scripted_objectives_localised_text_rec_11_capturing_5	Отряды не могут захватывать базы под уроном.
+scripted_objectives_localised_text_rec_11_capturing_4	Захватите базу
+scripted_objectives_localised_text_rec_11_capturing_3	Мечники
+scripted_objectives_localised_text_rec_11_capturing_2	Отряды должны [[col:orange]]стоять внутри периметра базы[[/col]], чтобы идти в счёт захвата. Чем больше отрядов команда вводит в базу, тем быстрее заполняется [[col:orange]]шкала захвата[[/col]].
+scripted_objectives_localised_text_rec_11_capturing_1	Войдите во вражескую базу и выиграйте бой.
+scripted_objectives_localised_text_rec_6_select_and_move_multi_1	Выберите сразу все три отряда.
+scripted_objectives_localised_text_rec_6_select_and_move_multi_2	[[col:orange]]ЗАЖМИТЕ ЛЕВУЮ КНОПКУ И ТЯНИТЕ[[/col]] мышь, чтобы нарисовать рамку вокруг нужных отрядов. Выбранные отряды подсветятся.
+scripted_objectives_localised_text_rec_6_select_and_move_multi_3	[[col:orange]]СОВЕТ:[[/col]] Можно также нажать [[col:orange]]CTRL+A[[/col]], чтобы выбрать все отряды, или [[col:orange]]УДЕРЖИВАТЬ CTRL[[/col]] при выборе отряда, чтобы добавить его к текущему выбору.
+scripted_objectives_localised_text_rec_6_select_and_move_multi_4	Выберите все три отряда
+scripted_objectives_localised_text_rec_6_select_and_move_multi_5	Переместите отряд
+scripted_objectives_localised_text_rec_11_capturing_9	Мечники
+scripted_objectives_localised_text_rec_6_select_and_move_multi_6	Переместите все три отряда в отмеченное место.
+scripted_objectives_localised_text_rec_6_select_and_move_multi_7	[[col:orange]]ЩЁЛКНИТЕ ПРАВОЙ КНОПКОЙ[[/col]] по земле при выбранных отрядах, чтобы отправить их туда.
+scripted_objectives_localised_text_rec_3_cameraback_4	[[col:orange]]СОВЕТ:[[/col]] Можно также [[col:orange]]дважды нажать клавиши 1, 2, 3[[/col]], чтобы сразу перейти к первому, второму или третьему отряду в составе.
+scripted_objectives_localised_text_rec_3_cameraback_1	Вернитесь к отряду
+scripted_objectives_localised_text_rec_3_cameraback_2	Верните камеру к своему отряду.
+scripted_objectives_localised_text_rec_3_cameraback_3	Клавиши [[col:orange]]W, A, S, D[[/col]] двигают камеру, [[col:orange]]Q, E[[/col]] поворачивают вид, а [[col:orange]]колесо мыши[[/col]] приближает и отдаляет.
+scripted_objectives_localised_text_select_all_alt	Либо щёлкайте левой кнопкой, удерживая CTRL, чтобы выбрать несколько отрядов
+scripted_objectives_localised_text_rec_8_1_abilities_1	Бросок пилумов
+scripted_objectives_localised_text_rec_8_1_abilities_2	Используйте способность «Бросок пилумов», чтобы убить вражеского лучника.
+scripted_objectives_localised_text_rec_8_1_abilities_3	Выберите один из отрядов, [[col:orange]]ЩЁЛКНИТЕ ЛЕВОЙ КНОПКОЙ[[/col]] по подсвеченной способности на панели отряда, затем [[col:orange]]ЩЁЛКНИТЕ ЛЕВОЙ КНОПКОЙ[[/col]] по вражескому лучнику, чтобы активировать «Бросок пилумов».
+scripted_objectives_localised_text_rec_8_1_abilities_4	[[col:orange]]СОВЕТ:[[/col]] У каждого отряда своя перезарядка способностей. Переключайтесь между отрядами [[col:orange]](1, 2, 3)[[/col]], чтобы использовать их способности независимо.
+scripted_objectives_localised_text_press_once_to_continue	Нажмите каждую клавишу хотя бы раз, чтобы продолжить.
+scripted_objectives_localised_text_rec_11_completed_3	Мечники
+scripted_objectives_localised_text_rec_11_completed_2	Мечники
+scripted_objectives_localised_text_rec_11_completed_1	Мечники
+scripted_objectives_localised_text_move_all_units	Отправьте отряды на разведку горного перевала
+scripted_objectives_localised_text_off_fe_3_equipment_8	Отлично!
+scripted_objectives_localised_text_off_fe_3_equipment_9	Теперь нужно купить шлем за серебро
+scripted_objectives_localised_text_off_fe_3_equipment_4	Откройте потрёпанный пилос
+scripted_objectives_localised_text_off_fe_3_equipment_5	Купите потрёпанный пилос
+scripted_objectives_localised_text_off_fe_3_equipment_6	Отряды получают опыт отряда в бою, который можно тратить на открытие снаряжения
+scripted_objectives_localised_text_off_fe_3_equipment_7	Потратьте опыт отряда на открытие шлема
+scripted_objectives_localised_text_off_fe_3_equipment_1	Чтобы развиваться в Arena, тратьте награды за бой на улучшения и снаряжение
+scripted_objectives_localised_text_off_fe_3_equipment_2	Каждый отряд, взятый в бой, получает свой уникальный опыт отряда.
+scripted_objectives_localised_text_off_fe_3_equipment_3	Нажмите на ваших гоплитов-ополченцев.
+scripted_objectives_localised_text_select_unit	Щёлкните левой кнопкой по отряду, чтобы выбрать его
+scripted_objectives_localised_text_br_archers_focus_fire	Используйте «Сосредоточенный огонь»
+scripted_objectives_localised_text_move_camera	Двигайте камеру клавишами WASD и вращайте её клавишами Q и E
+scripted_objectives_localised_text_select_guan_yu	Щёлкните левой кнопкой по отряду полководца, чтобы выбрать его.
+scripted_objectives_localised_text_b2_cav_charge	Бросьтесь в рывок на вражеские отряды
