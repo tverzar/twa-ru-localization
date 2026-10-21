@@ -39,16 +39,16 @@ unit_abilities_onscreen_name_Scipio_3_Level_3	Гнев Марса III
 unit_abilities_onscreen_name_Scipio_3_Level_2	Гнев Марса II
 unit_abilities_onscreen_name_Scipio_3_Level_1	Гнев Марса I
 unit_abilities_onscreen_name_wooden_swords_steal_hearts	Деревянные мечи, стальные сердца
-unit_abilities_onscreen_name_con_gre_whetstones_level_10	Точильные камни
-unit_abilities_onscreen_name_con_gre_whetstones_level_9	Точильные камни
-unit_abilities_onscreen_name_con_gre_whetstones_level_8	Точильные камни
-unit_abilities_onscreen_name_con_gre_whetstones_level_5	Точильные камни
-unit_abilities_onscreen_name_con_gre_whetstones_level_4	Точильные камни
-unit_abilities_onscreen_name_con_gre_whetstones_level_7	Точильные камни
-unit_abilities_onscreen_name_con_gre_whetstones_level_6	Точильные камни
-unit_abilities_onscreen_name_con_gre_whetstones_level_1	Точильные камни
-unit_abilities_onscreen_name_con_gre_whetstones_level_3	Точильные камни
-unit_abilities_onscreen_name_con_gre_whetstones_level_2	Точильные камни
+unit_abilities_onscreen_name_con_gre_whetstones_level_10	Точила
+unit_abilities_onscreen_name_con_gre_whetstones_level_9	Точила
+unit_abilities_onscreen_name_con_gre_whetstones_level_8	Точила
+unit_abilities_onscreen_name_con_gre_whetstones_level_5	Точила
+unit_abilities_onscreen_name_con_gre_whetstones_level_4	Точила
+unit_abilities_onscreen_name_con_gre_whetstones_level_7	Точила
+unit_abilities_onscreen_name_con_gre_whetstones_level_6	Точила
+unit_abilities_onscreen_name_con_gre_whetstones_level_1	Точила
+unit_abilities_onscreen_name_con_gre_whetstones_level_3	Точила
+unit_abilities_onscreen_name_con_gre_whetstones_level_2	Точила
 unit_abilities_onscreen_name_Scipio_2_Level_10	Боевой Клич X
 unit_abilities_onscreen_name_Scipio_2_Level_8	Боевой Клич VIII
 unit_abilities_onscreen_name_Scipio_2_Level_7	Боевой Клич VII
@@ -100,7 +100,7 @@ unit_abilities_onscreen_name_Germanicus_4_Level_3	Месть III
 unit_abilities_onscreen_name_Germanicus_4_Level_2	Месть II
 unit_abilities_onscreen_name_Germanicus_4_Level_1	Месть I
 unit_abilities_onscreen_name_use_the_whip	Использовать хлыст
-unit_abilities_onscreen_name_unit_morale_aoe	Объединить
+unit_abilities_onscreen_name_unit_morale_aoe	Связать
 unit_abilities_tooltip_text_unit_light_dodge	Отряд жертвует своей мобильностью повышая уклонение от вражеских снарядов.
 unit_abilities_onscreen_name_trample	Растоптать
 unit_abilities_tooltip_text_Miltiades_2_Level_10	Бросают щиты на землю, увеличивая скорость передвижения, но становясь уязвимыми к снарядом. \n\n[[rgba:255:255:255:1]] [Melee Infantry] [Shielded] [[/rgba:255:255:255:1]]
@@ -235,17 +235,17 @@ unit_abilities_tooltip_text_resupply	Снабжение союзных отря�
 unit_abilities_tooltip_text_warcry	Уменьшает вражеский боевой дух
 unit_abilities_onscreen_name_rapid_volley	Стремительный Залп
 unit_abilities_onscreen_name_rapid_fire	Беглый Огонь
-unit_abilities_onscreen_name_Alexander_3_Level_10	Быстрое Продвижение X
-unit_abilities_onscreen_name_Alexander_3_Level_8	Быстрое Продвижение VIII
-unit_abilities_onscreen_name_Alexander_3_Level_7	Быстрое Продвижение VII
-unit_abilities_onscreen_name_Alexander_3_Level_6	Быстрое Продвижение VI
-unit_abilities_onscreen_name_Alexander_3_Level_5	Быстрое Продвижение V
-unit_abilities_onscreen_name_Alexander_3_Level_9	Быстрое Продвижение IX
-unit_abilities_onscreen_name_Alexander_3_Level_4	Быстрое Продвижение IV
-unit_abilities_onscreen_name_Alexander_3_Level_3	Быстрое Продвижение III
-unit_abilities_onscreen_name_Alexander_3_Level_2	Быстрое Продвижение II
-unit_abilities_onscreen_name_Alexander_3_Level_1	Быстрое Продвижение I
-unit_abilities_onscreen_name_rapid_advance	Быстрое Продвижение
+unit_abilities_onscreen_name_Alexander_3_Level_10	Быстр. марш X
+unit_abilities_onscreen_name_Alexander_3_Level_8	Быстр. марш VIII
+unit_abilities_onscreen_name_Alexander_3_Level_7	Быстр. марш VII
+unit_abilities_onscreen_name_Alexander_3_Level_6	Быстр. марш VI
+unit_abilities_onscreen_name_Alexander_3_Level_5	Быстр. марш V
+unit_abilities_onscreen_name_Alexander_3_Level_9	Быстр. марш IX
+unit_abilities_onscreen_name_Alexander_3_Level_4	Быстр. марш IV
+unit_abilities_onscreen_name_Alexander_3_Level_3	Быстр. марш III
+unit_abilities_onscreen_name_Alexander_3_Level_2	Быстр. марш II
+unit_abilities_onscreen_name_Alexander_3_Level_1	Быстр. марш I
+unit_abilities_onscreen_name_rapid_advance	Быстр. марш
 unit_abilities_onscreen_name_Miltiades_3_Level_10	Поднять щиты X
 unit_abilities_onscreen_name_Miltiades_3_Level_8	Поднять щиты VIII
 unit_abilities_onscreen_name_Miltiades_3_Level_7	Поднять щиты VII
@@ -438,7 +438,7 @@ unit_abilities_onscreen_name_Arminius_2_Level_3	Безумие III
 unit_abilities_onscreen_name_Arminius_2_Level_2	Безумие II
 unit_abilities_onscreen_name_Arminius_2_Level_1	Безумие I
 unit_abilities_onscreen_name_frenzy	Безумие
-unit_abilities_onscreen_name_unit_focus_fire	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire	Фокус-огонь
 unit_abilities_tooltip_text_Cynane_1_Level_10	Обстрел залп за залпом в быстрой последовательности. \n\n[[rgba:255:255:255:1]] [Archer Infantry] [Archer Cavalry] [[/rgba:255:255:255:1]]
 unit_abilities_tooltip_text_Cynane_1_Level_1	Обстрел залп за залпом в быстрой последовательности. \n\n[[rgba:255:255:255:1]] [Archer Infantry] [Archer Cavalry] [[/rgba:255:255:255:1]]
 unit_abilities_tooltip_text_Cynane_1_Level_2	Обстрел залп за залпом в быстрой последовательности. \n\n[[rgba:255:255:255:1]] [Archer Infantry] [Archer Cavalry] [[/rgba:255:255:255:1]]
@@ -469,7 +469,7 @@ unit_abilities_onscreen_name_Miltiades_2_Level_4	Скинуть Щиты IV
 unit_abilities_onscreen_name_Miltiades_2_Level_3	Скинуть Щиты III
 unit_abilities_onscreen_name_Miltiades_2_Level_2	Скинуть Щиты II
 unit_abilities_onscreen_name_Miltiades_2_Level_1	Скинуть Щиты I
-unit_abilities_onscreen_name_unit_light_dodge	Увернуться
+unit_abilities_onscreen_name_unit_light_dodge	Уклон
 unit_abilities_onscreen_name_Germanicus_2_Level_10	Оборонительная Черепаха X
 unit_abilities_onscreen_name_Germanicus_2_Level_8	Оборонительная Черепаха VIII
 unit_abilities_onscreen_name_Germanicus_2_Level_7	Оборонительная Черепаха VII
@@ -499,18 +499,18 @@ unit_abilities_onscreen_name_Leonidas_4_Level_1	Боевой Клич I
 unit_abilities_onscreen_name_battle_cry	Боевой Клич
 unit_abilities_tooltip_text_bash_enemies	Оглушить Врага
 unit_abilities_onscreen_name_bash_enemies	Оглушить Врага
-unit_abilities_onscreen_name_unit_shield_bash	Оглушение
-unit_abilities_onscreen_name_Cynane_1_Level_10	Заграждение X
-unit_abilities_onscreen_name_Cynane_1_Level_8	Заграждение VIII
-unit_abilities_onscreen_name_Cynane_1_Level_7	Заграждение VII
-unit_abilities_onscreen_name_Cynane_1_Level_6	Заграждение VI
-unit_abilities_onscreen_name_Cynane_1_Level_5	Заграждение V
-unit_abilities_onscreen_name_Cynane_1_Level_9	Заграждение IX
-unit_abilities_onscreen_name_Cynane_1_Level_4	Заграждение IV
-unit_abilities_onscreen_name_Cynane_1_Level_3	Заграждение III
-unit_abilities_onscreen_name_Cynane_1_Level_2	Заграждение II
-unit_abilities_onscreen_name_Cynane_1_Level_1	Заграждение I
-unit_abilities_onscreen_name_barrage	Заграждение
+unit_abilities_onscreen_name_unit_shield_bash	Оглуш.
+unit_abilities_onscreen_name_Cynane_1_Level_10	Заграда X
+unit_abilities_onscreen_name_Cynane_1_Level_8	Заграда VIII
+unit_abilities_onscreen_name_Cynane_1_Level_7	Заграда VII
+unit_abilities_onscreen_name_Cynane_1_Level_6	Заграда VI
+unit_abilities_onscreen_name_Cynane_1_Level_5	Заграда V
+unit_abilities_onscreen_name_Cynane_1_Level_9	Заграда IX
+unit_abilities_onscreen_name_Cynane_1_Level_4	Заграда IV
+unit_abilities_onscreen_name_Cynane_1_Level_3	Заграда III
+unit_abilities_onscreen_name_Cynane_1_Level_2	Заграда II
+unit_abilities_onscreen_name_Cynane_1_Level_1	Заграда I
+unit_abilities_onscreen_name_barrage	Заграда
 unit_abilities_onscreen_name_Germanicus_3_Level_10	Атакующая Черепаха X
 unit_abilities_onscreen_name_Germanicus_3_Level_8	Атакующая Черепаха VIII
 unit_abilities_onscreen_name_Germanicus_3_Level_7	Атакующая Черепаха VII
@@ -524,16 +524,16 @@ unit_abilities_onscreen_name_Germanicus_3_Level_1	Атакующая Череп�
 unit_abilities_tooltip_text_Attacking_Testudo	Атакующая Черепаха
 unit_abilities_onscreen_name_Attacking_Testudo	Атакующая Черепаха
 unit_abilities_tooltip_text_slaughter	АоЕ оглушение. Упавшие враги будут добиты.
-unit_abilities_onscreen_name_Alexander_2_Level_10	Наковальня X
-unit_abilities_onscreen_name_Alexander_2_Level_8	Наковальня VIII
-unit_abilities_onscreen_name_Alexander_2_Level_7	Наковальня VII
-unit_abilities_onscreen_name_Alexander_2_Level_6	Наковальня VI
-unit_abilities_onscreen_name_Alexander_2_Level_5	Наковальня V
-unit_abilities_onscreen_name_Alexander_2_Level_9	Наковальня IX
-unit_abilities_onscreen_name_Alexander_2_Level_4	Наковальня IV
-unit_abilities_onscreen_name_Alexander_2_Level_3	Наковальня III
-unit_abilities_onscreen_name_Alexander_2_Level_2	Наковальня II
-unit_abilities_onscreen_name_Alexander_2_Level_1	Наковальня I
+unit_abilities_onscreen_name_Alexander_2_Level_10	Накв. X
+unit_abilities_onscreen_name_Alexander_2_Level_8	Накв. VIII
+unit_abilities_onscreen_name_Alexander_2_Level_7	Накв. VII
+unit_abilities_onscreen_name_Alexander_2_Level_6	Накв. VI
+unit_abilities_onscreen_name_Alexander_2_Level_5	Накв. V
+unit_abilities_onscreen_name_Alexander_2_Level_9	Накв. IX
+unit_abilities_onscreen_name_Alexander_2_Level_4	Накв. IV
+unit_abilities_onscreen_name_Alexander_2_Level_3	Накв. III
+unit_abilities_onscreen_name_Alexander_2_Level_2	Накв. II
+unit_abilities_onscreen_name_Alexander_2_Level_1	Накв. I
 unit_abilities_onscreen_name_unit_flaming_snipe_bar_10	Огненный выстрел
 unit_abilities_onscreen_name_unit_phalanx_reposition	Перестроение фаланги
 unit_abilities_affects_con_chi_imperial_decree_level_10	[[col:light_grey]]На себя[[/col]]
@@ -542,7 +542,7 @@ unit_abilities_tooltip_text_con_cannae_horn_level_9	Временно повыш�
 unit_abilities_tooltip_text_con_cannae_horn_level_8	Временно повышает [[col:light_grey]]восстановление усталости фаланги[[/col]] при отходе назад.
 unit_abilities_onscreen_name_unit_indomitable	Неукротимые
 unit_abilities_tooltip_text_Scipio_4	Сильно повышает [[col:light_grey]]защиту[[/col]] и [[col:light_grey]]живучесть[[/col]] отряда, но снижает [[col:light_grey]]мобильность[[/col]]. Заканчивается при выходе из боя.
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_10	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_10	Фокус-огонь
 unit_abilities_tooltip_text_Scipio_2	Снижает [[col:light_grey]]мораль[[/col]] и [[col:light_grey]]защиту[[/col]] всех ближайших вражеских отрядов.
 unit_abilities_tooltip_text_Scipio_3	Мощный [[col:light_grey]]рывок[[/col]] вперёд. Враги на пути получают урон и могут быть [[col:light_grey]]отброшены[[/col]]. 
 unit_abilities_tooltip_text_Scipio_1	Походная колонна позволяет быстрее преодолевать расстояния. Усиливается со временем. \n\n[[col:light_grey]] [Пехота ближнего боя] [[/col]]
@@ -604,7 +604,7 @@ unit_abilities_affects_con_gla_rebel_banner_level_5	[[col:alliance_player]]На 
 unit_abilities_affects_con_gla_rebel_banner_level_4	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзные отряды[[/col]]
 unit_abilities_affects_con_gla_rebel_banner_level_9	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзные отряды[[/col]]
 unit_abilities_affects_con_gla_rebel_banner_level_8	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзные отряды[[/col]]
-unit_abilities_onscreen_name_unit_chosen_ally	Избранный союзник
+unit_abilities_onscreen_name_unit_chosen_ally	Избранный
 unit_abilities_tooltip_text_con_elephant_wine_level_10	Сильно повышает [[col:light_grey]]агрессию[[/col]] отряда на короткое время, но он становится [[col:light_grey]]неуправляемым[[/col]].
 unit_abilities_ability_effects_unit_strain	Бонус, несколько фаз
 unit_abilities_tooltip_text_steady_retreat	Повышает стойкость отряда к вражеским рывкам.\n\n[[col:green]]Броня, защита в ближнем бою[[/col]]\n\n[[col:red]]
@@ -619,7 +619,7 @@ unit_abilities_targets_unit_hail_of_stones_6	[[col:light_grey]]Отряд[[/col]
 unit_abilities_targets_unit_hail_of_stones_5	[[col:light_grey]]Отряд[[/col]]
 unit_abilities_targets_unit_hail_of_stones_4	[[col:light_grey]]Отряд[[/col]]
 unit_abilities_affects_unit_flaming_snipe_bar_10	[[col:alliance_player]]На себя[[/col]]
-unit_abilities_onscreen_name_unit_battle_cry	Боевой клич
+unit_abilities_onscreen_name_unit_battle_cry	Клич
 unit_abilities_onscreen_name_unit_whistling_bullets_7	Свистящие пули
 unit_abilities_onscreen_name_unit_whistling_bullets_6	Свистящие пули
 unit_abilities_onscreen_name_unit_whistling_bullets_9	Свистящие пули
@@ -628,7 +628,7 @@ unit_abilities_tooltip_text_con_drill_whistle_level_8	Временно повы�
 unit_abilities_tooltip_text_con_drill_whistle_level_9	Временно повышает [[col:light_grey]]манёвренность[[/col]] отряда ценой сниженной [[col:light_grey]]агрессии[[/col]].
 unit_abilities_ability_effects_unit_mounted_combat	Бонус
 unit_abilities_onscreen_name_form_pike_wall	Пиковая фаланга
-unit_abilities_onscreen_name_unit_camel_dash	Бросок верблюдов
+unit_abilities_onscreen_name_unit_camel_dash	Бросок верб.
 unit_abilities_tooltip_text_con_drill_whistle_level_1	Временно повышает [[col:light_grey]]манёвренность[[/col]] отряда ценой сниженной [[col:light_grey]]агрессии[[/col]].
 unit_abilities_tooltip_text_con_drill_whistle_level_2	Временно повышает [[col:light_grey]]манёвренность[[/col]] отряда ценой сниженной [[col:light_grey]]агрессии[[/col]].
 unit_abilities_tooltip_text_con_drill_whistle_level_3	Временно повышает [[col:light_grey]]манёвренность[[/col]] отряда ценой сниженной [[col:light_grey]]агрессии[[/col]].
@@ -642,15 +642,15 @@ unit_abilities_ability_effects_unit_focus_fire_jav_t2	Запуск снаряд�
 unit_abilities_ability_effects_unit_focus_fire_jav_t3	Запуск снаряда, цель на земле, сброс таймеров перезарядки
 unit_abilities_onscreen_name_unit_immovable_presence	Непоколебимое присутствие
 unit_abilities_ability_effects_unit_focus_fire_jav_t1	Запуск снаряда, цель на земле, сброс таймеров перезарядки
-unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_8	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_9	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_2	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_3	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_1	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_6	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_7	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_4	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_5	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_8	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_9	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_2	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_3	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_1	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_6	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_7	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_4	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_5	Фокус-огонь
 unit_abilities_onscreen_name_unit_pack_leader	Вожак стаи
 unit_abilities_onscreen_name_unit_hail_of_stones_8	Град камней
 unit_abilities_onscreen_name_unit_hail_of_stones_9	Град камней
@@ -720,7 +720,7 @@ unit_abilities_onscreen_name_unit_melee_flaming_javelin_bar_4	Огненный �
 unit_abilities_onscreen_name_unit_melee_flaming_javelin_bar_9	Огненный бросок
 unit_abilities_onscreen_name_unit_melee_flaming_javelin_bar_8	Огненный бросок
 unit_abilities_tooltip_text_con_bar_dog_whistle_level_10	Временно повышает [[col:light_grey]]скорость[[/col]] ваших боевых псов.
-unit_abilities_onscreen_name_unit_rapid_shot	Быстрая стрельба
+unit_abilities_onscreen_name_unit_rapid_shot	Быстр. огонь
 unit_abilities_targets_unit_numidian_throw_3	[[col:light_grey]]Земля[[/col]]
 unit_abilities_targets_unit_numidian_throw_2	[[col:light_grey]]Земля[[/col]]
 unit_abilities_targets_unit_numidian_throw_1	[[col:light_grey]]Земля[[/col]]
@@ -731,9 +731,9 @@ unit_abilities_targets_unit_numidian_throw_4	[[col:light_grey]]Земля[[/col]
 unit_abilities_targets_unit_numidian_throw_9	[[col:light_grey]]Земля[[/col]]
 unit_abilities_targets_unit_numidian_throw_8	[[col:light_grey]]Земля[[/col]]
 unit_abilities_ability_effects_unit_concentrated_fire	Запуск снаряда, цель на земле, сброс таймеров перезарядки
-unit_abilities_onscreen_name_commander_hunter	Охотник на полководцев
+unit_abilities_onscreen_name_commander_hunter	Охотник
 unit_abilities_ability_effects_unit_ji_thrust	Удар, отбрасывание, урон
-unit_abilities_onscreen_name_unit_shield_slam	Сокрушение
+unit_abilities_onscreen_name_unit_shield_slam	Удар
 unit_abilities_onscreen_name_unit_flaming_snipe_rom_9	Огненный выстрел
 unit_abilities_onscreen_name_unit_flaming_snipe_rom_8	Огненный выстрел
 unit_abilities_ability_effects_unit_numidian_advance	Бонус, область
@@ -749,7 +749,7 @@ unit_abilities_onscreen_name_unit_flaming_snipe_gre_7	Огненный выст�
 unit_abilities_affects_unit_sacred_onslaught	[[col:alliance_enemy]]Вражеские отряды[[/col]], [[col:alliance_player]]на себя[[/col]]
 unit_abilities_onscreen_name_unit_flaming_snipe_bar_7	Огненный выстрел
 unit_abilities_onscreen_name_unit_flaming_snipe_bar_6	Огненный выстрел
-unit_abilities_onscreen_name_unit_defensive_testeudo	Оборонительная черепаха
+unit_abilities_onscreen_name_unit_defensive_testeudo	Оборон. черепаха
 unit_abilities_affects_con_chi_mafeisan_level_10	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_ability_effects_raise_shields	Бонус, переключатель
 unit_abilities_onscreen_name_unit_numidian_throw_4	Нумидийский бросок
@@ -767,14 +767,14 @@ unit_abilities_onscreen_name_unit_numidian_throw_2	Нумидийский бро
 unit_abilities_onscreen_name_unit_numidian_throw_3	Нумидийский бросок
 unit_abilities_onscreen_name_unit_numidian_throw_8	Нумидийский бросок
 unit_abilities_onscreen_name_unit_numidian_throw_9	Нумидийский бросок
-unit_abilities_onscreen_name_unit_focus_fire_javelins_car_t9	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_javelins_car_t8	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_car_t9	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_car_t8	Фокус-огонь
 unit_abilities_affects_unit_melee_aoe	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзные отряды[[/col]]
 unit_abilities_onscreen_name_scorched_earth	Выжженная земля
-unit_abilities_onscreen_name_con_rom_caltrops_level_10	Проволочные Ежи
+unit_abilities_onscreen_name_con_rom_caltrops_level_10	Ежи
 unit_abilities_ability_effects_snipe	Бонус, несколько фаз
 unit_abilities_tooltip_text_con_bar_intoxicate_level_10	Резко повышает [[col:light_grey]]атаку в ближнем бою[[/col]] ненадолго, но отряд получает [[col:light_grey]]урон[[/col]].
-unit_abilities_onscreen_name_con_gre_caltrops_level_10	Проволочные Ежи
+unit_abilities_onscreen_name_con_gre_caltrops_level_10	Ежи
 unit_abilities_tooltip_text_con_melqart_horn_level_9	Сильно повышает [[col:light_grey]]скорость поворота[[/col]] отряда.
 unit_abilities_tooltip_text_unit_gore	[[col:light_grey]]Удар[[/col]] по врагам перед слоном с повышенным [[col:light_grey]]уроном[[/col]]; всегда [[col:light_grey]]отбрасывает[[/col]] их.
 unit_abilities_tooltip_text_con_melqart_horn_level_8	Сильно повышает [[col:light_grey]]скорость поворота[[/col]] отряда.
@@ -879,7 +879,7 @@ unit_abilities_affects_con_gre_share_rations_level_1	[[col:alliance_ally]]Сою
 unit_abilities_affects_con_gre_share_rations_level_2	[[col:alliance_ally]]Союзные отряды[[/col]]
 unit_abilities_affects_con_gre_share_rations_level_3	[[col:alliance_ally]]Союзные отряды[[/col]]
 unit_abilities_onscreen_name_unit_eviscerate	Потрошение
-unit_abilities_onscreen_name_unit_knockdown	Сбивание с ног
+unit_abilities_onscreen_name_unit_knockdown	Сбит
 unit_abilities_tooltip_text_unit_raise_eagle	Ненадолго повышает [[col:light_grey]]мораль[[/col]] этого и всех ближайших союзных отрядов.
 unit_abilities_onscreen_name_unit_rank_1_sparabara	Ранг 1
 unit_abilities_onscreen_name_unit_rank_2_sparabara	Ранг 2
@@ -968,7 +968,7 @@ unit_abilities_tooltip_text_unit_equipment_morale_debuff_aoe	Вид отряда
 unit_abilities_onscreen_name_unit_flaming_snipe_rom_10	Огненный выстрел
 unit_abilities_onscreen_name_con_melqart_horn_level_10	Рог Мелькарта X
 unit_abilities_onscreen_name_unit_bar_throw_javelins_10	Бросок дротика
-unit_abilities_onscreen_name_unit_lone_wolf	Одинокий волк
+unit_abilities_onscreen_name_unit_lone_wolf	Одиночка
 unit_abilities_tooltip_text_unit_heavy_cavalry_charge	Сокрушительный [[col:light_grey]]рывок[[/col]] вперёд.
 unit_abilities_ability_effects_unit_focus_fire_bolts_chi_8	Запуск снаряда, цель на земле, сброс таймеров перезарядки
 unit_abilities_ability_effects_unit_focus_fire_bolts_chi_9	Запуск снаряда, цель на земле, сброс таймеров перезарядки
@@ -985,7 +985,7 @@ unit_abilities_ability_effects_002_com_heavy_infantry_charge	Рывок
 unit_abilities_ability_effects_003_com_heavy_infantry_charge	Рывок
 unit_abilities_ability_effects_004_com_heavy_infantry_charge	Рывок
 unit_abilities_ability_effects_005_com_heavy_infantry_charge	Рывок
-unit_abilities_onscreen_name_unit_light_spot_stance	Обнаружение
+unit_abilities_onscreen_name_unit_light_spot_stance	Замечен
 unit_abilities_affects_test_custom_formation	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_onscreen_name_unit_reposition	Перестроение
 unit_abilities_onscreen_name_unit_encourage	Ободрение
@@ -1018,7 +1018,7 @@ unit_abilities_ability_effects_unit_camelry_charge	Рывок
 unit_abilities_ability_effects_unit_cavalry_charge	Рывок
 unit_abilities_affects_con_melqart_horn_level_10	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_onscreen_name_con_drill_whistle_level_10	Учебный свисток X
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_qin_crossbow	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_qin_crossbow	Фокус-огонь
 unit_abilities_tooltip_text_con_rom_caltrops_level_7	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
 unit_abilities_tooltip_text_con_rom_caltrops_level_6	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
 unit_abilities_tooltip_text_con_rom_caltrops_level_5	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
@@ -1027,10 +1027,10 @@ unit_abilities_tooltip_text_con_rom_caltrops_level_3	Разбрасывает ч
 unit_abilities_tooltip_text_con_rom_caltrops_level_2	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
 unit_abilities_unit_types_available_to_Zhuge_liang_2	[[col:light_grey]]Дальняя пехота[[/col]]
 unit_abilities_tooltip_text_con_rom_caltrops_level_1	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
-unit_abilities_onscreen_name_unit_focus_fire_bow_t3	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_bow_t2	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_bow_t3	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_bow_t2	Фокус-огонь
 unit_abilities_tooltip_text_con_rom_caltrops_level_9	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
-unit_abilities_onscreen_name_unit_focus_fire_bow_t1	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_bow_t1	Фокус-огонь
 unit_abilities_tooltip_text_con_rom_caltrops_level_8	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
 unit_abilities_onscreen_name_unit_wild_temper	Дикий нрав
 unit_abilities_onscreen_name_unit_gladiator_phalanx	Фаланга гладиаторов
@@ -1051,23 +1051,23 @@ unit_abilities_ability_effects_unit_formation_attack	Строй, переклю�
 unit_abilities_ability_effects_unit_horseback_throw	Запуск снаряда, цель на земле, сброс таймеров перезарядки
 unit_abilities_onscreen_name_unit_shields_up	Щиты вверх
 unit_abilities_tooltip_text_unit_heavy_pila_10	Тяжёлый дротик по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. Меньше [[col:light_grey]]дальность[[/col]], больше [[col:light_grey]]урон[[/col]].
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_pre_machimoi_archers	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_pre_machimoi_archers	Фокус-огонь
 unit_abilities_affects_unit_mounted_combat	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_tooltip_text_unit_power_strike	Мощный удар
 unit_abilities_tooltip_text_unit_noble_bellow	Ненадолго снижает [[col:light_grey]]отражение рывка[[/col]] всех ближайших врагов.
 unit_abilities_affects_Germanicus_4	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_Germanicus_1	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_Germanicus_3	[[col:alliance_player]]На себя[[/col]]
-unit_abilities_ability_effects_unit_knockdown	Сбивание с ног
+unit_abilities_ability_effects_unit_knockdown	Сбит
 unit_abilities_tooltip_text_con_missile_remover_level_10	Снимает любое снижение [[col:light_grey]]скорости[[/col]] от урона снарядами. 
 unit_abilities_tooltip_text_unit_tales_of_the_belgae	Хвастовство подвигами белгов повышает [[col:light_grey]]атаку в ближнем бою[[/col]], [[col:light_grey]]урон снарядами[[/col]] и [[col:light_grey]]мораль[[/col]] союзных отрядов.
 unit_abilities_tooltip_text_con_gre_whetstones_level_10	Ненадолго повышает [[col:light_grey]]бронебойный урон[[/col]].
-unit_abilities_onscreen_name_unit_light_chase_stance	Преследование
+unit_abilities_onscreen_name_unit_light_chase_stance	Погоня
 unit_abilities_tooltip_text_double_rations	Повышает [[col:light_grey]]агрессию[[/col]] и [[col:light_grey]]мораль[[/col]] отряда на один бой. 
 unit_abilities_tooltip_text_unit_car_flaming_javelins	Залп горящих дротиков по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. 
 unit_abilities_targets_unit_encourage	[[col:light_grey]]Отряд[[/col]]
 unit_abilities_tooltip_text_unit_spartan_kick	Приказ [[col:light_grey]]ударить[[/col]] ближайшего врага: [[col:light_grey]]урон[[/col]] и [[col:light_grey]]отбрасывание[[/col]] при успехе, ненадолго снижается [[col:light_grey]]атака в ближнем бою[[/col]] врага.
-unit_abilities_onscreen_name_unit_medium_speed_stance	Наступление
+unit_abilities_onscreen_name_unit_medium_speed_stance	Атака
 unit_abilities_ability_effects_unit_overpower	Вспомогательный удар, урон, отбрасывание
 unit_abilities_tooltip_text_entity_selection	Изменяет строй отряда: выберите группы бойцов и переместите их на место.
 unit_abilities_targets_unit_lone_wolf	[[col:light_grey]]На себя[[/col]]
@@ -1129,15 +1129,15 @@ unit_abilities_targets_unit_primal_cadence	[[col:light_grey]]На себя[[/col
 unit_abilities_tooltip_text_unit_challenging_shout	Дразнит врага, снижая его мораль и агрессию, пока он не нападёт на вас
 unit_abilities_ability_effects_con_tanit_banner_level_10	Бонус, область действия, ограниченное число раз
 unit_abilities_onscreen_name_natural_fortification	Природное укрепление
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t9	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t8	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t1	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t3	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t2	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t5	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t4	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t7	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t6	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t9	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t8	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t1	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t3	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t2	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t5	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t4	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t7	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t6	Фокус-огонь
 unit_abilities_affects_Zhuge_liang_1	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзные отряды[[/col]]
 unit_abilities_affects_Zhuge_liang_3	[[col:alliance_player]]На себя[[/col]], [[col:alliance_enemy]]вражеские отряды[[/col]]
 unit_abilities_tooltip_text_unit_bolts_ammunition_9	Переход на болты. Болты точнее и летят дальше камней, но поражают куда меньшую площадь.
@@ -1168,13 +1168,13 @@ unit_abilities_targets_unit_focus_fire_arrows_gre_t3	[[col:light_grey]]Земл�
 unit_abilities_tooltip_text_unit_slam	Быстрый [[col:light_grey]]удар[[/col]] по врагам, всегда [[col:light_grey]]отбрасывающий[[/col]]. Пораженный отряд теряет [[col:light_grey]]мобильность[[/col]].
 unit_abilities_targets_unit_focus_fire_arrows_gre_t1	[[col:light_grey]]Земля[[/col]]
 unit_abilities_tooltip_text_con_gre_caltrops_level_7	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
-unit_abilities_onscreen_name_unit_focus_fire_jav_t1	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_jav_t1	Фокус-огонь
 unit_abilities_tooltip_text_con_gre_caltrops_level_6	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
 unit_abilities_tooltip_text_unit_roar	Снижает [[col:light_grey]]мораль[[/col]] ближайших врагов.
 unit_abilities_tooltip_text_con_gre_caltrops_level_5	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
-unit_abilities_onscreen_name_unit_focus_fire_jav_t3	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_jav_t3	Фокус-огонь
 unit_abilities_tooltip_text_con_gre_caltrops_level_4	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
-unit_abilities_onscreen_name_unit_focus_fire_jav_t2	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_jav_t2	Фокус-огонь
 unit_abilities_tooltip_text_con_gre_caltrops_level_3	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
 unit_abilities_tooltip_text_con_gre_caltrops_level_2	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
 unit_abilities_tooltip_text_con_gre_caltrops_level_1	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
@@ -1213,10 +1213,10 @@ unit_abilities_onscreen_name_con_per_barbed_lash_level_10	Колючая пле�
 unit_abilities_tooltip_text_cantabrian_circle	Отряд стреляет, скача по кругу.
 unit_abilities_ability_effects_unit_sword_hamstring	Ослабление, контакт, вспомогательный удар
 unit_abilities_ability_effects_unit_harbinger_charge	Рывок
-unit_abilities_onscreen_name_unit_equipment_morale_buff_aoe	Вдохновляющее присутствие
+unit_abilities_onscreen_name_unit_equipment_morale_buff_aoe	Вдохновение
 unit_abilities_affects_unit_primal_cadence	[[col:alliance_ally]]Союзные отряды[[/col]], [[col:alliance_player]]на себя[[/col]]
 unit_abilities_tooltip_text_unit_mark_targets	Снижает блок снарядов врага
-unit_abilities_onscreen_name_resupply	Пополнение запасов
+unit_abilities_onscreen_name_resupply	Припасы
 unit_abilities_onscreen_name_unit_target_lock	Захват цели
 unit_abilities_tooltip_text_con_chi_vial_of_poison_level_9	Ненадолго снаряды отряда наносят повышенный [[col:light_grey]]урон[[/col]] и отравляют пораженных: падает [[col:light_grey]]скорость[[/col]] и наносится [[col:light_grey]]урон со временем[[/col]].
 unit_abilities_tooltip_text_con_chi_vial_of_poison_level_8	Ненадолго снаряды отряда наносят повышенный [[col:light_grey]]урон[[/col]] и отравляют пораженных: падает [[col:light_grey]]скорость[[/col]] и наносится [[col:light_grey]]урон со временем[[/col]].
@@ -1232,7 +1232,7 @@ unit_abilities_ability_effects_unit_traverse	Бонус, немота
 unit_abilities_onscreen_name_unit_ji_thrust	Выпад Цзи
 unit_abilities_tooltip_text_con_chi_rice_wine_level_10	Растут мораль и урон в ближнем бою, но падает атака в ближнем бою
 unit_abilities_onscreen_name_unit_spear_light_thrust	Лёгкий выпад
-unit_abilities_onscreen_name_unit_concentrated_fire	Сосредоточенный огонь
+unit_abilities_onscreen_name_unit_concentrated_fire	Фокус-огонь
 unit_abilities_tooltip_text_con_gla_snails_and_oysters_level_10	Ненадолго повышает [[col:light_grey]]урон в ближнем бою[[/col]] и [[col:light_grey]]атаку в ближнем бою[[/col]].
 unit_abilities_affects_con_blinders_level_7	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_con_blinders_level_6	[[col:alliance_player]]На себя[[/col]]
@@ -1261,20 +1261,20 @@ unit_abilities_targets_unit_sunder	[[col:light_grey]]Конус впереди[[
 unit_abilities_affects_unit_final_sacrifice	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзные отряды[[/col]]
 unit_abilities_ability_effects_con_bar_dirt_pouches_level_4	Ослабление, область действия, ограниченное число раз
 unit_abilities_ability_effects_con_bar_dirt_pouches_level_5	Ослабление, область действия, ограниченное число раз
-unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t8	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t8	Фокус-огонь
 unit_abilities_ability_effects_con_bar_dirt_pouches_level_6	Ослабление, область действия, ограниченное число раз
-unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t9	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t9	Фокус-огонь
 unit_abilities_ability_effects_con_bar_dirt_pouches_level_7	Ослабление, область действия, ограниченное число раз
 unit_abilities_ability_effects_con_bar_dirt_pouches_level_1	Ослабление, область действия, ограниченное число раз
 unit_abilities_ability_effects_con_bar_dirt_pouches_level_2	Ослабление, область действия, ограниченное число раз
 unit_abilities_ability_effects_con_bar_dirt_pouches_level_3	Ослабление, область действия, ограниченное число раз
-unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t3	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t6	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t3	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t6	Фокус-огонь
 unit_abilities_ability_effects_con_bar_dirt_pouches_level_8	Ослабление, область действия, ограниченное число раз
-unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t7	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t7	Фокус-огонь
 unit_abilities_ability_effects_con_bar_dirt_pouches_level_9	Ослабление, область действия, ограниченное число раз
-unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t4	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t5	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t4	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t5	Фокус-огонь
 unit_abilities_affects_con_gla_coena_libera_level_3	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_con_gla_coena_libera_level_2	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_con_gla_coena_libera_level_1	[[col:alliance_player]]На себя[[/col]]
@@ -1333,14 +1333,14 @@ unit_abilities_tooltip_text_unit_focus_fire_javelins_rom_7	Мгновенно з
 unit_abilities_ability_effects_test_custom_formation	Строй, переключатель
 unit_abilities_tooltip_text_unit_medium_speed_stance	В этой стойке отряд ускоряет наступление, но отказывается от слаженных атак.
 unit_abilities_tooltip_text_unit_manual_charge_harass	Короткий [[col:light_grey]]рывок[[/col]] вперёд.
-unit_abilities_onscreen_name_con_missile_remover_level_10	Устранение снарядов X
+unit_abilities_onscreen_name_con_missile_remover_level_10	Снятие снар. X
 unit_abilities_onscreen_name_unit_tales_of_the_belgae	Сказания белгов
-unit_abilities_onscreen_name_unit_barbed_javelins_8	Зазубренные дротики
-unit_abilities_onscreen_name_unit_barbed_javelins_9	Зазубренные дротики
-unit_abilities_onscreen_name_unit_barbed_javelins_4	Зазубренные дротики
-unit_abilities_onscreen_name_unit_barbed_javelins_5	Зазубренные дротики
-unit_abilities_onscreen_name_unit_barbed_javelins_6	Зазубренные дротики
-unit_abilities_onscreen_name_unit_barbed_javelins_7	Зазубренные дротики
+unit_abilities_onscreen_name_unit_barbed_javelins_8	Зубч. дротики
+unit_abilities_onscreen_name_unit_barbed_javelins_9	Зубч. дротики
+unit_abilities_onscreen_name_unit_barbed_javelins_4	Зубч. дротики
+unit_abilities_onscreen_name_unit_barbed_javelins_5	Зубч. дротики
+unit_abilities_onscreen_name_unit_barbed_javelins_6	Зубч. дротики
+unit_abilities_onscreen_name_unit_barbed_javelins_7	Зубч. дротики
 unit_abilities_ability_effects_con_rom_infantry_caltrops_level_10	Сооружение, ограниченное число раз
 unit_abilities_onscreen_name_unit_leg_sweep	Подсечка ног
 unit_abilities_ability_effects_con_per_falcon_standard_level_10	Бонус, ослабление, область действия, аура, ограниченное число раз
@@ -1372,11 +1372,11 @@ unit_abilities_ability_effects_con_pay_day_level_7	Бонус, ограниче�
 unit_abilities_ability_effects_con_pay_day_level_6	Бонус, ограниченное число раз
 unit_abilities_ability_effects_con_pay_day_level_9	Бонус, ограниченное число раз
 unit_abilities_ability_effects_con_pay_day_level_8	Бонус, ограниченное число раз
-unit_abilities_onscreen_name_unit_skirmish_tactics	Тактика застрельщиков
+unit_abilities_onscreen_name_unit_skirmish_tactics	Тактика стрелк.
 unit_abilities_tooltip_text_unit_light_chase_stance	Отряд бросается в погоню: растёт скорость, но падает защита.
 unit_abilities_ability_effects_unit_execute	Удар, урон
 unit_abilities_targets_roar	[[col:light_grey]]На себя[[/col]]
-unit_abilities_onscreen_name_unit_bow_shot	Выстрел из лука
+unit_abilities_onscreen_name_unit_bow_shot	Выстрел
 unit_abilities_tooltip_text_unit_rank_1_repeating_crossbow	РАНГ 1
 unit_abilities_tooltip_text_unit_rank_2_repeating_crossbow	РАНГ 2
 unit_abilities_tooltip_text_unit_rank_3_repeating_crossbow	РАНГ 3
@@ -1409,7 +1409,7 @@ unit_abilities_ability_effects_unit_barbed_javelins_10	Запуск снаряд
 unit_abilities_targets_unit_pack_mentality	[[col:light_grey]]На себя[[/col]]
 unit_abilities_affects_unit_cavalry_vicious_strikes	[[col:alliance_enemy]]Вражеские отряды[[/col]], [[col:alliance_player]]на себя[[/col]]
 unit_abilities_targets_unit_barbaric_slash	[[col:light_grey]]Конус впереди[[/col]]
-unit_abilities_onscreen_name_unit_sword_bleed	Кровотечение
+unit_abilities_onscreen_name_unit_sword_bleed	Кровь
 unit_abilities_affects_con_per_barbed_lash_level_6	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_con_per_barbed_lash_level_7	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_con_per_barbed_lash_level_4	[[col:alliance_player]]На себя[[/col]]
@@ -1430,22 +1430,22 @@ unit_abilities_ability_effects_con_missile_remover_level_6	Бонус, огра�
 unit_abilities_ability_effects_con_missile_remover_level_7	Бонус, ограниченное число раз
 unit_abilities_affects_con_cannae_horn_level_10	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_tooltip_text_unit_throw_pila_5	Залп дротиков по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. 
-unit_abilities_onscreen_name_con_rom_caltrops_level_1	Проволочные Ежи
+unit_abilities_onscreen_name_con_rom_caltrops_level_1	Ежи
 unit_abilities_tooltip_text_unit_throw_pila_4	Залп дротиков по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. 
 unit_abilities_tooltip_text_unit_throw_pila_7	Залп дротиков по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. 
-unit_abilities_onscreen_name_con_rom_caltrops_level_3	Проволочные Ежи
+unit_abilities_onscreen_name_con_rom_caltrops_level_3	Ежи
 unit_abilities_tooltip_text_unit_throw_pila_6	Залп дротиков по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. 
-unit_abilities_onscreen_name_con_rom_caltrops_level_2	Проволочные Ежи
+unit_abilities_onscreen_name_con_rom_caltrops_level_2	Ежи
 unit_abilities_tooltip_text_unit_throw_pila_1	Залп дротиков по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. 
-unit_abilities_onscreen_name_con_rom_caltrops_level_5	Проволочные Ежи
-unit_abilities_onscreen_name_con_rom_caltrops_level_4	Проволочные Ежи
+unit_abilities_onscreen_name_con_rom_caltrops_level_5	Ежи
+unit_abilities_onscreen_name_con_rom_caltrops_level_4	Ежи
 unit_abilities_tooltip_text_unit_throw_pila_3	Залп дротиков по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. 
-unit_abilities_onscreen_name_con_rom_caltrops_level_7	Проволочные Ежи
+unit_abilities_onscreen_name_con_rom_caltrops_level_7	Ежи
 unit_abilities_tooltip_text_unit_throw_pila_2	Залп дротиков по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. 
-unit_abilities_onscreen_name_con_rom_caltrops_level_6	Проволочные Ежи
-unit_abilities_onscreen_name_con_rom_caltrops_level_9	Проволочные Ежи
+unit_abilities_onscreen_name_con_rom_caltrops_level_6	Ежи
+unit_abilities_onscreen_name_con_rom_caltrops_level_9	Ежи
 unit_abilities_tooltip_text_unit_wild_temper	Повышает [[col:light_grey]]агрессию[[/col]] отряда и снижает [[col:light_grey]]мораль[[/col]] всех ближайших врагов. Снижает [[col:light_grey]]защиту[[/col]] применившего отряда и делает его [[col:light_grey]]немым[[/col]] на время действия.
-unit_abilities_onscreen_name_con_rom_caltrops_level_8	Проволочные Ежи
+unit_abilities_onscreen_name_con_rom_caltrops_level_8	Ежи
 unit_abilities_tooltip_text_unit_throw_pila_9	Залп дротиков по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. 
 unit_abilities_tooltip_text_unit_throw_pila_8	Залп дротиков по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. 
 unit_abilities_affects_unit_skirmish_tactics	[[col:alliance_player]]На себя[[/col]]
@@ -1514,10 +1514,10 @@ unit_abilities_tooltip_text_unit_rank_1_spear	РАНГ 1
 unit_abilities_tooltip_text_unit_rank_2_spear	РАНГ 2
 unit_abilities_tooltip_text_unit_rank_3_spear	РАНГ 3
 unit_abilities_tooltip_text_unit_rank_4_spear	РАНГ 4
-unit_abilities_onscreen_name_Vercingetorix_4	Непокорность
+unit_abilities_onscreen_name_Vercingetorix_4	Непокор.
 unit_abilities_onscreen_name_Vercingetorix_1	Природное укрепление
 unit_abilities_onscreen_name_Vercingetorix_3	Выжженная земля
-unit_abilities_onscreen_name_Vercingetorix_2	Железная дисциплина
+unit_abilities_onscreen_name_Vercingetorix_2	Жел. дисциплина
 unit_abilities_tooltip_text_unit_rank_1_sword_cavalry	РАНГ 1
 unit_abilities_tooltip_text_unit_rank_2_sword_cavalry	РАНГ 2
 unit_abilities_tooltip_text_unit_rank_3_sword_cavalry	РАНГ 3
@@ -1534,7 +1534,7 @@ unit_abilities_ability_effects_unit_focus_fire_arrows_gre_t8	Запуск сна
 unit_abilities_affects_Dong_zhuo_3	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_affects_Dong_zhuo_2	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_Dong_zhuo_1	[[col:light_grey]]Все отряды[[/col]]
-unit_abilities_onscreen_name_unit_fish_scale_testudo	Черепаха из рыбьей чешуи
+unit_abilities_onscreen_name_unit_fish_scale_testudo	Рыбья черепаха
 unit_abilities_targets_unit_whistling_arrows	[[col:light_grey]]Земля[[/col]]
 unit_abilities_onscreen_name_precision_shot	Меткий выстрел
 unit_abilities_targets_con_tanit_banner_level_10	[[col:light_grey]]На себя[[/col]]
@@ -1553,7 +1553,7 @@ unit_abilities_targets_unit_heighten_senses	[[col:light_grey]]На себя[[/co
 unit_abilities_onscreen_name_unit_hunters_javelins_5	Дротики охотника
 unit_abilities_onscreen_name_unit_cantabrian_throw_8	Кантабрийский бросок
 unit_abilities_onscreen_name_unit_cantabrian_throw_5	Кантабрийский бросок
-unit_abilities_onscreen_name_con_pay_day_level_10	День жалованья X
+unit_abilities_onscreen_name_con_pay_day_level_10	Жалованье X
 unit_abilities_affects_Hasdrubal_1	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_ability_effects_Alexander_1	Рывок
 unit_abilities_affects_Hasdrubal_2	[[col:alliance_ally]]Союзные отряды[[/col]]
@@ -1578,7 +1578,7 @@ unit_abilities_ability_effects_con_bar_brandish_heads_level_3	Ослаблени
 unit_abilities_ability_effects_con_bar_brandish_heads_level_1	Ослабление, область действия, аура, ограниченное число раз
 unit_abilities_ability_effects_con_bar_brandish_heads_level_8	Ослабление, область действия, аура, ограниченное число раз
 unit_abilities_ability_effects_con_bar_brandish_heads_level_9	Ослабление, область действия, аура, ограниченное число раз
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_dahae_archers	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_dahae_archers	Фокус-огонь
 unit_abilities_targets_Dong_zhuo_3	[[col:light_grey]]Враги рядом[[/col]], [[col:light_grey]]аура[[/col]]
 unit_abilities_targets_Dong_zhuo_1	[[col:light_grey]]Земля[[/col]]
 unit_abilities_ability_effects_unit_marching_column	Строй, переключатель
@@ -1602,16 +1602,16 @@ unit_abilities_affects_Spartacus_3	[[col:alliance_player]]На себя[[/col]],
 unit_abilities_affects_Spartacus_2	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзные отряды[[/col]]
 unit_abilities_affects_Spartacus_1	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_ability_effects_unit_heighten_senses	Ослабление, обзор, область действия
-unit_abilities_onscreen_name_con_gre_caltrops_level_1	Проволочные Ежи
-unit_abilities_onscreen_name_con_gre_caltrops_level_3	Проволочные Ежи
-unit_abilities_onscreen_name_con_gre_caltrops_level_2	Проволочные Ежи
-unit_abilities_onscreen_name_con_gre_caltrops_level_5	Проволочные Ежи
-unit_abilities_onscreen_name_con_gre_caltrops_level_4	Проволочные Ежи
-unit_abilities_onscreen_name_con_gre_caltrops_level_7	Проволочные Ежи
-unit_abilities_onscreen_name_con_gre_caltrops_level_6	Проволочные Ежи
-unit_abilities_onscreen_name_con_gre_caltrops_level_9	Проволочные Ежи
+unit_abilities_onscreen_name_con_gre_caltrops_level_1	Ежи
+unit_abilities_onscreen_name_con_gre_caltrops_level_3	Ежи
+unit_abilities_onscreen_name_con_gre_caltrops_level_2	Ежи
+unit_abilities_onscreen_name_con_gre_caltrops_level_5	Ежи
+unit_abilities_onscreen_name_con_gre_caltrops_level_4	Ежи
+unit_abilities_onscreen_name_con_gre_caltrops_level_7	Ежи
+unit_abilities_onscreen_name_con_gre_caltrops_level_6	Ежи
+unit_abilities_onscreen_name_con_gre_caltrops_level_9	Ежи
 unit_abilities_onscreen_name_Xerxes_1	Бодрящий удар
-unit_abilities_onscreen_name_con_gre_caltrops_level_8	Проволочные Ежи
+unit_abilities_onscreen_name_con_gre_caltrops_level_8	Ежи
 unit_abilities_onscreen_name_Xerxes_2	Плеть тирана
 unit_abilities_onscreen_name_Xerxes_3	Трепещите перед Ксерксом!
 unit_abilities_onscreen_name_assemble_engines_fast	Развернуть / свернуть машины
@@ -1679,7 +1679,7 @@ unit_abilities_ability_effects_unit_elites_presence	Бонус, область �
 unit_abilities_tooltip_text_unit_melee_aoe	Воодушевляет всех союзников рядом: ненадолго растут [[col:light_grey]]агрессия[[/col]] и [[col:light_grey]]защита[[/col]].
 unit_abilities_tooltip_text_unit_battle_cry	Повышает [[col:light_grey]]мораль[[/col]] всех ближайших союзников. 
 unit_abilities_ability_effects_con_chi_vial_of_poison_level_10	Урон со временем, ослабление, ограниченное число зарядов
-unit_abilities_onscreen_name_unit_sword_parry	Парирование
+unit_abilities_onscreen_name_unit_sword_parry	Парир.
 unit_abilities_ability_effects_unit_light_pila_10	Запуск снаряда, цель — отряд
 unit_abilities_unit_types_available_to_Alexander_1	[[col:light_grey]]Пехота ближнего боя, стрелковая пехота, кавалерия[[/col]]
 unit_abilities_unit_types_available_to_Alexander_2	[[col:light_grey]]Пехота и кавалерия ближнего боя[[/col]]
@@ -1696,7 +1696,7 @@ unit_abilities_tooltip_text_unit_light_pila_6	Лёгкий дротик по в�
 unit_abilities_tooltip_text_unit_light_pila_7	Лёгкий дротик по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании.
 unit_abilities_tooltip_text_unit_light_pila_4	Лёгкий дротик по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании.
 unit_abilities_tooltip_text_unit_light_pila_5	Лёгкий дротик по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании.
-unit_abilities_tooltip_text_commander_hunter	Охотник на полководцев
+unit_abilities_tooltip_text_commander_hunter	Охотник
 unit_abilities_tooltip_text_unit_light_pila_8	Лёгкий дротик по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании.
 unit_abilities_tooltip_text_unit_light_pila_9	Лёгкий дротик по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании.
 unit_abilities_tooltip_text_unit_bar_throw_javelins_10	Залп дротиков по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. 
@@ -1730,10 +1730,10 @@ unit_abilities_onscreen_name_con_cannae_horn_level_6	Рог Канн VI
 unit_abilities_onscreen_name_con_cannae_horn_level_1	Рог Канн I
 unit_abilities_onscreen_name_con_cannae_horn_level_3	Рог Канн III
 unit_abilities_onscreen_name_con_cannae_horn_level_2	Рог Канн II
-unit_abilities_onscreen_name_con_bar_dog_whistle_level_10	Собачий свисток X
-unit_abilities_onscreen_name_Cynane_1	Заграждение
+unit_abilities_onscreen_name_con_bar_dog_whistle_level_10	Свисток X
+unit_abilities_onscreen_name_Cynane_1	Заграда
 unit_abilities_onscreen_name_Cynane_3	Шок
-unit_abilities_onscreen_name_Cynane_2	Быстрое Продвижение
+unit_abilities_onscreen_name_Cynane_2	Быстр. марш
 unit_abilities_onscreen_name_Cynane_5	Резня
 unit_abilities_onscreen_name_Cynane_4	Охота
 unit_abilities_ability_effects_unit_vengeful_strike	Урон, удар, бонус, отсрочка смерти
@@ -1776,7 +1776,7 @@ unit_abilities_tooltip_text_unit_heavy_pila_2	Тяжёлый дротик по �
 unit_abilities_tooltip_text_unit_heavy_pila_3	Тяжёлый дротик по врагу: [[col:light_grey]]урон[[/col]] и снижение [[col:light_grey]]скорости[[/col]] при каждом попадании. Меньше [[col:light_grey]]дальность[[/col]], больше [[col:light_grey]]урон[[/col]].
 unit_abilities_onscreen_name_Scipio_1	Быстрый марш
 unit_abilities_ability_effects_unit_sacred_onslaught	Отбрасывание, урон, удар
-unit_abilities_onscreen_name_Scipio_2	Боевой клич
+unit_abilities_onscreen_name_Scipio_2	Клич
 unit_abilities_onscreen_name_Scipio_3	Гнев Марса
 unit_abilities_tooltip_text_unit_focus_fire_bolts_chi_10	Мгновенно запускает залп мощных горящих снарядов по области.
 unit_abilities_onscreen_name_Scipio_4	Клятва стойкости
@@ -1827,7 +1827,7 @@ unit_abilities_tooltip_text_unit_aim	Прицельная стрельба не�
 unit_abilities_targets_unit_numidian_advance	[[col:light_grey]]На себя[[/col]]
 unit_abilities_affects_unit_barbed_javelins_9	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_affects_unit_barbed_javelins_8	[[col:alliance_enemy]]Вражеские отряды[[/col]]
-unit_abilities_onscreen_name_unit_heavy_shot_10	Тяжёлый выстрел
+unit_abilities_onscreen_name_unit_heavy_shot_10	Тяж. выстрел
 unit_abilities_affects_unit_barbed_javelins_5	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_affects_unit_barbed_javelins_4	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_affects_unit_barbed_javelins_7	[[col:alliance_enemy]]Вражеские отряды[[/col]]
@@ -1838,7 +1838,7 @@ unit_abilities_tooltip_text_unit_heavy_shot_9	Залп тяжёлых камне
 unit_abilities_tooltip_text_unit_heavy_shot_8	Залп тяжёлых камней: повышенный [[col:light_grey]]урон[[/col]] и [[col:light_grey]]сбивание с ног[[/col]].
 unit_abilities_tooltip_text_unit_heavy_shot_7	Залп тяжёлых камней: повышенный [[col:light_grey]]урон[[/col]] и [[col:light_grey]]сбивание с ног[[/col]].
 unit_abilities_tooltip_text_unit_heavy_shot_6	Залп тяжёлых камней: повышенный [[col:light_grey]]урон[[/col]] и [[col:light_grey]]сбивание с ног[[/col]].
-unit_abilities_onscreen_name_unit_numidian_advance	Нумидийское наступление
+unit_abilities_onscreen_name_unit_numidian_advance	Нумид. натиск
 unit_abilities_tooltip_text_unit_pack_leader	Утвердите превосходство. Общий бонус всем боевым псам рядом.
 unit_abilities_affects_unit_diomedes_revenge	[[col:alliance_enemy]]Вражеские отряды[[/col]], [[col:alliance_player]]на себя[[/col]]
 unit_abilities_ability_effects_005_com_infantry_charge	Рывок
@@ -1860,7 +1860,7 @@ unit_abilities_ability_effects_unit_numidian_throw_9	Запуск снаряда
 unit_abilities_ability_effects_unit_numidian_throw_4	Запуск снаряда, цель на земле
 unit_abilities_onscreen_name_Cyrus_1	Око Аши
 unit_abilities_ability_effects_unit_numidian_throw_5	Запуск снаряда, цель на земле
-unit_abilities_onscreen_name_Cyrus_2	Зажигательный выстрел
+unit_abilities_onscreen_name_Cyrus_2	Зажиг. выстрел
 unit_abilities_ability_effects_unit_numidian_throw_6	Запуск снаряда, цель на земле
 unit_abilities_onscreen_name_Cyrus_3	Бессмертие
 unit_abilities_ability_effects_unit_numidian_throw_7	Запуск снаряда, цель на земле
@@ -1909,7 +1909,7 @@ unit_abilities_targets_con_bar_dog_whistle_level_3	[[col:alliance_player]]На �
 unit_abilities_ability_effects_con_elephant_wine_level_10	Бонус, ограниченное число раз
 unit_abilities_tooltip_text_unit_focus_fire_arrows_rom_pre_t4	Мгновенно запускает залп мощных горящих снарядов по области.
 unit_abilities_tooltip_text_unit_focus_fire_arrows_rom_pre_t7	Мгновенно запускает залп мощных горящих снарядов по области.
-unit_abilities_onscreen_name_unit_stampede	Паническое бегство
+unit_abilities_onscreen_name_unit_stampede	Паника
 unit_abilities_onscreen_name_unit_ferocious_strike	Свирепый удар
 unit_abilities_onscreen_name_unit_rank_3_crossbow	Ранг 3
 unit_abilities_tooltip_text_unit_spear_at_arms_length_stance	Длина копья позволяет держать врага на расстоянии: растёт защита, но падает шанс нанести урон.
@@ -2103,25 +2103,25 @@ unit_abilities_targets_unit_melee_flaming_javelin_bar_9	[[col:light_grey]]Отр
 unit_abilities_onscreen_name_test_unit_strike_1	Удар
 unit_abilities_ability_effects_unit_heavy_shot_7	Запуск снаряда, цель на земле
 unit_abilities_ability_effects_unit_heavy_shot_6	Запуск снаряда, цель на земле
-unit_abilities_onscreen_name_con_missile_remover_level_9	Устранение снарядов IX
+unit_abilities_onscreen_name_con_missile_remover_level_9	Снятие снар. IX
 unit_abilities_onscreen_name_unit_rank_4_camelry	Ранг 4
-unit_abilities_onscreen_name_con_missile_remover_level_8	Устранение снарядов VIII
+unit_abilities_onscreen_name_con_missile_remover_level_8	Снятие снар. VIII
 unit_abilities_onscreen_name_unit_rank_2_camelry	Ранг 2
 unit_abilities_onscreen_name_unit_rank_3_camelry	Ранг 3
 unit_abilities_onscreen_name_unit_rank_1_camelry	Ранг 1
-unit_abilities_onscreen_name_con_missile_remover_level_3	Устранение снарядов III
-unit_abilities_onscreen_name_con_missile_remover_level_2	Устранение снарядов II
-unit_abilities_onscreen_name_con_missile_remover_level_1	Устранение снарядов I
-unit_abilities_onscreen_name_con_missile_remover_level_7	Устранение снарядов VII
+unit_abilities_onscreen_name_con_missile_remover_level_3	Снятие снар. III
+unit_abilities_onscreen_name_con_missile_remover_level_2	Снятие снар. II
+unit_abilities_onscreen_name_con_missile_remover_level_1	Снятие снар. I
+unit_abilities_onscreen_name_con_missile_remover_level_7	Снятие снар. VII
 unit_abilities_tooltip_text_unit_focus_fire_javelins_gre_pre_t7	Мгновенно запускает залп мощных горящих снарядов по области.
-unit_abilities_onscreen_name_con_missile_remover_level_6	Устранение снарядов VI
+unit_abilities_onscreen_name_con_missile_remover_level_6	Снятие снар. VI
 unit_abilities_tooltip_text_unit_focus_fire_javelins_gre_pre_t4	Мгновенно запускает залп мощных горящих снарядов по области.
-unit_abilities_onscreen_name_con_missile_remover_level_5	Устранение снарядов V
+unit_abilities_onscreen_name_con_missile_remover_level_5	Снятие снар. V
 unit_abilities_ability_effects_unit_heavy_shot_9	Запуск снаряда, цель на земле
-unit_abilities_onscreen_name_con_missile_remover_level_4	Устранение снарядов IV
+unit_abilities_onscreen_name_con_missile_remover_level_4	Снятие снар. IV
 unit_abilities_ability_effects_unit_heavy_shot_8	Запуск снаряда, цель на земле
 unit_abilities_onscreen_name_unit_rank_2_war_elephant	Ранг 2
-unit_abilities_onscreen_name_unit_barbed_javelins_10	Зазубренные дротики
+unit_abilities_onscreen_name_unit_barbed_javelins_10	Зубч. дротики
 unit_abilities_tooltip_text_unit_numidian_throw_6	Залп смертоносных дротиков в выбранную точку.
 unit_abilities_tooltip_text_unit_numidian_throw_7	Залп смертоносных дротиков в выбранную точку.
 unit_abilities_tooltip_text_unit_numidian_throw_4	Залп смертоносных дротиков в выбранную точку.
@@ -2140,7 +2140,7 @@ unit_abilities_ability_effects_unit_aim	Бонус
 unit_abilities_tooltip_text_unit_cavalry_vicious_strikes	Бойцы наносят [[col:light_grey]]удар[[/col]]: [[col:light_grey]]урон[[/col]] и [[col:light_grey]]отбрасывание[[/col]] при успехе, затем ненадолго растёт [[col:light_grey]]урон в ближнем бою[[/col]]. После эффекта [[col:light_grey]]скорость[[/col]] отряда временно падает.
 unit_abilities_tooltip_text_unit_draw_falcatas	Бросить пику, достать клинок.
 unit_abilities_tooltip_text_con_chi_mafeisan_level_10	Немного [[col:light_grey]]лечит[[/col]], но снижает [[col:light_grey]]скорость[[/col]]. Нельзя в бою; павших не воскрешает.
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_wu_marines	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_wu_marines	Фокус-огонь
 unit_abilities_onscreen_name_Ambiorix_2	Калечащий выстрел
 unit_abilities_onscreen_name_Ambiorix_3	Из тени
 unit_abilities_onscreen_name_Ambiorix_1	Спешка
@@ -2182,7 +2182,7 @@ unit_abilities_affects_con_cannae_horn_level_5	[[col:alliance_player]]На се�
 unit_abilities_affects_con_cannae_horn_level_2	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_con_cannae_horn_level_3	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_con_cannae_horn_level_1	[[col:alliance_player]]На себя[[/col]]
-unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t10	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t10	Фокус-огонь
 unit_abilities_ability_effects_con_gre_whetstones_level_10	Бонус, ограниченное число раз
 unit_abilities_tooltip_text_unit_tiger_unleash	Вожатые отправляют тигров в точку. Вдали от вожатых тигры атакуют любого врага рядом. Отключите способность, чтобы вернуть их.
 unit_abilities_ability_effects_unit_indomitable	Бонус
@@ -2220,18 +2220,18 @@ unit_abilities_affects_con_elephant_wine_level_2	[[col:alliance_player]]На с�
 unit_abilities_tooltip_text_unit_focus_fire_javelins_bar_pre_t6	Мгновенно запускает залп мощных горящих снарядов по области.
 unit_abilities_ability_effects_unit_flaming_snipe_bar_6	Бонус, несколько фаз
 unit_abilities_ability_effects_unit_light_pila_7	Запуск снаряда, цель — отряд
-unit_abilities_onscreen_name_con_pay_day_level_2	День жалованья II
+unit_abilities_onscreen_name_con_pay_day_level_2	Жалованье II
 unit_abilities_ability_effects_unit_flaming_snipe_rom_9	Бонус, несколько фаз
-unit_abilities_onscreen_name_con_pay_day_level_3	День жалованья III
+unit_abilities_onscreen_name_con_pay_day_level_3	Жалованье III
 unit_abilities_ability_effects_unit_flaming_snipe_rom_8	Бонус, несколько фаз
-unit_abilities_onscreen_name_con_pay_day_level_1	День жалованья I
-unit_abilities_onscreen_name_con_pay_day_level_6	День жалованья VI
+unit_abilities_onscreen_name_con_pay_day_level_1	Жалованье I
+unit_abilities_onscreen_name_con_pay_day_level_6	Жалованье VI
 unit_abilities_targets_unit_focus_fire_arrows_bar_t10	[[col:light_grey]]Земля[[/col]]
-unit_abilities_onscreen_name_con_pay_day_level_7	День жалованья VII
-unit_abilities_onscreen_name_con_pay_day_level_4	День жалованья IV
-unit_abilities_onscreen_name_con_pay_day_level_5	День жалованья V
-unit_abilities_onscreen_name_con_pay_day_level_8	День жалованья VIII
-unit_abilities_onscreen_name_con_pay_day_level_9	День жалованья IX
+unit_abilities_onscreen_name_con_pay_day_level_7	Жалованье VII
+unit_abilities_onscreen_name_con_pay_day_level_4	Жалованье IV
+unit_abilities_onscreen_name_con_pay_day_level_5	Жалованье V
+unit_abilities_onscreen_name_con_pay_day_level_8	Жалованье VIII
+unit_abilities_onscreen_name_con_pay_day_level_9	Жалованье IX
 unit_abilities_ability_effects_unit_flaming_snipe_rom_7	Бонус, несколько фаз
 unit_abilities_ability_effects_unit_flaming_snipe_rom_6	Бонус, несколько фаз
 unit_abilities_tooltip_text_unit_deadly_harass	Короткий мощный [[col:light_grey]]рывок[[/col]] вперёд.
@@ -2314,10 +2314,10 @@ unit_abilities_tooltip_text_unit_elites_presence	Воодушевляет все
 unit_abilities_tooltip_text_unit_shield_tackle	Отряд налетает на противника щитами, ненадолго снижая его защиту.
 unit_abilities_tooltip_text_unit_camelry_charge	Мощный [[col:light_grey]]рывок[[/col]] вперёд.
 unit_abilities_tooltip_text_unit_cavalry_charge	Мощный [[col:light_grey]]рывок[[/col]] вперёд.
-unit_abilities_onscreen_name_unit_quick_reload	Быстрая перезарядка
+unit_abilities_onscreen_name_unit_quick_reload	Быстр. заряд
 unit_abilities_onscreen_name_Germanicus_4	Возмездие
 unit_abilities_targets_unit_chosen_ally	[[col:light_grey]]Отряд[[/col]]
-unit_abilities_onscreen_name_Germanicus_2	Оборонительная черепаха
+unit_abilities_onscreen_name_Germanicus_2	Оборон. черепаха
 unit_abilities_tooltip_text_unit_evasion	Ненадолго повышает [[col:light_grey]]защиту в ближнем бою[[/col]] и [[col:light_grey]]блок снарядов[[/col]].
 unit_abilities_onscreen_name_Germanicus_3	Черепаха
 unit_abilities_onscreen_name_Germanicus_1	Рывок тяжелой пехоты
@@ -2351,11 +2351,11 @@ unit_abilities_tooltip_text_con_bar_incentives_level_5	Временно повы
 unit_abilities_ability_effects_unit_focus_fire_arrows_gre_t10	Запуск снаряда, цель на земле, сброс таймеров перезарядки
 unit_abilities_onscreen_name_Liu_bei_1	Названый брат
 unit_abilities_onscreen_name_Liu_bei_3	Единство
-unit_abilities_onscreen_name_Liu_bei_2	Добродетельное присутствие
+unit_abilities_onscreen_name_Liu_bei_2	Добродетель
 unit_abilities_onscreen_name_Cao_cao_3	Кукловод
-unit_abilities_onscreen_name_Sun_ren_2	Пронзающий выстрел
+unit_abilities_onscreen_name_Sun_ren_2	Пронзание
 unit_abilities_onscreen_name_Cao_cao_2	На шаг впереди
-unit_abilities_onscreen_name_Sun_ren_3	Смертельная точность
+unit_abilities_onscreen_name_Sun_ren_3	Точность
 unit_abilities_onscreen_name_Cao_cao_1	Оппортунист
 unit_abilities_onscreen_name_Sun_ren_1	Удар в горло
 unit_abilities_tooltip_text_unit_shield_screen	Медленный [[col:light_grey]]строй[[/col]] повышает [[col:light_grey]]отражение рывка[[/col]] и [[col:light_grey]]блок снарядов[[/col]].
@@ -2460,7 +2460,7 @@ unit_abilities_affects_con_per_falcon_standard_level_8	[[col:alliance_player]]Н
 unit_abilities_affects_con_per_falcon_standard_level_9	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзники[[/col]], [[col:alliance_enemy]]вражеские отряды[[/col]]
 unit_abilities_affects_con_per_falcon_standard_level_2	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзники[[/col]], [[col:alliance_enemy]]вражеские отряды[[/col]]
 unit_abilities_affects_con_per_falcon_standard_level_3	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзники[[/col]], [[col:alliance_enemy]]вражеские отряды[[/col]]
-unit_abilities_onscreen_name_Alexander_2	Наковальня
+unit_abilities_onscreen_name_Alexander_2	Накв.
 unit_abilities_onscreen_name_Alexander_1	Молот
 unit_abilities_affects_con_per_falcon_standard_level_1	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзники[[/col]], [[col:alliance_enemy]]вражеские отряды[[/col]]
 unit_abilities_affects_con_per_falcon_standard_level_6	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзники[[/col]], [[col:alliance_enemy]]вражеские отряды[[/col]]
@@ -2474,16 +2474,16 @@ unit_abilities_tooltip_text_unit_poisoned_repeating_bolts	Ненадолго с�
 unit_abilities_tooltip_text_unit_prowl	Приказывает псам идти в точку с пониженной [[col:light_grey]]скоростью[[/col]]. Заметив врага, они нападают с повышенной [[col:light_grey]]агрессией[[/col]]. 
 unit_abilities_ability_effects_unit_fish_scale_testudo	Строй, переключатель
 unit_abilities_ability_effects_unit_suppress_repeating_crossbow	Ослабление
-unit_abilities_onscreen_name_con_gla_coena_libera_level_1	Свободная трапеза I
-unit_abilities_onscreen_name_con_gla_coena_libera_level_2	Свободная трапеза II
-unit_abilities_onscreen_name_con_gla_coena_libera_level_3	Свободная трапеза III
-unit_abilities_onscreen_name_con_gla_coena_libera_level_4	Свободная трапеза IV
-unit_abilities_onscreen_name_con_gla_coena_libera_level_5	Свободная трапеза V
-unit_abilities_onscreen_name_con_gla_coena_libera_level_6	Свободная трапеза VI
+unit_abilities_onscreen_name_con_gla_coena_libera_level_1	Трапеза I
+unit_abilities_onscreen_name_con_gla_coena_libera_level_2	Трапеза II
+unit_abilities_onscreen_name_con_gla_coena_libera_level_3	Трапеза III
+unit_abilities_onscreen_name_con_gla_coena_libera_level_4	Трапеза IV
+unit_abilities_onscreen_name_con_gla_coena_libera_level_5	Трапеза V
+unit_abilities_onscreen_name_con_gla_coena_libera_level_6	Трапеза VI
 unit_abilities_ability_effects_unit_manual_charge_brutal	Рывок
-unit_abilities_onscreen_name_con_gla_coena_libera_level_7	Свободная трапеза VII
-unit_abilities_onscreen_name_con_gla_coena_libera_level_8	Свободная трапеза VIII
-unit_abilities_onscreen_name_con_gla_coena_libera_level_9	Свободная трапеза IX
+unit_abilities_onscreen_name_con_gla_coena_libera_level_7	Трапеза VII
+unit_abilities_onscreen_name_con_gla_coena_libera_level_8	Трапеза VIII
+unit_abilities_onscreen_name_con_gla_coena_libera_level_9	Трапеза IX
 unit_abilities_affects_unit_dash	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_unit_rush	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_tooltip_text_unit_rank_4_light_artillery	РАНГ 4
@@ -2534,16 +2534,16 @@ unit_abilities_ability_effects_con_chi_imperial_decree_level_7	Ограниче�
 unit_abilities_ability_effects_con_chi_imperial_decree_level_6	Ограниченное число зарядов, бонус
 unit_abilities_tooltip_text_con_gre_caltrops_level_10	Разбрасывает чеснок по выбранной области. Все, кто пересечёт её, получают [[col:light_grey]]урон[[/col]] и теряют [[col:light_grey]]скорость[[/col]].
 unit_abilities_onscreen_name_com_entity_selection	Выбор бойцов — уровень 1
-unit_abilities_onscreen_name_con_bar_dog_whistle_level_9	Собачий свисток IX
-unit_abilities_onscreen_name_con_bar_dog_whistle_level_8	Собачий свисток VIII
+unit_abilities_onscreen_name_con_bar_dog_whistle_level_9	Свисток IX
+unit_abilities_onscreen_name_con_bar_dog_whistle_level_8	Свисток VIII
 unit_abilities_targets_mount_kick	[[col:light_grey]]Конус впереди[[/col]]
-unit_abilities_onscreen_name_con_bar_dog_whistle_level_3	Собачий свисток III
-unit_abilities_onscreen_name_con_bar_dog_whistle_level_2	Собачий свисток II
-unit_abilities_onscreen_name_con_bar_dog_whistle_level_1	Собачий свисток I
-unit_abilities_onscreen_name_con_bar_dog_whistle_level_7	Собачий свисток VII
-unit_abilities_onscreen_name_con_bar_dog_whistle_level_6	Собачий свисток VI
-unit_abilities_onscreen_name_con_bar_dog_whistle_level_5	Собачий свисток V
-unit_abilities_onscreen_name_con_bar_dog_whistle_level_4	Собачий свисток IV
+unit_abilities_onscreen_name_con_bar_dog_whistle_level_3	Свисток III
+unit_abilities_onscreen_name_con_bar_dog_whistle_level_2	Свисток II
+unit_abilities_onscreen_name_con_bar_dog_whistle_level_1	Свисток I
+unit_abilities_onscreen_name_con_bar_dog_whistle_level_7	Свисток VII
+unit_abilities_onscreen_name_con_bar_dog_whistle_level_6	Свисток VI
+unit_abilities_onscreen_name_con_bar_dog_whistle_level_5	Свисток V
+unit_abilities_onscreen_name_con_bar_dog_whistle_level_4	Свисток IV
 unit_abilities_tooltip_text_unit_clout	Приказ [[col:light_grey]]ударить[[/col]] ближайшего врага могучим ударом: [[col:light_grey]]урон[[/col]] при успехе. Даже уклонившиеся враги могут быть [[col_light_grey]]отброшены[[/col]] или [[col:light_grey]]подброшены[[/col]].
 unit_abilities_targets_Leonidas_2	[[col:light_grey]]На себя[[/col]]
 unit_abilities_tooltip_text_unit_attendants_care	Готовит союзника к бою: надолго повышает его [[col:light_grey]]защиту в ближнем бою[[/col]] и [[col:light_grey]]урон в ближнем бою[[/col]].
@@ -2589,7 +2589,7 @@ unit_abilities_ability_effects_Cyrus_1	Область, снятие тумана
 unit_abilities_tooltip_text_unit_flames_of_the_phoenix	Бойцы наносят [[col:light_grey]]удар[[/col]]: [[col:light_grey]]урон[[/col]] и [[col:light_grey]]отбрасывание[[/col]] при успехе, затем ненадолго растёт [[col:light_grey]]урон в ближнем бою[[/col]]. После эффекта [[col:light_grey]]скорость[[/col]] отряда временно падает.
 unit_abilities_onscreen_name_unit_spartan_kick	Спартанский пинок
 unit_abilities_affects_unit_pack_leader	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзные отряды[[/col]]
-unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t10	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_gre_t10	Фокус-огонь
 unit_abilities_onscreen_name_unit_pack_mentality	Стайный дух
 unit_abilities_affects_unit_noble_bellow	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_ability_effects_unit_wild_temper	Бонус, ослабление
@@ -2638,7 +2638,7 @@ unit_abilities_unit_types_available_to_Ambiorix_3	[[col:light_grey]]Лучник
 unit_abilities_unit_types_available_to_Ambiorix_2	[[col:light_grey]]Стрелковая пехота[[/col]]
 unit_abilities_ability_effects_unit_cannae_chant	Бонус, область действия, аура
 unit_abilities_tooltip_text_unit_exemplary_form	Бой с такой грацией, что вдохновляет союзников рядом
-unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_10	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_10	Фокус-огонь
 unit_abilities_tooltip_text_unit_execute	Смертоносный [[col:light_grey]]удар[[/col]] с огромным [[col:light_grey]]уроном[[/col]], но малым шансом попасть. Поражает [[col:light_grey]]сбитых с ног[[/col]] врагов.
 unit_abilities_ability_effects_unit_manual_charge_frenzy	Рывок
 unit_abilities_affects_unit_car_flaming_javelins	[[col:alliance_enemy]]Вражеские отряды[[/col]]
@@ -2805,13 +2805,13 @@ unit_abilities_affects_unit_cantabrian_throw_5	[[col:alliance_enemy]]Враже�
 unit_abilities_affects_unit_hunters_javelins_5	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_targets_unit_numidian_throw_10	[[col:light_grey]]Земля[[/col]]
 unit_abilities_tooltip_text_make_it_count	Отряд сосредотачивает взгляд и выпускает разрушительный залп.
-unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t8_eburones	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_bar_t8_eburones	Фокус-огонь
 unit_abilities_ability_effects_con_per_falcon_standard_level_8	Бонус, ослабление, область действия, аура, ограниченное число раз
 unit_abilities_ability_effects_con_per_falcon_standard_level_9	Бонус, ослабление, область действия, аура, ограниченное число раз
-unit_abilities_onscreen_name_Hasdrubal_3	Подстрекательство к измене
+unit_abilities_onscreen_name_Hasdrubal_3	Подстрекательство
 unit_abilities_onscreen_name_unit_rank_2_javelin	Ранг 2
 unit_abilities_ability_effects_con_per_falcon_standard_level_2	Бонус, ослабление, область действия, аура, ограниченное число раз
-unit_abilities_onscreen_name_Hasdrubal_2	Двойное жалованье
+unit_abilities_onscreen_name_Hasdrubal_2	Двойн. плата
 unit_abilities_onscreen_name_unit_rank_3_javelin	Ранг 3
 unit_abilities_ability_effects_con_per_falcon_standard_level_3	Бонус, ослабление, область действия, аура, ограниченное число раз
 unit_abilities_onscreen_name_Hasdrubal_1	Летучая колонна
@@ -2833,7 +2833,7 @@ unit_abilities_affects_Vercingetorix_4	[[col:alliance_player]]На себя[[/co
 unit_abilities_affects_Vercingetorix_2	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_Vercingetorix_3	[[col:light_grey]]Все отряды[[/col]]
 unit_abilities_ability_effects_unit_focus_fire_arrows_bar_t10	Запуск снаряда, цель на земле, сброс таймеров перезарядки
-unit_abilities_onscreen_name_Dong_zhuo_1	Разорение
+unit_abilities_onscreen_name_Dong_zhuo_1	Разор.
 unit_abilities_onscreen_name_Dong_zhuo_2	Крушитель клинков
 unit_abilities_onscreen_name_Dong_zhuo_3	Царство террора
 unit_abilities_onscreen_name_unit_rank_1_slinger	Ранг 1
@@ -2892,7 +2892,7 @@ unit_abilities_targets_unit_cantabrian_throw_8	[[col:light_grey]]Земля[[/co
 unit_abilities_targets_unit_cantabrian_throw_5	[[col:light_grey]]Земля[[/col]]
 unit_abilities_affects_mount_kick	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_onscreen_name_unit_crippling_blows	Калечащие удары
-unit_abilities_onscreen_name_unit_quick_reload_repeating	Быстрая перезарядка
+unit_abilities_onscreen_name_unit_quick_reload_repeating	Быстр. заряд
 unit_abilities_affects_Leonidas_1	[[col:alliance_player]]На себя[[/col]], [[col:alliance_enemy]]вражеские отряды[[/col]]
 unit_abilities_onscreen_name_unit_spartan_bond	Спартанские узы
 unit_abilities_affects_Leonidas_3	[[col:alliance_player]]На себя[[/col]]
@@ -2901,7 +2901,7 @@ unit_abilities_ability_effects_con_bar_intoxicate_level_10	Бонус, урон,
 unit_abilities_affects_con_gla_snails_and_oysters_level_10	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_targets_unit_focus_fire_arrows_bar_t8_eburones	[[col:light_grey]]Земля[[/col]]
 unit_abilities_onscreen_name_unit_stab	Выпад
-unit_abilities_onscreen_name_unit_slam	Сокрушение
+unit_abilities_onscreen_name_unit_slam	Удар
 unit_abilities_onscreen_name_unit_numidian_throw_10	Нумидийский бросок
 unit_abilities_ability_effects_unit_portents_of_victory	Бонус, ослабление, аура
 unit_abilities_onscreen_name_unit_roar	Рёв
@@ -2925,7 +2925,7 @@ unit_abilities_ability_effects_con_per_barbed_lash_level_10	Бонус, осла
 unit_abilities_tooltip_text_Zhuge_liang_2	Стойка повышает [[col:light_grey]]урон снарядами[[/col]] и [[col:light_grey]]дальность[[/col]], но снижает [[col:light_grey]]скорость[[/col]]. Полный эффект — через 10 секунд.
 unit_abilities_tooltip_text_Zhuge_liang_1	Восстанавливает [[col:light_grey]]здоровье[[/col]] раненых бойцов в области и даёт применившему отряду бонус к [[col:light_grey]]мобильности[[/col]]. Павших не воскрешает.
 unit_abilities_tooltip_text_use_the_whip	Ненадолго повышает атаку.
-unit_abilities_onscreen_name_unit_lock	Блокировка
+unit_abilities_onscreen_name_unit_lock	Блок
 unit_abilities_ability_effects_unit_shield_cover	Бонус, строй, переключатель
 unit_abilities_ability_effects_unit_bar_throw_javelins_6_spear	Запуск снаряда, цель — отряд
 unit_abilities_affects_Cynane_2	[[col:alliance_player]]На себя[[/col]]
@@ -3056,7 +3056,7 @@ unit_abilities_onscreen_name_unit_draw_falcatas	Достать фалькаты
 unit_abilities_affects_con_gla_snails_and_oysters_level_9	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_tooltip_text_Stress_Level_10	Пружины перетянуты: растут дальность и урон ценой N урона оружию. При частом применении оно может сломаться. 
 unit_abilities_targets_unit_focus_fire_arrows_gre_pre_machimoi_archers	[[col:light_grey]]Земля[[/col]]
-unit_abilities_onscreen_name_hit_and_run	Ударил и убежал
+unit_abilities_onscreen_name_hit_and_run	Бей-беги
 unit_abilities_ability_effects_unit_noble_bellow	Ослабление, область действия
 unit_abilities_onscreen_name_unit_cannae_chant	Песнь Канн
 unit_abilities_onscreen_name_unit_manual_charge_frenzy	Неистовый рывок
@@ -3149,7 +3149,7 @@ unit_abilities_ability_effects_unit_fenrirs_howl	Ослабление, обла�
 unit_abilities_onscreen_name_unit_sword_vicious_strikes	Жестокие удары
 unit_abilities_onscreen_name_unit_raise_shields	Поднять щиты
 unit_abilities_ability_effects_unit_heavy_cavalry_charge	Рывок
-unit_abilities_onscreen_name_unit_deadly_harass	Смертельное преследование
+unit_abilities_onscreen_name_unit_deadly_harass	Смерт. погоня
 unit_abilities_affects_Scipio_3	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_Scipio_2	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_affects_Scipio_4	[[col:alliance_player]]На себя[[/col]]
@@ -3199,11 +3199,11 @@ unit_abilities_tooltip_text_Dong_zhuo_1	Бросает огонь в точку,
 unit_abilities_tooltip_text_Dong_zhuo_2	Усиливает [[col:light_grey]]броню[[/col]], создавая временный [[col:light_grey]]барьер[[/col]], поглощающий урон пропорционально текущему здоровью, но замедляет.
 unit_abilities_tooltip_text_Dong_zhuo_3	Громогласный садистский смех [[col:light_grey]]отбрасывает[[/col]] соседних врагов и снижает [[col:light_grey]]агрессию[[/col]] и [[col:light_grey]]мораль[[/col]] врагов рядом.
 unit_abilities_onscreen_name_unit_bestial_defence	Звериная защита
-unit_abilities_onscreen_name_con_gla_coena_libera_level_10	Свободная трапеза X
+unit_abilities_onscreen_name_con_gla_coena_libera_level_10	Трапеза X
 unit_abilities_affects_unit_rapid_throw	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_tooltip_text_herd_and_slaughter	Круговой строй: внутрь пускает, наружу нет. Все внутри получают разрушительный урон по области.
 unit_abilities_affects_unit_spear_heavy_thrust	[[col:alliance_enemy]]Вражеские отряды[[/col]]
-unit_abilities_onscreen_name_unit_skewer	Насаживание
+unit_abilities_onscreen_name_unit_skewer	Насад.
 unit_abilities_onscreen_name_unit_shield_block	Блок щитом
 unit_abilities_onscreen_name_unit_snipe	Снайпер
 unit_abilities_tooltip_text_unit_crippling_blows	Калечащие удары по вступившим в бой врагам оставляют их броню уязвимой для дальнейшего урона.
@@ -3221,21 +3221,21 @@ unit_abilities_onscreen_name_con_bar_incentives_level_4	Поощрения IV
 unit_abilities_onscreen_name_con_bar_incentives_level_5	Поощрения V
 unit_abilities_onscreen_name_con_bar_incentives_level_6	Поощрения VI
 unit_abilities_onscreen_name_con_bar_incentives_level_7	Поощрения VII
-unit_abilities_onscreen_name_unit_testudo	Оборонительная черепаха
+unit_abilities_onscreen_name_unit_testudo	Оборон. черепаха
 unit_abilities_ability_effects_unit_eviscerate	Удар, урон, ослабление
 unit_abilities_affects_unit_raise_eagle	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзные отряды[[/col]]
 unit_abilities_tooltip_text_con_bar_brandish_heads_level_10	Ненадолго снижает [[col:light_grey]]атаку в ближнем бою[[/col]] всех ближайших врагов.
 unit_abilities_affects_con_gla_coena_libera_level_10	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_tooltip_text_unit_echo_of_trebia	Ненадолго повышает [[col:light_grey]]мобильность[[/col]]. Только в [[col:light_grey]]строю фаланги[[/col]].
 unit_abilities_onscreen_name_unit_andartas_roar	Рёв Андарты
-unit_abilities_onscreen_name_unit_chase	Преследование
+unit_abilities_onscreen_name_unit_chase	Погоня
 unit_abilities_targets_unit_focus_fire_arrows_gre_dahae_archers	[[col:light_grey]]Земля[[/col]]
-unit_abilities_onscreen_name_unit_crush	Сокрушение
+unit_abilities_onscreen_name_unit_crush	Удар
 unit_abilities_onscreen_name_unit_shield_screen	Щитовая завеса
 unit_abilities_tooltip_text_unit_sword_hamstring	[[col:light_grey]]Удар[[/col]] по ногам врагов, всегда [[col:light_grey]]сбивающий с ног[[/col]] и на время снижающий их [[col:light_grey]]мобильность[[/col]].
 unit_abilities_onscreen_name_unit_cleave	Рассечение
 unit_abilities_affects_unit_rapid_fire	[[col:alliance_player]]На себя[[/col]]
-unit_abilities_onscreen_name_unit_slash	Рубящий удар
+unit_abilities_onscreen_name_unit_slash	Рубка
 unit_abilities_ability_effects_unit_rabid_charge	Рывок
 unit_abilities_targets_unit_clout	[[col:light_grey]]Конус впереди[[/col]]
 unit_abilities_tooltip_text_Leonidas_2	Ненадолго повышает [[col:light_grey]]мораль[[/col]] всех ближайших союзных отрядов и снижает [[col:light_grey]]усталость фаланги[[/col]]. 
@@ -3308,7 +3308,7 @@ unit_abilities_targets_unit_andartas_roar	[[col:light_grey]]На себя[[/col]
 unit_abilities_onscreen_name_hannibal_2	Решимость
 unit_abilities_onscreen_name_hannibal_3	У ворот
 unit_abilities_onscreen_name_unit_marching_column	Походная колонна
-unit_abilities_onscreen_name_hannibal_1	Форсированный марш
+unit_abilities_onscreen_name_hannibal_1	Форс. марш
 unit_abilities_tooltip_text_unit_killing_spree	Отряд отбрасывает осторожность: резко падает [[col:light_grey]]защита в ближнем бою[[/col]], растут [[col:light_grey]]агрессия[[/col]] и [[col:light_grey]]отсрочка смерти[[/col]] до конца способности.
 unit_abilities_ability_effects_unit_spartan_bond	Бонус
 unit_abilities_targets_con_bar_incentives_level_8	[[col:alliance_player]]На себя[[/col]]
@@ -3341,14 +3341,14 @@ unit_abilities_tooltip_text_unit_rank_1_war_dog	РАНГ 1
 unit_abilities_tooltip_text_unit_rank_4_war_dog	РАНГ 4
 unit_abilities_affects_unit_brace	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_unit_fetch	[[col:alliance_player]]Боевые псы[[/col]]
-unit_abilities_onscreen_name_unit_focus_fire_arrows_car_pre_t4	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_car_pre_t4	Фокус-огонь
 unit_abilities_ability_effects_unit_focus_fire_arrows_gre_dahae_archers	Запуск снаряда, цель на земле, сброс таймеров перезарядки
 unit_abilities_onscreen_name_unit_manual_charge_reckless	Безрассудный рывок
 unit_abilities_targets_unit_focus_fire	[[col:light_grey]]Земля[[/col]]
 unit_abilities_targets_unit_spear_heavy_thrust	[[col:light_grey]]Конус впереди[[/col]]
 unit_abilities_targets_unit_shield_cover	[[col:light_grey]]На себя[[/col]]
 unit_abilities_onscreen_name_unit_gallic_assault	Галльский натиск
-unit_abilities_onscreen_name_unit_prowl	Крадущийся шаг
+unit_abilities_onscreen_name_unit_prowl	Крадётся
 unit_abilities_ability_effects_unit_taunt	Ослабление, цель — отряд
 unit_abilities_affects_con_melqart_horn_level_8	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_affects_con_melqart_horn_level_9	[[col:alliance_player]]На себя[[/col]]
@@ -3395,10 +3395,10 @@ unit_abilities_affects_unit_charge_column	[[col:alliance_player]]На себя[[
 unit_abilities_ability_effects_unit_snipe	Бонус, несколько фаз
 unit_abilities_targets_unit_focus_fire_javelins_car_t8	[[col:light_grey]]Земля[[/col]]
 unit_abilities_targets_unit_focus_fire_javelins_car_t9	[[col:light_grey]]Земля[[/col]]
-unit_abilities_onscreen_name_unit_heavy_shot_9	Тяжёлый выстрел
-unit_abilities_onscreen_name_unit_heavy_shot_8	Тяжёлый выстрел
-unit_abilities_onscreen_name_unit_heavy_shot_7	Тяжёлый выстрел
-unit_abilities_onscreen_name_unit_heavy_shot_6	Тяжёлый выстрел
+unit_abilities_onscreen_name_unit_heavy_shot_9	Тяж. выстрел
+unit_abilities_onscreen_name_unit_heavy_shot_8	Тяж. выстрел
+unit_abilities_onscreen_name_unit_heavy_shot_7	Тяж. выстрел
+unit_abilities_onscreen_name_unit_heavy_shot_6	Тяж. выстрел
 unit_abilities_tooltip_text_unit_numidian_advance	Ненадолго повышает [[col:light_grey]]скорость[[/col]] и [[col:light_grey]]бонус рывка[[/col]] вашего отряда и ближайших союзников.
 unit_abilities_onscreen_name_push	Толчок
 unit_abilities_affects_con_missile_remover_level_10	[[col:alliance_player]]На себя[[/col]]
@@ -3468,9 +3468,9 @@ unit_abilities_tooltip_text_con_missile_remover_level_8	Снимает любо�
 unit_abilities_tooltip_text_con_missile_remover_level_7	Снимает любое снижение [[col:light_grey]]скорости[[/col]] от урона снарядами. 
 unit_abilities_tooltip_text_unit_rank_4_war_elephant	РАНГ 4
 unit_abilities_tooltip_text_con_missile_remover_level_6	Снимает любое снижение [[col:light_grey]]скорости[[/col]] от урона снарядами. 
-unit_abilities_onscreen_name_unit_focus_fire_javelins_gre_pre_t7	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_gre_pre_t7	Фокус-огонь
 unit_abilities_tooltip_text_con_missile_remover_level_5	Снимает любое снижение [[col:light_grey]]скорости[[/col]] от урона снарядами. 
-unit_abilities_onscreen_name_unit_focus_fire_javelins_gre_pre_t4	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_gre_pre_t4	Фокус-огонь
 unit_abilities_tooltip_text_con_missile_remover_level_4	Снимает любое снижение [[col:light_grey]]скорости[[/col]] от урона снарядами. 
 unit_abilities_tooltip_text_con_missile_remover_level_3	Снимает любое снижение [[col:light_grey]]скорости[[/col]] от урона снарядами. 
 unit_abilities_tooltip_text_con_missile_remover_level_2	Снимает любое снижение [[col:light_grey]]скорости[[/col]] от урона снарядами. 
@@ -3589,7 +3589,7 @@ unit_abilities_tooltip_text_con_pay_day_level_6	Временно повышае�
 unit_abilities_tooltip_text_con_pay_day_level_7	Временно повышает [[col:light_grey]]скорость[[/col]] и [[col:light_grey]]агрессию[[/col]] отряда.
 unit_abilities_tooltip_text_con_pay_day_level_4	Временно повышает [[col:light_grey]]скорость[[/col]] и [[col:light_grey]]агрессию[[/col]] отряда.
 unit_abilities_tooltip_text_con_pay_day_level_5	Временно повышает [[col:light_grey]]скорость[[/col]] и [[col:light_grey]]агрессию[[/col]] отряда.
-unit_abilities_onscreen_name_unit_focus_fire_arrows_per_pre_royal_persian_archers	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_per_pre_royal_persian_archers	Фокус-огонь
 unit_abilities_tooltip_text_con_pay_day_level_2	Временно повышает [[col:light_grey]]скорость[[/col]] и [[col:light_grey]]агрессию[[/col]] отряда.
 unit_abilities_tooltip_text_con_pay_day_level_3	Временно повышает [[col:light_grey]]скорость[[/col]] и [[col:light_grey]]агрессию[[/col]] отряда.
 unit_abilities_tooltip_text_con_pay_day_level_1	Временно повышает [[col:light_grey]]скорость[[/col]] и [[col:light_grey]]агрессию[[/col]] отряда.
@@ -3597,8 +3597,8 @@ unit_abilities_tooltip_text_unit_rank_1_war_elephant	РАНГ 1
 unit_abilities_tooltip_text_con_pay_day_level_8	Временно повышает [[col:light_grey]]скорость[[/col]] и [[col:light_grey]]агрессию[[/col]] отряда.
 unit_abilities_tooltip_text_con_pay_day_level_9	Временно повышает [[col:light_grey]]скорость[[/col]] и [[col:light_grey]]агрессию[[/col]] отряда.
 unit_abilities_onscreen_name_unit_bolts_ammunition_10	Болты
-unit_abilities_onscreen_name_unit_focus_fire_javelins_bar_pre_t4	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_javelins_bar_pre_t6	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_bar_pre_t4	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_bar_pre_t6	Фокус-огонь
 unit_abilities_ability_effects_unit_prowl	Бонус, переключатель
 unit_abilities_onscreen_name_con_rom_infantry_caltrops_level_3	Пехотные ежи
 unit_abilities_onscreen_name_unit_unleash	Спустить
@@ -3610,7 +3610,7 @@ unit_abilities_onscreen_name_con_rom_infantry_caltrops_level_5	Пехотные 
 unit_abilities_onscreen_name_con_rom_infantry_caltrops_level_4	Пехотные ежи
 unit_abilities_onscreen_name_unit_hoplite_phalanx	Гоплитская фаланга
 unit_abilities_onscreen_name_con_rom_infantry_caltrops_level_9	Пехотные ежи
-unit_abilities_onscreen_name_unit_focus_fire_javelins_car_t10	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_car_t10	Фокус-огонь
 unit_abilities_onscreen_name_con_rom_infantry_caltrops_level_8	Пехотные ежи
 unit_abilities_affects_unit_crushing_blow	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_targets_unit_sword_parry	[[col:light_grey]]Конус впереди[[/col]]
@@ -3624,15 +3624,15 @@ unit_abilities_tooltip_text_unit_flowing_water	Ненадолго повышае
 unit_abilities_ability_effects_unit_morale_aoe	Бонус, область действия
 unit_abilities_affects_unit_defensive_testeudo	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_ability_effects_unit_quick_reload	Бонус
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_9	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_8	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_1	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_3	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_2	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_5	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_4	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_7	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_6	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_9	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_8	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_1	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_3	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_2	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_5	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_4	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_7	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_bolts_chi_6	Фокус-огонь
 unit_abilities_ability_effects_con_elephant_wine_level_1	Бонус, ограниченное число раз
 unit_abilities_ability_effects_Scipio_2	Ослабление, область действия
 unit_abilities_ability_effects_con_elephant_wine_level_3	Бонус, ограниченное число раз
@@ -3762,11 +3762,11 @@ unit_abilities_affects_Guan_yu_1	[[col:alliance_enemy]]Вражеские отр
 unit_abilities_ability_effects_unit_crushing_blow	Урон, отбрасывание
 unit_abilities_tooltip_text_unit_mutilate	[[col:light_grey]]Удар[[/col]] с жестокой силой: урон и [[col:light_grey]]отбрасывание[[/col]] при попадании. Враги рядом в ужасе: ненадолго падают [[col:light_grey]]мораль[[/col]] и [[col:light_grey]]атака в ближнем бою[[/col]].
 unit_abilities_affects_con_gla_rebel_banner_level_10	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзные отряды[[/col]]
-unit_abilities_onscreen_name_unit_heavy_lockdown	Блокировка
+unit_abilities_onscreen_name_unit_heavy_lockdown	Блок
 unit_abilities_tooltip_text_com_entity_selection	Изменяет строй отряда: выберите группы бойцов и переместите их на место.
 unit_abilities_targets_unit_iolaus_vow	[[col:light_grey]]На себя[[/col]]
 unit_abilities_onscreen_name_unit_brace	Упор
-unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_martiobarbuli	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_rom_martiobarbuli	Фокус-огонь
 unit_abilities_onscreen_name_unit_fetch	Апорт
 unit_abilities_onscreen_name_unit_slice	Рассечение
 unit_abilities_ability_effects_unit_raise_eagle	Бонус, область действия
@@ -3826,7 +3826,7 @@ unit_abilities_targets_unit_focus_fire_javelins_rom_martiobarbuli	[[col:light_gr
 unit_abilities_targets_unit_fetch	[[col:light_grey]]Земля[[/col]]
 unit_abilities_affects_unit_iolaus_vow	[[col:alliance_player]]На себя[[/col]], [[col:alliance_ally]]союзные отряды[[/col]]
 unit_abilities_ability_effects_con_blinders_level_10	Бонус, ограниченное число раз
-unit_abilities_onscreen_name_unit_focus_fire_arrows_per_pre_gyan_avspar	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_per_pre_gyan_avspar	Фокус-огонь
 unit_abilities_onscreen_name_con_bar_dirt_pouches_level_10	Мешки с Грязью X
 unit_abilities_affects_unit_shield_screen	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_ability_effects_unit_sword_vicious_strikes	Бонус, несколько фаз, удар
@@ -3842,7 +3842,7 @@ unit_abilities_targets_unit_focus_fire_arrows_rom_pre_t7	[[col:light_grey]]Зе�
 unit_abilities_affects_unit_andartas_roar	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_affects_unit_intimidate	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_ability_effects_unit_throw_naphtha_pots	Урон со временем, цель на земле, отбрасывание
-unit_abilities_onscreen_name_unit_focus_fire_javelins_per_pre_takabara	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_javelins_per_pre_takabara	Фокус-огонь
 unit_abilities_targets_unit_raise_eagle	[[col:light_grey]]На себя[[/col]]
 unit_abilities_ability_effects_con_gre_share_wine_level_10	Бонус, область действия, ограниченное число раз
 unit_abilities_affects_con_bar_incentives_level_9	[[col:alliance_player]]Боевые псы[[/col]]
@@ -3856,7 +3856,7 @@ unit_abilities_affects_con_bar_incentives_level_7	[[col:alliance_player]]Бое�
 unit_abilities_affects_con_bar_incentives_level_6	[[col:alliance_player]]Боевые псы[[/col]]
 unit_abilities_onscreen_name_unit_roman_phalanx	Копейная фаланга
 unit_abilities_affects_con_bar_dirt_pouches_level_10	[[col:alliance_enemy]]Вражеские отряды[[/col]]
-unit_abilities_onscreen_name_unit_lunge	Бросок вперёд
+unit_abilities_onscreen_name_unit_lunge	Бросок
 unit_abilities_onscreen_name_unit_surge	Волна
 unit_abilities_affects_unit_china_gore	[[col:alliance_enemy]]Вражеские отряды[[/col]]
 unit_abilities_ability_effects_unit_carthaginian_phalanx	Строй, переключатель
@@ -3867,8 +3867,8 @@ unit_abilities_targets_Caesar_2	[[col:light_grey]]На себя[[/col]]
 unit_abilities_targets_Caesar_3	[[col:light_grey]]На себя[[/col]]
 unit_abilities_tooltip_text_unit_cav_dash	Переход в галоп повышает [[col:light_grey]]мобильность[[/col]], но не даёт использовать другие способности.
 unit_abilities_targets_Caesar_4	[[col:light_grey]]На себя[[/col]]
-unit_abilities_onscreen_name_unit_focus_fire_arrows_rom_pre_t7	Сфокусированный огонь
-unit_abilities_onscreen_name_unit_focus_fire_arrows_rom_pre_t4	Сфокусированный огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_rom_pre_t7	Фокус-огонь
+unit_abilities_onscreen_name_unit_focus_fire_arrows_rom_pre_t4	Фокус-огонь
 unit_abilities_tooltip_text_unit_ferocious_strike	[[col:light_grey]]Удар[[/col]] по врагам, всегда [[col:light_grey]]отбрасывающий[[/col]] и [[col:light_grey]]ломающий строй[[/col]] отряда. Пораженный отряд теряет [[col:light_grey]]мобильность[[/col]].
 unit_abilities_tooltip_text_unit_stampede	[[col:light_grey]]Рывок[[/col]] вперёд: [[col:light_grey]]урон[[/col]] и [[col:light_grey]]сбивание врагов с ног[[/col]]. Пока действует, растёт [[col:light_grey]]удар рывком[[/col]], но падает [[col:light_grey]]бонус рывка[[/col]] и отряд [[col:light_grey]]неуправляем[[/col]].
 unit_abilities_onscreen_name_unit_rank_1_light_artillery	Ранг 1

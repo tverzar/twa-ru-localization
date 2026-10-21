@@ -1,4 +1,4 @@
-unit_traits_bullet_text_climb_fast	Способен к быстрому масштабированию
+unit_traits_bullet_text_climb_fast	Быстро лазает
 unit_traits_bullet_text_encourages	обеспечивает бонус к морали ближайшим союзникам
 unit_traits_bullet_text_immune_cav_penalty	копья не получают бонус против кавалерии
 unit_traits_bullet_text_scare_horse	Пугает лошадей
@@ -6,7 +6,7 @@ unit_traits_bullet_text_scare_immune	Иммунитет к страху
 unit_traits_bullet_text_mounted_fire_parthian	огонь вокруг
 unit_traits_bullet_text_mounted_fire	Может стрелять, будучи на горе
 unit_traits_bullet_text_snipe	Отряд остается скрытым во время стрельбы
-unit_traits_bullet_text_stalk	Могут оставаться скрытыми во время движения
+unit_traits_bullet_text_stalk	Скрытны в движении
 unit_traits_bullet_text_hide_scrub	Может прятаться в кустарниках
 unit_traits_bullet_text_formed_attack	Этот отряд остаётся в формировании, когда находится в ближнем бою
 unit_traits_bullet_text_hide_grass	Может прятаться в траве
@@ -19,7 +19,7 @@ unit_traits_bullet_text_ignore_ground_move_mod	Не замедляется из-
 unit_traits_bullet_text_cant_run	Как правило для передовой артиллерии
 unit_traits_bullet_text_scare_elephant	Пугает слонов
 unit_traits_bullet_text_campaign_stealth	Способны перемещаться по карте, оставаясь незамеченными
-unit_traits_bullet_text_guerrilla_deploy	Могут развернуться за пределами зоны развертывания
+unit_traits_bullet_text_guerrilla_deploy	Развёртывание вне зоны
 unit_traits_bullet_text_mounted_fire_move	Стрельба во время движения
 unit_traits_bullet_text_resist_heat	не несёт лишних потерь от жаркого климата
 unit_traits_bullet_text_fatigue_res	усталость действует слабее

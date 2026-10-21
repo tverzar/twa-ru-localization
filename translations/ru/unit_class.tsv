@@ -4,8 +4,8 @@ unit_class_onscreen_cav_mel	Кавалерия
 unit_class_onscreen_com	Команда
 unit_class_onscreen_inf_spr	Копейщики
 unit_class_onscreen_art_siege	Метательные машины
-unit_class_onscreen_inf_mel	Пехота - Ближний бой
-unit_class_onscreen_inf_mis	Пехота - Дальний бой
+unit_class_onscreen_inf_mel	Пехота ближн.
+unit_class_onscreen_inf_mis	Пехота дальн.
 unit_class_onscreen_inf_pik	Пикинеры
 unit_class_onscreen_elph	Слоны
 unit_class_onscreen_cav_mis	Стрелковая кавалерия

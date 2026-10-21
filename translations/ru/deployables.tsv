@@ -1,22 +1,22 @@
 deployables_description_003_ignitibleTar	Смола может поджечь ничего не подозревающих солдат. Поджигается при помощи огненных стрел или взаимодействием отрядов.
 deployables_description_002_ignitibleTar	Смола может поджечь ничего не подозревающих солдат. Поджигается при помощи огненных стрел или взаимодействием отрядов.
 deployables_description_001_ignitibleTar	Смола может поджечь ничего не подозревающих солдат. Поджигается при помощи огненных стрел или взаимодействием отрядов.
-deployables_name_con_gre_caltrops_5	Проволочные Ежи
-deployables_name_con_gre_caltrops_4	Проволочные Ежи
+deployables_name_con_gre_caltrops_5	Ежи
+deployables_name_con_gre_caltrops_4	Ежи
 deployables_description_con_rom_tar_pits_9	Поджечь и отправить вашего противника на колени к Аиду
-deployables_name_con_gre_caltrops_7	Проволочные Ежи
+deployables_name_con_gre_caltrops_7	Ежи
 deployables_description_con_rom_tar_pits_8	Поджечь и отправить вашего противника на колени к Аиду
-deployables_name_con_gre_caltrops_6	Проволочные Ежи
-deployables_name_con_gre_caltrops_1	Проволочные Ежи
-deployables_name_con_gre_caltrops_3	Проволочные Ежи
-deployables_name_con_gre_caltrops_2	Проволочные Ежи
+deployables_name_con_gre_caltrops_6	Ежи
+deployables_name_con_gre_caltrops_1	Ежи
+deployables_name_con_gre_caltrops_3	Ежи
+deployables_name_con_gre_caltrops_2	Ежи
 deployables_description_con_rom_tar_pits_3	Поджечь и отправить вашего противника на колени к Аиду
 deployables_description_con_rom_tar_pits_2	Поджечь и отправить вашего противника на колени к Аиду
 deployables_description_con_rom_tar_pits_1	Поджечь и отправить вашего противника на колени к Аиду
 deployables_description_con_rom_tar_pits_7	Поджечь и отправить вашего противника на колени к Аиду
-deployables_name_con_gre_caltrops_9	Проволочные Ежи
+deployables_name_con_gre_caltrops_9	Ежи
 deployables_description_con_rom_tar_pits_6	Поджечь и отправить вашего противника на колени к Аиду
-deployables_name_con_gre_caltrops_8	Проволочные Ежи
+deployables_name_con_gre_caltrops_8	Ежи
 deployables_description_con_rom_tar_pits_5	Поджечь и отправить вашего противника на колени к Аиду
 deployables_description_con_rom_tar_pits_4	Поджечь и отправить вашего противника на колени к Аиду
 deployables_name_con_rom_tar_pits_8	Смоляные ямы
@@ -51,21 +51,21 @@ deployables_name_con_gre_tar_pits_9	Смоляные Ямы
 deployables_name_con_gre_tar_pits_8	Смоляные Ямы
 deployables_name_con_rom_caltrops_8	Поджечь и отправить вашего противника на колени к Аиду
 deployables_description_con_gre_tar_pits_7	Поджечь и отправить вашего противника на колени к Аиду
-deployables_name_con_rom_caltrops_9	Проволочные Ежи
+deployables_name_con_rom_caltrops_9	Ежи
 deployables_description_con_gre_tar_pits_4	Поджечь и отправить вашего противника на колени к Аиду
 deployables_description_con_gre_tar_pits_5	Поджечь и отправить вашего противника на колени к Аиду
 deployables_description_con_gre_tar_pits_2	Поджечь и отправить вашего противника на колени к Аиду
 deployables_description_con_gre_tar_pits_3	Поджечь и отправить вашего противника на колени к Аиду
 deployables_description_con_gre_tar_pits_1	Поджечь и отправить вашего противника на колени к Аиду
-deployables_name_con_rom_caltrops_1	Проволочные Ежи
-deployables_name_con_rom_caltrops_2	Проволочные Ежи
-deployables_name_con_rom_caltrops_3	Проволочные Ежи
-deployables_name_con_rom_caltrops_4	Проволочные Ежи
-deployables_name_con_rom_caltrops_5	Проволочные Ежи
+deployables_name_con_rom_caltrops_1	Ежи
+deployables_name_con_rom_caltrops_2	Ежи
+deployables_name_con_rom_caltrops_3	Ежи
+deployables_name_con_rom_caltrops_4	Ежи
+deployables_name_con_rom_caltrops_5	Ежи
 deployables_description_con_gre_tar_pits_8	Поджечь и отправить вашего противника на колени к Аиду
-deployables_name_con_rom_caltrops_6	Проволочные Ежи
+deployables_name_con_rom_caltrops_6	Ежи
 deployables_description_con_gre_tar_pits_9	Поджечь и отправить вашего противника на колени к Аиду
-deployables_name_con_rom_caltrops_7	Проволочные Ежи
+deployables_name_con_rom_caltrops_7	Ежи
 deployables_description_con_gre_barricades_6	Возведённая стена, удерживающая противника и защищающая союзников.
 deployables_description_con_gre_barricades_7	Возведённая стена, удерживающая противника и защищающая союзников.
 deployables_description_con_gre_barricades_4	Возведённая стена, удерживающая противника и защищающая союзников.
@@ -97,7 +97,7 @@ deployables_name_con_rom_barricades_4	Баррикады
 deployables_name_con_rom_barricades_7	Баррикады
 deployables_name_con_rom_barricades_6	Баррикады
 deployables_description_archetype_ignitibleTar	Смола может поджечь ничего не подозревающих солдат. Поджигается при помощи огненных стрел или взаимодействием отрядов.
-deployables_name_con_rom_caltrops_10	Проволочные Ежи
+deployables_name_con_rom_caltrops_10	Ежи
 deployables_name_con_rom_tar_pits_10	Смоляные Ямы
 deployables_tooltip_con_gre_tar_pits_3	Смола может поджечь ничего не подозревающих солдат. Поджигается при помощи огненных стрел или взаимодействием отрядов.
 deployables_tooltip_con_gre_tar_pits_2	Смола может поджечь ничего не подозревающих солдат. Поджигается при помощи огненных стрел или взаимодействием отрядов.
@@ -123,7 +123,7 @@ deployables_tooltip_con_rom_tar_pits_5	Смола может поджечь ни
 deployables_tooltip_con_rom_tar_pits_2	Смола может поджечь ничего не подозревающих солдат. Поджигается при помощи огненных стрел или взаимодействием отрядов.
 deployables_tooltip_con_rom_tar_pits_3	Смола может поджечь ничего не подозревающих солдат. Поджигается при помощи огненных стрел или взаимодействием отрядов.
 deployables_tooltip_con_rom_tar_pits_1	Смола может поджечь ничего не подозревающих солдат. Поджигается при помощи огненных стрел или взаимодействием отрядов.
-deployables_name_con_gre_caltrops_10	Проволочные Ежи
+deployables_name_con_gre_caltrops_10	Ежи
 deployables_description_001_barricade	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
 deployables_description_002_barricade	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
 deployables_description_003_barricade	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
@@ -248,7 +248,7 @@ deployables_description_con_rom_infantry_caltrops_4	«Сюрприз — дыр�
 deployables_description_con_rom_infantry_caltrops_3	«Сюрприз — дырявые ноги!» — отличное средство от любого наступления.
 deployables_description_con_rom_infantry_caltrops_2	«Сюрприз — дырявые ноги!» — отличное средство от любого наступления.
 deployables_description_con_rom_infantry_caltrops_1	«Сюрприз — дырявые ноги!» — отличное средство от любого наступления.
-deployables_name_deployable_caltrop	Проволочные Ежи
+deployables_name_deployable_caltrop	Ежи
 deployables_description_deployable_caltrop	Чеснок наносит урон отрядам под любым углом и дополнительный урон, если они движутся быстро.
 deployables_name_con_rom_infantry_stakes_3	Пехотные колья
 deployables_name_con_rom_infantry_stakes_2	Пехотные колья
