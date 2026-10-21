@@ -9,5 +9,40 @@ ui_unit_groupings_onscreen_inf_mis_jav	Велиты
 ui_unit_groupings_onscreen_inf_pik	Пикинеры
 ui_unit_groupings_onscreen_inf_spr	Копейщики
 ui_unit_groupings_onscreen_spcl	Уникальные
+ui_unit_groupings_tooltip_com	Небольшие отряды, которые защищают полководца, пока он занят своим делом.
 ui_unit_groupings_onscreen_art_siege	Метательные машины
+ui_unit_groupings_onscreen_cav_melee_spear	Копейная кавалерия
+ui_unit_groupings_tooltip_cav_mis_jav	Быстрая метательная кавалерия с малой дальностью отлично изматывает врага, но слаба, если её прижали в ближнем бою.
+ui_unit_groupings_tooltip_inf_mis_jav	Отряды малой дальности поддерживают отряды ближнего боя и сами неплохи в ближнем бою.
+ui_unit_groupings_onscreen_art_light	Лёгкая артиллерия
+ui_unit_groupings_tooltip_art_heavy	Тяжёлая артиллерия с большой дальностью и уроном медленно перемещается по полю, но очень слаба в ближнем бою.
+ui_unit_groupings_onscreen_art_heavy	Тяжёлая артиллерия
+ui_unit_groupings_onscreen_cav_melee_sword	Мечевая кавалерия
+ui_unit_groupings_tooltip_art_light	Лёгкая артиллерия с малой дальностью и высоким уроном по ситуации быстро перемещается по полю и пользуется слабостями врага.
+ui_unit_groupings_onscreen_inf_falx	Пехота с фалксами
+ui_unit_groupings_tooltip_art_siege	Огромные осадные машины, идеальные для разрушения стен и привратных башен.
+ui_unit_groupings_onscreen_art_fix	Стационарная артиллерия
 ui_unit_groupings_onscreen_art_fld	Полевая артиллерия
+ui_unit_groupings_onscreen_cav_shk	Ударная кавалерия
+ui_unit_groupings_tooltip_inf_falx	Специализированные бойцы ближнего боя, оружие которых позволяет бить в обход вражеских щитов
+ui_unit_groupings_tooltip_elph	Ничто не пробивает дыру во вражеской линии лучше слона. Лучшее средство против них — горящие снаряды и дротики.
+ui_unit_groupings_tooltip_cav_melee_sword	Универсальная кавалерия ближнего боя со щитами слаба против более специализированных отрядов.
+ui_unit_groupings_tooltip_inf_mis_sling	Дальнобойные отряды поддерживают отряды ближнего боя, но сами очень слабы в ближнем бою.
+ui_unit_groupings_onscreen_cav_mis_jav	Кавалерия с дротиками
+ui_unit_groupings_tooltip_spcl	Ничто не говорит «сюрприз!» лучше, чем звери, спущенные на поле боя.
+ui_unit_groupings_tooltip_cav_melee_spear	Молот для пехоты любой армии: разрушительна при рывке в фланг или тыл врага.
+ui_unit_groupings_onscreen_inf_mis_sling	Пращники
+ui_unit_groupings_onscreen_inf_mis_archer	Лучники
+ui_unit_groupings_tooltip_inf_mel	Солдаты переднего края, обученные рукопашному бою.
+ui_unit_groupings_tooltip_cav_shk	Молот для пехоты любой армии: разрушительна при рывке в фланг или тыл врага.
+ui_unit_groupings_tooltip_cav_mis	Быстрая метательная кавалерия с большой дальностью отлично изматывает врага, но слаба, если её прижали в ближнем бою.
+ui_unit_groupings_tooltip_inf_pik	Длинные пики делают этих бойцов смертоносными спереди, но уязвимыми с флангов. Очень эффективны против кавалерии.
+ui_unit_groupings_onscreen_cav_mis_archer	Конные лучники
+ui_unit_groupings_tooltip_chariot	Быстрые отряды с большим радиусом поворота пробивают слабые вражеские отряды. Уязвимы, если их прижали в бою.
+ui_unit_groupings_tooltip_inf_mis	Дальнобойные отряды поддерживают отряды ближнего боя, но сами очень слабы в ближнем бою.
+ui_unit_groupings_tooltip_cav_mel	Универсальная кавалерия ближнего боя со щитами слаба против более специализированных отрядов.
+ui_unit_groupings_tooltip_art_fld	Полевая артиллерия с большой дальностью и уроном медленно перемещается по полю, но очень слаба в ближнем бою.
+ui_unit_groupings_tooltip_inf_spr	Надёжная оборонительная пехота со щитами, отлично действует против кавалерии.
+ui_unit_groupings_tooltip_cav_mis_archer	Быстрая метательная кавалерия с большой дальностью отлично изматывает врага, но слаба, если её прижали в ближнем бою.
+ui_unit_groupings_tooltip_art_fix	Стационарная артиллерия наносит мощный удар, но очень слаба в ближнем бою.
+ui_unit_groupings_tooltip_inf_mis_archer	Дальнобойные отряды поддерживают отряды ближнего боя, но сами очень слабы в ближнем бою.

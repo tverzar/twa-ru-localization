@@ -1383,6 +1383,7 @@ unit_abilities_tooltip_text_unit_rank_3_repeating_crossbow	РАНГ 3
 unit_abilities_tooltip_text_unit_rank_4_repeating_crossbow	РАНГ 4
 unit_abilities_tooltip_text_unit_spear_piercing_blows	Бойцы наносят [[col:light_grey]]удар[[/col]]: [[col:light_grey]]урон[[/col]] и [[col:light_grey]]отбрасывание[[/col]] при успехе. Затем ненадолго растёт [[col:light_grey]]бронебойный урон[[/col]]. После эффекта [[col:light_grey]]скорость[[/col]] отряда временно падает.
 unit_abilities_onscreen_name_unit_equipment_morale_debuff_aoe	Грозное присутствие
+unit_abilities_onscreen_name_unit_heavy_defend_stance	Оборона
 unit_abilities_targets_unit_leg_sweep	[[col:light_grey]]Конус впереди[[/col]]
 unit_abilities_affects_unit_bolts_ammunition_10	[[col:alliance_player]]На себя[[/col]]
 unit_abilities_onscreen_name_unit_formation_attack	Боевой строй

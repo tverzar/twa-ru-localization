@@ -52,14 +52,17 @@ achievements_title_crouching_dragon_3	Спящий дракон III
 achievements_title_crouching_dragon_2	Спящий дракон II
 achievements_title_crouching_dragon_4	Спящий дракон IV
 achievements_description_deco_saved	Получена награда «Спасены» в бою
+achievements_title_deco_demolished	Разрушение
 achievements_description_deco_nuked	Получена награда «Разгром» в бою
 achievements_description_crouching_dragon_1	Выиграйте 40 боёв за Чжугэ Ляна
 achievements_description_crouching_dragon_3	Выиграйте 1 000 боёв за Чжугэ Ляна
 achievements_description_crouching_dragon_2	Выиграйте 200 боёв за Чжугэ Ляна
 achievements_description_crouching_dragon_4	Выиграйте 4 000 боёв за Чжугэ Ляна
+achievements_title_deco_saved	Сохранено
 achievements_description_aquilifer_1	Заработайте 50 000 опыта отрядов
 achievements_description_aquilifer_2	Заработайте 150 000 опыта отрядов
 achievements_description_aquilifer_3	Заработайте 400 000 опыта отрядов
+achievements_title_deco_nuked	Разгром
 achievements_description_aquilifer_4	Заработайте 1 000 000 опыта отрядов
 achievements_title_corona_agitatis	Агитатус
 achievements_description_hannibal_ad_portas_4	Выиграйте 4 000 боёв за Ганнибала
@@ -91,6 +94,7 @@ achievements_description_germanicus_3	Выиграйте 1 000 боёв за Г�
 achievements_description_germanicus_2	Выиграйте 200 боёв за Германика
 achievements_description_germanicus_4	Выиграйте 4 000 боёв за Германика
 achievements_title_east_meets_west	Восток встречает Запад
+achievements_title_deco_eliminated	Уничтожен
 achievements_title_quaestor_2	Квестор II
 achievements_title_quaestor_3	Квестор III
 achievements_title_quaestor_1	Квестор I
@@ -408,8 +412,10 @@ achievements_title_epiphanes_autokrator_1	Эпифан Автократор I
 achievements_title_cb_3_fighter	Закрытая бета: боец
 achievements_title_cb_1_pioneer	Закрытая бета: первопроходец
 achievements_title_cb_4_warrior	Закрытая бета: воин
+achievements_title_deco_routed	Бегство
 achievements_title_corona_civica	Корона цивика
 achievements_description_technological_advantage	За Чжугэ Ляна убейте многозарядными арбалетами 1 000 врагов за один бой
+achievements_title_deco_executed	Казнён
 achievements_description_im_spartacus_4	Выиграйте 4 000 боёв за Спартака
 achievements_description_im_spartacus_1	Выиграйте 40 боёв за Спартака
 achievements_description_im_spartacus_2	Выиграйте 200 боёв за Спартака
@@ -429,6 +435,7 @@ achievements_title_im_spartacus_1	Я Спартак! I
 achievements_title_im_spartacus_2	Я Спартак! II
 achievements_title_im_spartacus_3	Я Спартак! III
 achievements_title_corona_mortis	Корона мортис
+achievements_title_deco_ambushed	Засада
 achievements_title_intimidating_presence	Устрашающее присутствие
 achievements_description_painbringer_1	Выиграйте 40 боёв за Крикса
 achievements_description_painbringer_2	Выиграйте 200 боёв за Крикса

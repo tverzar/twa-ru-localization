@@ -21,3 +21,7 @@ unit_traits_bullet_text_scare_elephant	Пугает слонов
 unit_traits_bullet_text_campaign_stealth	Способны перемещаться по карте, оставаясь незамеченными
 unit_traits_bullet_text_guerrilla_deploy	Могут развернуться за пределами зоны развертывания
 unit_traits_bullet_text_mounted_fire_move	Стрельба во время движения
+unit_traits_bullet_text_resist_heat	не несёт лишних потерь от жаркого климата
+unit_traits_bullet_text_fatigue_res	усталость действует слабее
+unit_traits_bullet_text_disciplined	не теряет мораль при гибели полководца
+unit_traits_bullet_text_all_ranks_fire	все шеренги стреляют, если оружие допускает одну шеренгу

@@ -9,5 +9,58 @@ projectile_shot_type_enum_tooltip_text_bolt_birch_feather	Значительно
 projectile_shot_type_enum_tooltip_text_bolt_birch	Увеличивает дальность, снижает урон.
 projectile_shot_type_enum_onscreen_name_javelin_flaming	Горят
 projectile_shot_type_enum_onscreen_name_artillery_burning_coal	Горящие Угли
+projectile_shot_type_enum_onscreen_name_bullet_light	Лёгкие пули
+projectile_shot_type_enum_tooltip_text_bullet_default	Обычный выстрел.
+projectile_shot_type_enum_onscreen_name_small_arm_broadhead	Широкий наконечник
+projectile_shot_type_enum_tooltip_text_bullet_heavy	Переход на тяжёлые камни: растут [[col:light_grey]]урон[[/col]] и [[col:light_grey]]отбрасывание[[/col]], но сильно падает [[col:light_grey]]дальность[[/col]].
+projectile_shot_type_enum_onscreen_name_small_arm_long_range	Большая дальность
+projectile_shot_type_enum_tooltip_text_small_arm_broadhead	Малый широкий наконечник
+projectile_shot_type_enum_tooltip_text_artillery_burning_coal	Переход на горящие угли: сильно растёт [[col:light_grey]]урон[[/col]], но нет [[col:light_grey]]бронебойного урона[[/col]].
+projectile_shot_type_enum_tooltip_text_bullet_light	Переход на лёгкие пули: растёт [[col:light_grey]]дальность[[/col]], но падает [[col:light_grey]]урон[[/col]].
+projectile_shot_type_enum_onscreen_name_bullet_heated_clay	Раскалённые глиняные пули
+projectile_shot_type_enum_tooltip_text_artillery_acrid_smoke	Переход на снаряды, оставляющие облака дыма с [[col:light_grey]]бронебойным уроном[[/col]].
+projectile_shot_type_enum_onscreen_name_artillery_acrid_smoke	Едкий дым
+projectile_shot_type_enum_onscreen_name_small_arm_short_range	Малая дальность
+projectile_shot_type_enum_onscreen_name_small_arm_trilobite	Трёхлопастный
+projectile_shot_type_enum_onscreen_name_javelin_bodkinhead	Дротики с шиловидным наконечником
+projectile_shot_type_enum_onscreen_name_bullet_heavy	Тяжёлые пули
+projectile_shot_type_enum_onscreen_name_explosives	Взрывной горшок
+projectile_shot_type_enum_tooltip_text_artillery_short_range	Заряжает много мелких камней: растёт [[col:light_grey]]число снарядов[[/col]], но сильно падают [[col:light_grey]]дальность[[/col]] и [[col:light_grey]]урон[[/col]].
+projectile_shot_type_enum_onscreen_name_artillery_short_range	Картечь
+projectile_shot_type_enum_tooltip_text_bullet_medium	Переход на средние пули: растёт [[col:light_grey]]урон[[/col]], но падает [[col:light_grey]]дальность[[/col]].
+projectile_shot_type_enum_onscreen_name_bullet_medium	Средние пули
+projectile_shot_type_enum_tooltip_text_small_arm_bodkinhead	Малый шиловидный наконечник
+projectile_shot_type_enum_tooltip_text_bolt_default	Обычный болт. 
+projectile_shot_type_enum_onscreen_name_bolt_birch_feather	Болты с шиловидным наконечником
 projectile_shot_type_enum_onscreen_name_bolt_birch	Трёхлопастные болты
+projectile_shot_type_enum_tooltip_text_arrow_default	Обычный выстрел. 
+projectile_shot_type_enum_onscreen_name_small_arm_bodkinhead	Шиловидный наконечник
+projectile_shot_type_enum_onscreen_name_arrow_default	По умолчанию
 projectile_shot_type_enum_tooltip_text_torch	Наносят огенный урон.
+projectile_shot_type_enum_onscreen_name_torch	Факел
+projectile_shot_type_enum_tooltip_text_arrow_flaming	Переход на тяжёлые горящие стрелы: растут [[col:light_grey]]урон[[/col]] и [[col:light_grey]]бронебойный урон[[/col]], но падает [[col:light_grey]]дальность[[/col]].
+projectile_shot_type_enum_onscreen_name_small_arm_mid_range	Средняя дальность
+projectile_shot_type_enum_onscreen_name_bolt_default	По умолчанию
+projectile_shot_type_enum_onscreen_name_arrow_bodkinhead	Стрелы с шиловидным наконечником
+projectile_shot_type_enum_onscreen_name_small_arm_default	По умолчанию
+projectile_shot_type_enum_tooltip_text_small_arm_default	Это обычный тип выстрела для этого отряда.
+projectile_shot_type_enum_onscreen_name_arrow_broadhead	Стрелы с широким наконечником
+projectile_shot_type_enum_onscreen_name_artillery_default	По умолчанию
+projectile_shot_type_enum_tooltip_text_artillery_default	Обычный выстрел.
+projectile_shot_type_enum_tooltip_text_artillery_oil_pot	Переход на снаряды, оставляющие на земле горящие пятна с [[col:light_grey]]бронебойным уроном[[/col]].
+projectile_shot_type_enum_onscreen_name_bolt_pine_flaming	Горящие болты
+projectile_shot_type_enum_tooltip_text_arrow_broadhead	Переход на стрелы с широким наконечником: растёт [[col:light_grey]]урон[[/col]], но падает [[col:light_grey]]бронебойный урон[[/col]].
+projectile_shot_type_enum_onscreen_name_bolt_pine	Болты с широким наконечником
+projectile_shot_type_enum_tooltip_text_arrow_trilobate	Переход на трёхлопастные стрелы: растёт [[col:light_grey]]дальность[[/col]], но падает [[col:light_grey]]урон[[/col]].
+projectile_shot_type_enum_tooltip_text_arrow_bodkinhead	Переход на стрелы с шиловидным наконечником: растут [[col:light_grey]]дальность[[/col]] и [[col:light_grey]]бронебойный урон[[/col]], но падает [[col:light_grey]]урон[[/col]].
+projectile_shot_type_enum_onscreen_name_arrow_trilobate	Трёхлопастные стрелы
+projectile_shot_type_enum_tooltip_text_javelin_default	Обычный выстрел. 
+projectile_shot_type_enum_tooltip_text_javelin_bodkinhead	Переход на шиловидные наконечники: растут [[col:light_grey]]дальность[[/col]] и [[col:light_grey]]бронебойный урон[[/col]], но падает [[col:light_grey]]урон[[/col]].
+projectile_shot_type_enum_onscreen_name_javelin_default	По умолчанию
+projectile_shot_type_enum_tooltip_text_bullet_heated_clay	Переход на раскалённые пули: растёт [[col:light_grey]]урон[[/col]], но падает [[col:light_grey]]бронебойный урон[[/col]].
+projectile_shot_type_enum_tooltip_text_javelin_flaming	Переход на тяжёлые горящие дротики: растут [[col:light_grey]]урон[[/col]] и [[col:light_grey]]бронебойный урон[[/col]], но падает [[col:light_grey]]дальность[[/col]].
+projectile_shot_type_enum_onscreen_name_javelin_broadhead	Дротики с широким наконечником
+projectile_shot_type_enum_tooltip_text_javelin_broadhead	Переход на широкие наконечники: растёт [[col:light_grey]]урон[[/col]], но падает [[col:light_grey]]бронебойный урон[[/col]].
+projectile_shot_type_enum_onscreen_name_javelin_trilobate	Трёхлопастные дротики
+projectile_shot_type_enum_tooltip_text_javelin_trilobate	Переход на трёхлопастные наконечники: растёт [[col:light_grey]]дальность[[/col]], но падает [[col:light_grey]]урон[[/col]].
+projectile_shot_type_enum_onscreen_name_bullet_default	По умолчанию

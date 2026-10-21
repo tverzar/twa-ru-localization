@@ -28,6 +28,7 @@ factions_clan_summary_name_rom_china	Рим
 factions_senator_text_n_out_of_n_rom_carthage	%n из %n граждан
 factions_senator_text_n_out_of_n_rom_china	%n из %n сенаторов
 factions_screen_name_rom_gladiators	Гладиаторы
+factions_playstyle_rom_china	Захват территории
 factions_clan_summary_name_when_shogun_rom_carthage	Карфаген
 factions_senator_text_lose_n_rom_rome	Поддержка: -%n сенаторов
 factions_playstyle_rom_athens	Держать позицию
@@ -36,6 +37,7 @@ factions_screen_name_when_rebels_rom_china	Китайские мятежники
 factions_screen_adjective_rom_china	Китайцы
 factions_screen_name_when_rebels_rom_arverni	Мятежники арвернов
 factions_screen_adjective_rom_persia	Персы
+factions_playstyle_rom_rome	Захват территории
 factions_screen_name_when_shogun_rom_china	Римская империя
 factions_clan_summary_name_rom_persia	Персия
 factions_senator_text_gain_n_rom_rome	Поддержка: +%n сенаторов

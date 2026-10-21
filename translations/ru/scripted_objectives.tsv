@@ -97,6 +97,7 @@ scripted_objectives_localised_text_rec_rotate_camera	Вращайте камер
 scripted_objectives_localised_text_b2_swords_throw_pila	Лёгкие пилумы по вражеским отрядам
 scripted_objectives_localised_text_rec_7_fog_of_war_1	Отряды «видят» лишь на ограниченное расстояние ([[col:orange]]дальность обзора[[/col]]). Всё за её пределами скрыто [[col:orange]]туманом войны[[/col]].
 scripted_objectives_localised_text_rec_7_fog_of_war_2	Вы видите всё, что видят ваши и союзные отряды, но за этой границей [[col:orange]]движение врага скрыто[[/col]].
+scripted_objectives_localised_text_rec_7_fog_of_war_3	Туман войны
 scripted_objectives_localised_text_use_vengeance	Совет: способность «Возмездие» даст вашим отрядам огромный бонус в ближнем бою
 scripted_objectives_localised_text_give_group_move_order	Выбрав все отряды, щёлкните правой кнопкой по отмеченному месту, чтобы отправить их туда.
 scripted_objectives_localised_text_change_depth	Совет: выбрав один отряд, щёлкните правой кнопкой и тяните, чтобы изменить ширину и глубину
