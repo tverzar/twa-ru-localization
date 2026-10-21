@@ -152,11 +152,11 @@ def table_name(path):
     return path.split(BS)[-1].rsplit(".", 1)[0]
 
 
-ABBR = {1: [], 2: []}     # этап -> [(что, на что)], см. translations/abbreviations.tsv
+ABBR = {1: [], 2: [], 3: []}     # этап -> [(что, на что)], см. translations/abbreviations.tsv
 
 
 def load_abbr(path):
-    ABBR[1], ABBR[2] = [], []
+    ABBR[1], ABBR[2], ABBR[3] = [], [], []
     p = Path(path)
     if not p.exists():
         return
@@ -164,7 +164,7 @@ def load_abbr(path):
         if not line.strip() or line.startswith("#"):
             continue
         parts = line.split(chr(9))
-        if len(parts) == 3 and parts[0] in ("1", "2"):
+        if len(parts) == 3 and parts[0] in ("1", "2", "3"):
             ABBR[int(parts[0])].append((parts[1], parts[2]))
 
 
@@ -192,9 +192,9 @@ def fit_once(cands):
 def fit(cands):
     """cands: [[индекс, новый_текст, рост_в_символах]] -> (что оставить, запас символов, пропущенное).
     Пока суммарный рост > 0, выкидываем строки с наибольшим ростом; для выкинутых
-    пробуем сокращения (этап 1: синонимы, этап 2: сокращения слов) и повторяем."""
+    пробуем сокращения (этап 1: синонимы, 2: сокращения слов, 3: жёсткие сокращения названий) и повторяем."""
     kept, slack, skipped = fit_once(cands)
-    for stage in (1, 2):
+    for stage in (1, 2, 3):
         if not skipped or not ABBR[stage]:
             continue
         retry = []
@@ -393,7 +393,7 @@ def main():
     p.add_argument("--out", default="sheets", help="папка для команды sheet")
     a = p.parse_args()
     if a.no_abbr:
-        ABBR[1], ABBR[2] = [], []
+        ABBR[1], ABBR[2], ABBR[3] = [], [], []
     else:
         load_abbr(a.abbr)
     {"apply": cmd_apply, "restore": cmd_restore, "sheet": cmd_sheet,
