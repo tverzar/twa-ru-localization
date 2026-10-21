@@ -5,3 +5,6 @@ __pycache__/
 backup_ru/
 *.pack
 *.pack.orig
+dist/
+build/
+*.spec

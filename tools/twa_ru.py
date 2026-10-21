@@ -280,84 +280,163 @@ def patch_pack(pack, tables, log):
 
 
 # --- работа с папкой игры ------------------------------------------------------
+OUT = print          # куда писать сообщения (окно подменяет)
+
+
 def find_game(arg):
     g = Path(arg) if arg else Path.cwd()
     if (g / "Arena.exe").exists():
         return g
-    raise SystemExit("Не нашёл Arena.exe. Укажите папку игры: --game \"D:\\Total War Arena\"")
+    raise SystemExit("Не нашёл Arena.exe. Укажите папку игры: --game \"D:\Total War Arena\"")
 
 
 def sha(path):
     return hashlib.sha256(Path(path).read_bytes()).hexdigest()
 
 
-def ensure_backup(game, force):
+def read_state(bdir):
+    f = bdir / "state.json"
+    if not f.exists():
+        return None
+    st = json.loads(f.read_text(encoding="utf-8"))
+    if "orig" not in st:                      # старый формат: {имя: sha оригинала}
+        st = {"orig": st, "patched": {}, "legacy": True}
+    return st
+
+
+def write_state(bdir, st):
+    (bdir / "state.json").write_text(json.dumps(st, indent=1), encoding="utf-8")
+
+
+def has_cyrillic(path):
+    pk = Pack(path)
+    return any(CYR.search(d.decode("utf-16", "ignore")) for n, d in pk.files if n.endswith(".txt"))
+
+
+def game_status(game):
+    """-> ('clean'|'patched'|'changed'|'missing', подробности)"""
     data, bdir = game / "data", game / "data" / BACKUP_DIR
-    marker = bdir / "state.json"
-    if marker.exists():
-        return bdir
-    for name, size in EXPECTED.items():
+    for name in EXPECTED:
+        if not (data / name).exists():
+            return "missing", f"нет файла {name}"
+    st = read_state(bdir)
+    if st is None:
+        return "clean", "бэкап ещё не создан"
+    kinds = set()
+    for name in EXPECTED:
+        cur = sha(data / name)
+        kinds.add("orig" if cur == st["orig"].get(name) else
+                  "patched" if (cur == st["patched"].get(name) or st.get("legacy")) else "other")
+    if kinds == {"patched"}:
+        return "patched", "русификатор установлен"
+    if kinds == {"orig"}:
+        return "clean", "оригинальные файлы"
+    if "other" in kinds:
+        return "changed", "файлы изменены игрой или другой программой"
+    return "patched", "русификатор установлен частично"
+
+
+def ensure_backup(game, force):
+    """Гарантирует бэкап оригиналов. Если игра сама обновила паки, сохраняет новые оригиналы."""
+    data, bdir = game / "data", game / "data" / BACKUP_DIR
+    st = read_state(bdir)
+    names = list(EXPECTED)
+    refresh = []
+    if st is None:
+        refresh = names
+    else:
+        for name in names:
+            cur = sha(data / name)
+            if cur not in (st["orig"].get(name), st["patched"].get(name)) and not st.get("legacy"):
+                refresh.append(name)
+    for name in refresh:
         p = data / name
         if not p.exists():
             raise SystemExit(f"Нет файла {p}")
-        if p.stat().st_size != size and not force:
-            raise SystemExit(f"{name}: размер {p.stat().st_size}, ожидался {size}. "
-                             "Это другая сборка клиента (или пак уже изменён). Запустите с --force, если уверены.")
-        pk = Pack(p)
-        if any(CYR.search(d.decode("utf-16", "ignore")) for n, d in pk.files
-               if n.endswith(".txt")) and not force:
-            raise SystemExit(f"{name}: в паке уже есть кириллица — возможно, он уже пропатчен. "
-                             "Верните оригинал или используйте --force.")
-    bdir.mkdir(parents=True, exist_ok=True)
-    state = {}
-    for name in EXPECTED:
-        shutil.copy2(data / name, bdir / name)
-        state[name] = sha(bdir / name)
-    marker.write_text(json.dumps(state, indent=1), encoding="utf-8")
-    print(f"Оригиналы сохранены в {bdir}")
+        if p.stat().st_size != EXPECTED[name] and not force:
+            raise SystemExit(f"{name}: размер {p.stat().st_size}, а проверенная сборка клиента даёт {EXPECTED[name]}. "
+                             "Это другая версия игры (или файл изменён другой программой). "
+                             "Перевод для неё не проверялся; можно продолжить с опцией --force на свой риск.")
+        if has_cyrillic(p) and not force:
+            raise SystemExit(f"{name}: в паке уже есть кириллица — похоже, он изменён другим русификатором. "
+                             "Верните оригинальные файлы (перепроверьте игру в лаунчере) или используйте --force.")
+    if refresh:
+        bdir.mkdir(parents=True, exist_ok=True)
+        st = st or {"orig": {}, "patched": {}}
+        for name in refresh:
+            shutil.copy2(data / name, bdir / name)
+            st["orig"][name] = sha(bdir / name)
+            st["patched"].pop(name, None)
+        write_state(bdir, st)
+        OUT("Оригинальные файлы сохранены в " + str(bdir))
     return bdir
 
 
-def cmd_apply(a, report_only=False):
-    game = find_game(a.game)
-    bdir = ensure_backup(game, a.force)
-    tables = load_translations(Path(a.translations))
-    print(f"Загружено таблиц: {len(tables)}, строк: {sum(len(t) for t in tables.values())}")
-    log, total = [], 0
+def run_apply(game, tdir, abbr_path=None, force=False, dry=False, csv_path=None, report_only=False, no_abbr=False):
+    """Применяет перевод. Возвращает словарь со сводкой."""
+    bdir = ensure_backup(game, force)
+    if no_abbr or not abbr_path:
+        ABBR[1], ABBR[2], ABBR[3], ABBR[4] = [], [], [], []
+    else:
+        load_abbr(abbr_path)
+    tables = load_translations(Path(tdir))
+    OUT(f"Загружено таблиц: {len(tables)}, строк: {sum(len(t) for t in tables.values())}")
+    log, total, outs = [], 0, {}
     for name in EXPECTED:
         pack = Pack(bdir / name)
         stats = patch_pack(pack, tables, log)
         total += sum(stats.values())
-        out = pack.build()
-        assert len(out) == len(pack.raw)
-        print(f"{name}: переведено {sum(stats.values())} строк в {len(stats)} файлах")
-        if not report_only and not a.dry_run:
-            try:
-                (game / "data" / name).write_bytes(out)
-            except PermissionError:
-                raise SystemExit("Не могу записать пак — закройте игру и лаунчер.")
-    skipped = [r for r in log if r[2] == "не влезло"]
-    print(f"Не влезло по размеру: {len({(r[0].split(BS)[-1], r[1]) for r in skipped})} строк; "
-          f"отброшено из-за разметки: {sum(1 for r in log if r[2] == 'разметка')}")
-    if a.csv or report_only:
-        out = Path(a.csv or "report.csv")
-        with out.open("w", encoding="utf-8-sig", newline="") as f:
+        outs[name] = pack.build()
+        assert len(outs[name]) == len(pack.raw)
+        OUT(f"{name}: переведено {sum(stats.values())} строк в {len(stats)} файлах")
+    skipped = {(r[0].split(BS)[-1], r[1]) for r in log if r[2] == "не влезло"}
+    bad = sum(1 for r in log if r[2] == "разметка")
+    OUT(f"Не влезло по размеру (остались английскими): {len(skipped)}; отброшено из-за разметки: {bad}")
+    if csv_path:
+        with Path(csv_path).open("w", encoding="utf-8-sig", newline="") as f:
             w = csv.writer(f, delimiter=";")
             w.writerow(["файл", "ключ", "причина", "длина_оригинала", "длина_перевода"])
             w.writerows(log)
-        print(f"Отчёт: {out}")
-    if not report_only and not a.dry_run:
-        print("Готово. Запустите игру.")
+        OUT(f"Отчёт: {csv_path}")
+    if not (dry or report_only):
+        try:
+            for name, blob in outs.items():
+                (game / "data" / name).write_bytes(blob)
+        except PermissionError:
+            raise SystemExit("Не могу записать пак: закройте игру и лаунчер.")
+        st = read_state(bdir)
+        for name, blob in outs.items():
+            st["patched"][name] = hashlib.sha256(blob).hexdigest()
+        write_state(bdir, st)
+        OUT("Готово. Запустите игру.")
+    return {"translated": total, "skipped": len(skipped), "bad": bad}
+
+
+def run_restore(game, force=False):
+    bdir = game / "data" / BACKUP_DIR
+    st = read_state(bdir)
+    if st is None:
+        raise SystemExit("Бэкап не найден: нечего восстанавливать.")
+    status, _ = game_status(game)
+    if status == "changed" and not force:
+        raise SystemExit("Файлы игры изменены (скорее всего, игра обновилась): старый бэкап больше не подходит. "
+                         "Проверьте файлы игры в лаунчере, чтобы получить оригиналы.")
+    try:
+        for name in EXPECTED:
+            shutil.copy2(bdir / name, game / "data" / name)
+    except PermissionError:
+        raise SystemExit("Не могу записать пак: закройте игру и лаунчер.")
+    OUT("Оригинальные паки восстановлены.")
+
+
+def cmd_apply(a, report_only=False):
+    game = find_game(a.game)
+    run_apply(game, a.translations, None if a.no_abbr else a.abbr, a.force, a.dry_run,
+              a.csv or ("report.csv" if report_only else None), report_only, a.no_abbr)
 
 
 def cmd_restore(a):
-    game = find_game(a.game)
-    bdir = game / "data" / BACKUP_DIR
-    if not (bdir / "state.json").exists():
-        raise SystemExit("Бэкап не найден — нечего восстанавливать.")
-    for name in EXPECTED:
-        shutil.copy2(bdir / name, game / "data" / name)
-    print("Оригинальные паки восстановлены.")
+    run_restore(find_game(a.game), a.force)
 
 
 def cmd_sheet(a):
@@ -395,10 +474,6 @@ def main():
     p.add_argument("--csv", help="куда сохранить отчёт о пропущенных строках")
     p.add_argument("--out", default="sheets", help="папка для команды sheet")
     a = p.parse_args()
-    if a.no_abbr:
-        ABBR[1], ABBR[2], ABBR[3], ABBR[4] = [], [], [], []
-    else:
-        load_abbr(a.abbr)
     {"apply": cmd_apply, "restore": cmd_restore, "sheet": cmd_sheet,
      "report": lambda x: cmd_apply(x, report_only=True)}[a.command](a)
 
