@@ -221,16 +221,17 @@ def patch_loc(data, tr, skipped_log, name):
         if sorted(TOKENS.findall(v)) != sorted(TOKENS.findall(new)):
             skipped_log.append((name, k, "разметка", len(v), len(new))); continue
         cands.append([i, new, len(new) - len(v)])
-    keep, slack, skipped = fit(cands)
+    keep, slack, skipped = (cands, 0, []) if NO_LIMIT else fit(cands)
     for i, new, _g in skipped:
         skipped_log.append((name, rows[i][0], "не влезло", len(rows[i][1]), len(new)))
     if not keep:
         return data, 0
     for i, new, _g in keep:
         rows[i][1] = new
-    rows[keep[0][0]][1] += " " * slack
+    if slack:
+        rows[keep[0][0]][1] += " " * slack
     out = loc_write(head, rows)
-    assert len(out) == len(data), name
+    assert NO_LIMIT or len(out) == len(data), name
     return out, len(keep)
 
 
@@ -248,16 +249,17 @@ def patch_txt(data, tr, skipped_log, name):
         if sorted(TOKENS.findall(old)) != sorted(TOKENS.findall(new)):
             skipped_log.append((name, m.group(1), "разметка", len(old), len(new))); continue
         cands.append([i, line[:m.end()] + new, len(new) - len(old)])
-    keep, slack, skipped = fit(cands)
+    keep, slack, skipped = (cands, 0, []) if NO_LIMIT else fit(cands)
     for i, newline, _g in skipped:
         skipped_log.append((name, TXT_LINE.match(lines[i]).group(1), "не влезло", 0, len(newline)))
     if not keep:
         return data, 0
     for i, newline, _g in keep:
         lines[i] = newline
-    lines[keep[0][0]] += " " * slack
+    if slack:
+        lines[keep[0][0]] += " " * slack
     out = b"\xff\xfe" + "\r\n".join(lines).encode("utf-16le")
-    assert len(out) == len(data), name
+    assert NO_LIMIT or len(out) == len(data), name
     return out, len(keep)
 
 
@@ -281,6 +283,7 @@ def patch_pack(pack, tables, log):
 
 # --- работа с папкой игры ------------------------------------------------------
 OUT = print          # куда писать сообщения (окно подменяет)
+NO_LIMIT = False     # True: клиент без проверки размеров, переводим целиком (без сокращений и пробелов)
 
 
 def find_game(arg):
@@ -372,9 +375,13 @@ def ensure_backup(game, force):
     return bdir
 
 
-def run_apply(game, tdir, abbr_path=None, force=False, dry=False, csv_path=None, report_only=False, no_abbr=False):
+def run_apply(game, tdir, abbr_path=None, force=False, dry=False, csv_path=None, report_only=False, no_abbr=False, no_limit=False):
     """Применяет перевод. Возвращает словарь со сводкой."""
+    global NO_LIMIT
+    NO_LIMIT = no_limit
     bdir = ensure_backup(game, force)
+    if no_limit:
+        OUT("Режим без ограничения по размеру: все строки переводятся целиком (нужен клиент без проверки паков).")
     if no_abbr or not abbr_path:
         ABBR[1], ABBR[2], ABBR[3], ABBR[4] = [], [], [], []
     else:
@@ -387,7 +394,7 @@ def run_apply(game, tdir, abbr_path=None, force=False, dry=False, csv_path=None,
         stats = patch_pack(pack, tables, log)
         total += sum(stats.values())
         outs[name] = pack.build()
-        assert len(outs[name]) == len(pack.raw)
+        assert no_limit or len(outs[name]) == len(pack.raw)
         OUT(f"{name}: переведено {sum(stats.values())} строк в {len(stats)} файлах")
     skipped = {(r[0].split(BS)[-1], r[1]) for r in log if r[2] == "не влезло"}
     bad = sum(1 for r in log if r[2] == "разметка")
@@ -432,7 +439,7 @@ def run_restore(game, force=False):
 def cmd_apply(a, report_only=False):
     game = find_game(a.game)
     run_apply(game, a.translations, None if a.no_abbr else a.abbr, a.force, a.dry_run,
-              a.csv or ("report.csv" if report_only else None), report_only, a.no_abbr)
+              a.csv or ("report.csv" if report_only else None), report_only, a.no_abbr, a.no_size_limit)
 
 
 def cmd_restore(a):
@@ -469,6 +476,7 @@ def main():
     p.add_argument("--translations", default=str(here), help="папка с *.tsv")
     p.add_argument("--abbr", default=str(here.parent / "abbreviations.tsv"), help="словарь сокращений")
     p.add_argument("--no-abbr", action="store_true", help="не сокращать слова")
+    p.add_argument("--no-size-limit", action="store_true", help="клиент без проверки размеров паков: переводить всё целиком")
     p.add_argument("--dry-run", action="store_true", help="ничего не записывать")
     p.add_argument("--force", action="store_true", help="игнорировать проверки версии")
     p.add_argument("--csv", help="куда сохранить отчёт о пропущенных строках")
