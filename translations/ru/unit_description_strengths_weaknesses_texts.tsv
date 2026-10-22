@@ -1,0 +1,70 @@
+unit_description_strengths_weaknesses_texts_text_transport	Очень слабая прочность корпуса||Очень низкая скорость||Слабый таран
+unit_description_strengths_weaknesses_texts_text_barbarian_transport	Очень слабая прочность корпуса||Очень низкая скорость||Слабый таран
+unit_description_strengths_weaknesses_texts_text_two	Очень слабая прочность корпуса||Очень малая команда||Высокая скорость||Слабый таран||Хороший абордаж
+unit_description_strengths_weaknesses_texts_text_polybolos	Высокий урон||Точный||Средняя дальность||Очень высокая скорострельность
+unit_description_strengths_weaknesses_texts_text_spear_avg	Хороший оборонительный отряд||Малый урон, но средняя бронебойность||Средняя атака||Нормальный боевой дух
+unit_description_strengths_weaknesses_texts_text_scorpio_hft_seven	Исключительная прочность корпуса||Очень большая команда||Очень низкая скорость||Сильный таран||Хороший абордаж||Исключительный дальний бой
+unit_description_strengths_weaknesses_texts_text_axemen_good	Хорошая атака||Средняя защита||Малый урон, но хорошая бронебойность||Хороший боевой дух
+unit_description_strengths_weaknesses_texts_text_four	Средняя прочность корпуса||Средняя команда||Средняя скорость||Средний таран||Средний абордаж
+unit_description_strengths_weaknesses_texts_text_barbarian_four	Средняя прочность корпуса||Средняя команда||Средняя скорость||Средний таран||Средний абордаж
+unit_description_strengths_weaknesses_texts_text_five	Хорошая прочность корпуса||Средняя команда||Средняя скорость||Средний таран||Слабый абордаж||Хороший дальний бой
+unit_description_strengths_weaknesses_texts_text_heavy_raider	Очень хорошая прочность корпуса||Средняя команда||Средняя скорость||Средний таран||Очень хороший абордаж
+unit_description_strengths_weaknesses_texts_text_two_halfer	Слабая прочность корпуса||Средняя команда||Не догнать||Слабый таран||Слабый абордаж||Средний дальний бой
+unit_description_strengths_weaknesses_texts_text_double_scorpio_five	Хорошая прочность корпуса||Средняя команда||Средняя скорость||Средний таран||Слабый абордаж||Очень хороший дальний бой
+unit_description_strengths_weaknesses_texts_text_melee_avg	Хорошая атака||Средняя защита||Средний урон, но слабое бронебойное действие||Нормальный боевой дух
+unit_description_strengths_weaknesses_texts_text_one_halfer	Очень слабая прочность корпуса||Малая команда||Очень высокая скорость||Слабый таран||Очень слабый абордаж||Слабый дальний бой
+unit_description_strengths_weaknesses_texts_text_javelinmen	Малая дальность||Высокая скорострельность||Очень хороший урон и бронебойность||Очень слаб в ближнем бою||Очень слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_harpax_six	Очень хорошая прочность корпуса||Большая команда||Низкая скорость||Сильный таран||Исключительный абордаж
+unit_description_strengths_weaknesses_texts_text_elephant_armoured	Очень хороший натиск||Высокий урон||Огромный запас здоровья||Хороший боевой дух
+unit_description_strengths_weaknesses_texts_text_pike_good	Очень хороший оборонительный отряд||Малый урон, но средняя бронебойность||Средняя атака||Хороший боевой дух||Очень уязвим вне фаланги
+unit_description_strengths_weaknesses_texts_text_pike_poor	Средний оборонительный отряд||Малый урон, но средняя бронебойность||Слабая атака||Слабый боевой дух||Очень уязвим вне фаланги
+unit_description_strengths_weaknesses_texts_text_melee_poor	Средняя атака||Слабая защита||Средний урон, но слабое бронебойное действие||Слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_melee_good	Очень хорошая атака||Средняя защита||Средний урон, но слабое бронебойное действие||Хороший боевой дух
+unit_description_strengths_weaknesses_texts_text_fire_pot_two	Очень слабая прочность корпуса||Очень малая команда||Высокая скорость||Очень сильный первый таран||Хороший абордаж
+unit_description_strengths_weaknesses_texts_text_archer_cav	Большая дальность||Средняя скорострельность||Быстрый||Хороший урон, но слабое бронебойное действие||Очень слаб в ближнем бою||Очень слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_javelin_cav	Малая дальность||Высокая скорострельность||Быстрый||Очень хороший урон и бронебойность||Большой щит||Очень слаб в ближнем бою||Слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_six	Очень хорошая прочность корпуса||Большая команда||Низкая скорость||Сильный таран||Очень хороший абордаж
+unit_description_strengths_weaknesses_texts_text_onager_five	Хорошая прочность корпуса||Минимальная команда||Средняя скорость||Средний таран||Ужасный абордаж||Исключительный дальний бой
+unit_description_strengths_weaknesses_texts_text_spear_good	Очень хороший оборонительный отряд||Малый урон, но средняя бронебойность||Средняя атака||Хороший боевой дух
+unit_description_strengths_weaknesses_texts_text_spear_poor	Средний оборонительный отряд||Малый урон, но средняя бронебойность||Слабая атака||Слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_mob	Очень малый урон и бронебойность||Очень слаб в ближнем бою||Очень слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_medium_raider_melee	Хорошая прочность корпуса||Средняя команда||Высокая скорость||Слабый таран||Хороший абордаж
+unit_description_strengths_weaknesses_texts_text_raider_melee	Средняя прочность корпуса||Малая команда||Очень высокая скорость||Слабый таран||Средний абордаж
+unit_description_strengths_weaknesses_texts_text_medium_raider_ranged	Хорошая прочность корпуса||Средняя команда||Высокая скорость||Слабый таран||Слабый абордаж||Хороший дальний бой
+unit_description_strengths_weaknesses_texts_text_raider_ranged	Хорошая прочность корпуса||Средняя команда||Высокая скорость||Слабый таран||Слабый абордаж||Хороший дальний бой
+unit_description_strengths_weaknesses_texts_text_ballista_giant	Точный||Очень большая дальность||Средняя скорострельность||Урон выше, чем у обычной баллисты||Здоровья больше, чем у обычной баллисты||Неподвижен
+unit_description_strengths_weaknesses_texts_text_scorpio_three	Слабая прочность корпуса||Малая команда||Высокая скорость||Слабый таран||Средний абордаж||Хороший дальний бой
+unit_description_strengths_weaknesses_texts_text_archers_elite	Большая дальность||Высокая скорострельность||Хороший урон, но слабое бронебойное действие||Очень слаб в ближнем бою||Слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_pike_avg	Хороший оборонительный отряд||Малый урон, но средняя бронебойность||Средняя атака||Нормальный боевой дух||Очень уязвим вне фаланги
+unit_description_strengths_weaknesses_texts_text_double_hft_eight	Несокрушимая прочность корпуса||Очень большая команда||Очень низкая скорость||Сильный таран||Непоколебимый абордаж||Средний дальний бой
+unit_description_strengths_weaknesses_texts_text_shock_inf_good	Очень хорошие натиск и атака||Хороший урон и бронебойность||Слабая защита||Хороший боевой дух
+unit_description_strengths_weaknesses_texts_text_melee_cav_good	Очень хорошая атака||Средняя защита||Малый урон, но средняя бронебойность||Хороший боевой дух
+unit_description_strengths_weaknesses_texts_text_shock_inf_poor	Средние натиск и атака||Хороший урон и бронебойность||Слабая защита||Слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_melee_cav_poor	Средняя атака||Слабая защита||Малый урон, но средняя бронебойность||Слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_peltasts	Малая дальность||Высокая скорострельность||Очень хороший урон и бронебойность||Большой щит||Очень слаб в ближнем бою||Слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_ballista	Очень точный||Очень большая дальность||Высокая скорострельность||Урон ниже, чем у другой артиллерии||Легко уничтожить
+unit_description_strengths_weaknesses_texts_text_ballista_five	Средняя прочность корпуса||Минимальная команда||Средняя скорость||Средний таран||Ужасный абордаж||Исключительный дальний бой
+unit_description_strengths_weaknesses_texts_text_shock_inf_avg	Хорошие натиск и атака||Хороший урон и бронебойность||Слабая защита||Нормальный боевой дух
+unit_description_strengths_weaknesses_texts_text_slingers	Очень большая дальность||Средняя скорострельность||Малый урон, но средняя бронебойность||Очень слаб в ближнем бою||Очень слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_war_dogs	Очень хорошая атака||Силён против легкобронированных отрядов||Погонщики слабы в ближнем бою
+unit_description_strengths_weaknesses_texts_text_war_pigs	Пугает слонов||Животные не атакуют||Погонщики слабы в ближнем бою
+unit_description_strengths_weaknesses_texts_text_barbarian_five	Средняя прочность корпуса||Средняя команда||Средняя скорость||Средний таран||Слабый абордаж||Хороший дальний бой
+unit_description_strengths_weaknesses_texts_text_shock_cav_avg	Хороший натиск||Малый урон, но средняя бронебойность||Слаб в затяжном ближнем бою||Нормальный боевой дух
+unit_description_strengths_weaknesses_texts_text_archer_cav_elite	Большая дальность||Высокая скорострельность||Быстрый||Хороший урон, но слабое бронебойное действие||Очень слаб в ближнем бою||Слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_melee_cav_avg	Хорошая атака||Средняя защита||Малый урон, но средняя бронебойность||Нормальный боевой дух
+unit_description_strengths_weaknesses_texts_text_archers	Большая дальность||Средняя скорострельность||Хороший урон, но слабое бронебойное действие||Очень слаб в ближнем бою||Очень слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_chariot_scythed	Быстрый||Очень хороший натиск||Средний в ближнем бою||Хороший боевой дух
+unit_description_strengths_weaknesses_texts_text_shock_cav_good	Очень хороший натиск||Малый урон, но средняя бронебойность||Слаб в затяжном ближнем бою||Хороший боевой дух
+unit_description_strengths_weaknesses_texts_text_shock_cav_poor	Средний натиск||Малый урон, но средняя бронебойность||Слаб в затяжном ближнем бою||Слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_general	Малый размер отряда||Средняя атака||Средняя защита||Малый урон, но средняя бронебойность||Воодушевляет союзников рядом||Хороший боевой дух
+unit_description_strengths_weaknesses_texts_text_eight	Несокрушимая прочность корпуса||Очень большая команда||Очень низкая скорость||Сильный таран||Непоколебимый абордаж
+unit_description_strengths_weaknesses_texts_text_axemen	Средняя атака||Плохая защита||Малый урон, но хорошая бронебойность||Слабый боевой дух
+unit_description_strengths_weaknesses_texts_text_elephant	Очень хороший натиск||Высокий урон||Большой запас здоровья||Нормальный боевой дух
+unit_description_strengths_weaknesses_texts_text_chariot	Быстрый||Метает дротики на ходу||Хороший натиск||Слаб в затяжном ближнем бою||Хороший боевой дух
+unit_description_strengths_weaknesses_texts_text_onager	Большая дальность||Высокий урон разными снарядами||Трудно уничтожить||Неточный||Низкая скорострельность
+unit_description_strengths_weaknesses_texts_text_seven	Исключительная прочность корпуса||Очень большая команда||Очень низкая скорость||Сильный таран||Хороший абордаж||Очень хороший дальний бой
+unit_description_strengths_weaknesses_texts_text_three	Слабая прочность корпуса||Малая команда||Высокая скорость||Слабый таран||Слабый абордаж||Средний дальний бой
+unit_description_strengths_weaknesses_texts_text_scorpion	Высокий урон||Подвижный||Очень точный||Малая дальность||Средняя скорострельность
+unit_description_strengths_weaknesses_texts_text_shock_cav_cat	Очень хороший натиск||Малый урон, но средняя бронебойность||Тяжёлая броня||Самая медленная кавалерия||Хороший боевой дух
+unit_description_strengths_weaknesses_texts_text_lft_five	Хорошая прочность корпуса||Средняя команда||Средняя скорость||Средний таран||Средний абордаж||Очень хороший дальний бой
+unit_description_strengths_weaknesses_texts_text_lft_six	Очень хорошая прочность корпуса||Большая команда||Низкая скорость||Сильный таран||Очень хороший абордаж||Слабый дальний бой
