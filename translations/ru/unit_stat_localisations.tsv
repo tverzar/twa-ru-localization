@@ -100,3 +100,4 @@ unit_stat_localisations_onscreen_name_stat_shield_defence	Защита щито�
 unit_stat_localisations_onscreen_name_stat_health	Здоровье
 unit_stat_localisations_tooltip_text_scalar_entity_acceleration_modifier	Скорость набора бойцом полной скорости.
 unit_stat_localisations_tooltip_text_scalar_entity_deceleration_modifier	Скорость, с которой боец замедляется.
+unit_stat_localisations_tooltip_text_stat_armour	Все значения базового урона сверяются с бронёй. 90% значения брони сразу вычитается из входящего базового урона. Оставшиеся 10% случайны и также вычитаются из входящего базового урона. Остаток урона наносится солдату.

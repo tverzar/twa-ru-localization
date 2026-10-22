@@ -64,3 +64,4 @@ projectile_shot_type_enum_tooltip_text_javelin_broadhead	Переход на ш�
 projectile_shot_type_enum_onscreen_name_javelin_trilobate	Трёхлопастные дротики
 projectile_shot_type_enum_tooltip_text_javelin_trilobate	Переход на трёхлопастные наконечники: растёт [[col:light_grey]]дальность[[/col]], но падает [[col:light_grey]]урон[[/col]].
 projectile_shot_type_enum_onscreen_name_bullet_default	По умолчанию
+projectile_shot_type_enum_tooltip_text_small_arm_flaming	Наносит больше урона, но менее точное и медленнее. Может поджигать здания.\n\n[[col:green]]Урон, бонус против зданий[[/col]]\n\n[[col:red]]Точность, время перезарядки, нельзя использовать в дождь[[/col]]

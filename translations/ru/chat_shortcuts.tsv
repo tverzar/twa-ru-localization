@@ -9,3 +9,7 @@ chat_shortcuts_description_roll	Генерирует в чате случайн�
 chat_shortcuts_description_vote	Голосование за лидера команды (/vote player_name)
 chat_shortcuts_description_all	Общий Чат (/all message)
 chat_shortcuts_description_add	Добавляет выбранного игрока в список друзей (/add player_name)
+chat_shortcuts_description_r	[[col:orange]]{message}[[/col]] — ответить на последнее полученное личное сообщение
+chat_shortcuts_description_pm	[[col:orange]]{playername} {message}[[/col]] — отправить личное сообщение указанному игроку
+chat_shortcuts_description_block	[[col:orange]]{playername}[[/col]] — навсегда блокирует входящие сообщения чата и голоса указанного игрока до снятия блокировки
+chat_shortcuts_description_mute	[[col:orange]]{playername}[[/col]] — временно блокирует входящие сообщения чата и голоса указанного игрока до следующего входа

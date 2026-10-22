@@ -78,3 +78,4 @@ f2p_error_strings_message_arbitration_error_enroll_too_many_retries	Арбитр
 f2p_error_strings_message_arbitration_error_enroll_check_timeout	Арбитраж не удался: время проверки записи истекло
 f2p_error_strings_message_purchase_option_invalid_not_owned	Ошибка: не принадлежит вам
 f2p_error_strings_message_matchmaking_unit_tier_too_high	Уровень одного или нескольких ваших отрядов слишком высок. Допустимый разброс уровней отряда: 
+f2p_error_strings_message_not_active_on_twa	К сожалению, у вас сейчас нет доступа к Total War: ARENA. Total War: ARENA находится на закрытом бета-тестировании. Зайдите на сайт игры, чтобы записаться на закрытое бета-тестирование.

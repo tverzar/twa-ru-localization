@@ -792,3 +792,4 @@ random_localisation_strings_string_Single	Одиночный
 random_localisation_strings_string_confirm_delete_title	Подтвердите удаление
 random_localisation_strings_string_temp_unlock_until_hour_minute	Осталось пробного времени: %dч %dм
 random_localisation_strings_string_weather_tooltips_rain	Дождь||Лучники не могут использовать горящие стрелы. Труднее поджечь здания и корабли, а отряды дольше восстанавливаются от усталости в бездействии.
+random_localisation_strings_string_network_message_not_responding_client	Один или несколько игроков не отвечают; продолжить ожидание или покинуть игру?
