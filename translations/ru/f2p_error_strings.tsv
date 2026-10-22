@@ -9,19 +9,19 @@ f2p_error_strings_message_matchmaking_error_invalid_squad_size	Ошибка по
 f2p_error_strings_message_matchmaking_error	Ошибка поиска игры
 f2p_error_strings_message_authentication_failed_default_webbrowser	Ошибка входа: не удалось запустить браузер по умолчанию!
 f2p_error_strings_message_purchase_option_invalid_missing_dependency	Ошибка: не хватает зависимости
-f2p_error_strings_message_ability_no_unit_selected	Способность доступна отрядам ранга %s и выше.
+f2p_error_strings_message_ability_no_unit_selected	Способность доступна отрядам уровня %s и выше.
 f2p_error_strings_message_matchmaking_timeout	Время подбора боя истекло
 f2p_error_strings_message_unitialised_item_catalogue	Ошибка: каталог предметов не инициализирован из-за недавнего развёртывания сервера.
 f2p_error_strings_message_matchmaking_error_out_of_sync	Подбор боя не удался: профиль рассинхронизирован (загружен заново)
 f2p_error_strings_message_payment_system_error_finalize	Ошибка платёжной системы при завершении транзакции
 f2p_error_strings_message_party_invitation_failed_already_in_party	Нельзя пригласить игрока: он уже в отряде. Сначала ему нужно покинуть отряд.
 f2p_error_strings_message_custom_battle_empty_team	Ошибка своего боя: пустая команда
-f2p_error_strings_message_matchmaking_unit_tier_too_low	Ранг одного или нескольких ваших отрядов слишком низок. Допустимый разброс рангов отряда: 
+f2p_error_strings_message_matchmaking_unit_tier_too_low	Уровень одного или нескольких ваших отрядов слишком низок. Допустимый разброс уровней отряда: 
 f2p_error_strings_message_profile_server_failed_connect	Не удалось подключиться к серверу профилей
 f2p_error_strings_message_player_status_kicked_old_session	Вы вошли с другого компьютера.
 f2p_error_strings_message_custom_battle_player_not_in_game	Ошибка своего боя: игрока нет в игре
 f2p_error_strings_message_news_failed_connect	Не удалось получить последние новости
-f2p_error_strings_message_ability_required_unit_tier	Нужен ранг отряда: %S
+f2p_error_strings_message_ability_required_unit_tier	Нужен уровень отряда: %S
 f2p_error_strings_message_item_catalogue_failed_connect	Не удалось подключиться к серверу каталога предметов
 f2p_error_strings_message_key_already_used_type	Ошибка: ключ этого типа уже активирован
 f2p_error_strings_message_party_invitation_failed_not_invited	Ваше приглашение отменено.
@@ -29,7 +29,7 @@ f2p_error_strings_message_ability_not_owned_commander	У вас нет этог�
 f2p_error_strings_message_token_no_outcome	Активация этого жетона ничего не даст. Жетон не потрачен.
 f2p_error_strings_message_muc_failed_to_get_lobby_rooms	Не удалось войти в чат-комнаты
 f2p_error_strings_message_custom_battle_error	Ошибка своего боя
-f2p_error_strings_message_ability_capped_by_unit_tier	Улучшения ограничены рангом отряда
+f2p_error_strings_message_ability_capped_by_unit_tier	Улучшения ограничены уровнем отряда
 f2p_error_strings_message_profile_server_out_of_sync	Профиль был рассинхронизирован и обновлён 
 f2p_error_strings_message_relay_server_failed_connect	Не удалось подключиться к релейному серверу
 f2p_error_strings_message_account_merge_successful_please_restart_your_client	Объединение аккаунтов выполнено. Перезапустите клиент.
@@ -44,23 +44,23 @@ f2p_error_strings_message_arbitration_error_enroll_timeout	Арбитраж не
 f2p_error_strings_message_authentication_failed	Не удалось войти
 f2p_error_strings_message_custom_battle_team_full	Ошибка своего боя: команда полна
 f2p_error_strings_message_matchmaking_party_error	Подбор боя для отряда не удался
-f2p_error_strings_message_matchmaking_unit_tier_does_not_match_game_mode	Ранг одного или нескольких ваших отрядов не подходит для текущего режима
+f2p_error_strings_message_matchmaking_unit_tier_does_not_match_game_mode	Уровень одного или нескольких ваших отрядов не подходит для текущего режима
 f2p_error_strings_message_party_invitation_failed_user_already_active_in_mm	Нельзя пригласить игрока: он сейчас в подборе боя. Сначала ему нужно выйти из подбора.
 f2p_error_strings_message_event_failed_validation	Событие профиля не прошло проверку
 f2p_error_strings_message_f2p_offline_tooltip	Нет сетевого подключения.
 f2p_error_strings_message_failed_to_report_player	Не удалось пожаловаться на игрока.
 f2p_error_strings_message_account_merge_failed	Не удалось объединить аккаунты.
-f2p_error_strings_message_ability_minimum_unit_tier_not_to_have_power_cap	Для указанной эффективности нужен ранг отряда %S
+f2p_error_strings_message_ability_minimum_unit_tier_not_to_have_power_cap	Для указанной эффективности нужен уровень отряда %S
 f2p_error_strings_message_party_invitation_failed_unknown	Нельзя пригласить игрока: причина неизвестна.
 f2p_error_strings_message_temporary_item_expired	Срок одного из выбранных пробных предметов истёк. Выберите замену.
 f2p_error_strings_message_matchmaking_client_arbitration_error	Не удалось записаться на арбитраж
 f2p_error_strings_message_relay_ping_failed	Ошибка определения региона подбора, повтор через несколько секунд. Если не можете играть, проверьте настройки сети и брандмауэра.
-f2p_error_strings_message_ability_commander_tier_too_low	Ранг вашего полководца слишком низок. Способность откроется на ранге %s
+f2p_error_strings_message_ability_commander_tier_too_low	Уровень вашего полководца слишком низок. Способность откроется на уровне %s
 f2p_error_strings_message_invalid_game_data_version_fatal	Данные игры рассинхронизированы, восстановить не удаётся
 f2p_error_strings_message_payment_system_overlay_disabled	Для покупки золота нужен включённый оверлей Steam. Включите его в Steam, чтобы продолжить.
 f2p_error_strings_message_purchase_option_invalid	Запрошен недопустимый вариант покупки
 f2p_error_strings_message_party_invitation_failed_in_replay	Нельзя пригласить игрока: он смотрит повтор или наблюдает за игрой. Не будем его беспокоить.
-f2p_error_strings_message_matchmaking_tier_range_too_high	Разброс рангов отрядов в отряде ограничен: %d. Ваши выбранные отряды выходят за него.
+f2p_error_strings_message_matchmaking_tier_range_too_high	Разброс уровней отрядов в отряде ограничен: %d. Ваши выбранные отряды выходят за него.
 f2p_error_strings_message_payment_system_error_selections	Ошибка платёжной системы при получении вариантов
 f2p_error_strings_message_matchmaking_error_units_not_full_strength	Подбор боя не удался: не все отряды в полной силе
 f2p_error_strings_message_invalid_game_data_version	Данные игры были рассинхронизированы и обновлены 
@@ -68,7 +68,7 @@ f2p_error_strings_message_invalid_package	Введённый код действ
 f2p_error_strings_message_ability_not_available_on_squad	Способность недоступна текущему составу
 f2p_error_strings_message_player_status_kicked	К сожалению, вас исключили с этого сервера.
 f2p_error_strings_message_not_enough_gold	У вас не хватает золота.
-f2p_error_strings_message_ability_unit_tier_too_low	У этого отряда нет доступа к способности полководца: ранг отряда слишком низок.
+f2p_error_strings_message_ability_unit_tier_too_low	У этого отряда нет доступа к способности полководца: уровень отряда слишком низок.
 f2p_error_strings_message_custom_battle_not_ready	Ошибка своего боя: не готов
 f2p_error_strings_message_party_invitation_failed_in_battle	Нельзя пригласить игрока: он сейчас в бою. Не будем его беспокоить.
 f2p_error_strings_message_payment_system_error	Ошибка платёжной системы
@@ -77,4 +77,4 @@ f2p_error_strings_message_player_status_banned	К сожалению, вы за�
 f2p_error_strings_message_arbitration_error_enroll_too_many_retries	Арбитраж не удался: слишком много попыток записи
 f2p_error_strings_message_arbitration_error_enroll_check_timeout	Арбитраж не удался: время проверки записи истекло
 f2p_error_strings_message_purchase_option_invalid_not_owned	Ошибка: не принадлежит вам
-f2p_error_strings_message_matchmaking_unit_tier_too_high	Ранг одного или нескольких ваших отрядов слишком высок. Допустимый разброс рангов отряда: 
+f2p_error_strings_message_matchmaking_unit_tier_too_high	Уровень одного или нескольких ваших отрядов слишком высок. Допустимый разброс уровней отряда: 

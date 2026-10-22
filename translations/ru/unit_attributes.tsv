@@ -1,7 +1,7 @@
 unit_attributes_bullet_text_ignore_forest_penalties	Иммунитет к проблемам в лесу||Этот отряд игнорирует любые проблемы в лесу.
 unit_attributes_bullet_text_hide_grass	Скрыть (трава)||Эти войска могут быть не обнаружены в траве, пока враг не подойдёт очень близко.
 unit_attributes_bullet_text_cant_run	Не бегает||Отряд не может бежать и движется только шагом.
-unit_attributes_bullet_text_scare_elephant	Пугает слонов||Отряд снижает мораль слонов.
+unit_attributes_bullet_text_scare_elephant	Пугает слонов||Отряд снижает боевой дух слонов.
 unit_attributes_bullet_text_animals_ignore_phalanx	Псы обходят фалангу||Боевые псы этого отряда уклоняются от ударов фаланги
 unit_attributes_bullet_text_forest_fighter	Лесной боец||Отряд получает бонусы в лесной местности.
 unit_attributes_bullet_text_shield_penetration_melee	Пробитие щитов||Отряд игнорирует характеристики вражеских щитов в ближнем бою.
@@ -9,7 +9,7 @@ unit_attributes_bullet_text_ignore_ground_move_mod	Игнорирует мест
 unit_attributes_bullet_text_all_ranks_fire	Стреляют все шеренги||Все шеренги могут стрелять, даже если оружие допускает одну.
 unit_attributes_bullet_text_immune_to_flank_attacks	Неуязвим для флангов||Отряд не страдает от ударов врага во фланг.  
 unit_attributes_bullet_text_campaign_stealth	Скрытность кампании||Отряд может незаметно двигаться по карте кампании.
-unit_attributes_bullet_text_charge_reflector_vs_large	Защита от рывка крупных||Атака и урон отряда в ближнем бою растут против крупных мчащихся врагов.
+unit_attributes_bullet_text_charge_reflector_vs_large	Защита от натиска крупных||Атака и урон отряда в ближнем бою растут против крупных мчащихся врагов.
 unit_attributes_bullet_text_boarding	Абордаж||Таран приводит к абордажу.
 unit_attributes_bullet_text_guerrilla_deploy	Партизанское развёртывание||Отряд может развернуться вне зоны развёртывания.
 unit_attributes_bullet_text_run_amok	Неистовство||Под давлением отряд может взбеситься.
@@ -18,8 +18,8 @@ unit_attributes_bullet_text_mounted_fire_move	Стрельба в движени
 unit_attributes_bullet_text_adaptable	Приспособляемость||Отряд получает меньше штрафов на трудной местности.
 unit_attributes_bullet_text_mighty_knockback	Мощное отбрасывание||Отряд наносит дополнительный урон, отбрасывая врагов.
 unit_attributes_bullet_text_scare_all	Пугает всех||Отряд пугает все вражеские отряды.
-unit_attributes_bullet_text_charge_reflector	Мастер защиты от рывка||Атака и урон отряда в ближнем бою растут против мчащихся врагов.
-unit_attributes_bullet_text_impetuous	Порывистый||Отряд получает дополнительную мораль при рвении.
+unit_attributes_bullet_text_charge_reflector	Мастер защиты от натиска||Атака и урон отряда в ближнем бою растут против мчащихся врагов.
+unit_attributes_bullet_text_impetuous	Порывистый||Отряд получает дополнительную боевой дух при рвении.
 unit_attributes_bullet_text_unformed_movement	Движение без строя||Отряд не держит строй при движении.
 unit_attributes_bullet_text_fire_while_moving	Стрельба на ходу||Отряд может стрелять в движении.
 unit_attributes_bullet_text_trample	Топтание||Отряд ранит сбитых с ног врагов, проходя по ним
@@ -27,25 +27,25 @@ unit_attributes_bullet_text_formed_movement	Строевое движение||�
 unit_attributes_bullet_text_berserk	Берсерк||Отряд может впасть в берсерк в бою: он становится неуправляемым и сам атакует врагов рядом.
 unit_attributes_bullet_text_engineering_experts	Знатоки инженерии||Отряд может разбирать вражеские сооружения, не получая урона.
 unit_attributes_bullet_text_unaffected_by_hoplite_knocks	Устойчив к отбрасыванию фаланги||Отряд не отбрасывается отрядами в фаланге
-unit_attributes_bullet_text_scare_animals_dummy	Пугает животных||Отряд снижает мораль вражеских коней и слонов.
+unit_attributes_bullet_text_scare_animals_dummy	Пугает животных||Отряд снижает боевой дух вражеских коней и слонов.
 unit_attributes_bullet_text_reform_automatically	Автоперестроение||Бездействующий отряд перестраивается сам.
-unit_attributes_bullet_text_scare_animals	Пугает животных||Отряд снижает мораль вражеских коней и слонов.
+unit_attributes_bullet_text_scare_animals	Пугает животных||Отряд снижает боевой дух вражеских коней и слонов.
 unit_attributes_bullet_text_snipe	Снайпер||Отряд остаётся скрытым при стрельбе.
 unit_attributes_bullet_text_stalk	Скрытное движение||Отряд может скрытно двигаться по любой местности.
 unit_attributes_bullet_text_secondary_attack_retalitation	Драчун||Отряд лучше других защищается от нескольких нападающих.
 unit_attributes_bullet_text_formed_attack	Строевая атака||В ближнем бою отряд старается сохранять строй.
 unit_attributes_bullet_text_resist_cold	Стойкость к холоду||Отряд меньше устаёт на снегу.
-unit_attributes_bullet_text_disciplined	Дисциплина||Отряд не теряет мораль при гибели полководца и чаще возвращается в строй после бегства.
+unit_attributes_bullet_text_disciplined	Дисциплина||Отряд не теряет боевой дух при гибели полководца и чаще возвращается в строй после бегства.
 unit_attributes_bullet_text_hide_forest	Укрытие (лес)||Отряд может прятаться в лесу, пока враг не подойдёт слишком близко.
 unit_attributes_bullet_text_fatigue_res	Стойкость к усталости||Усталость слабее действует на отряд.
 unit_attributes_bullet_text_resist_heat	Стойкость к жаре||Отряд меньше устаёт в пустыне.
 unit_attributes_bullet_text_hide_building	Укрытие (здания)||Отряд может прятаться в зданиях, пока враг не подойдёт слишком близко.
 unit_attributes_bullet_text_hide_scrub_and_forest	Укрытие (кусты и лес)||Отряд может прятаться в кустах и лесу, пока враг не подойдёт слишком близко.
-unit_attributes_bullet_text_scare_horse	Пугает коней||Отряд снижает мораль вражеских коней.
+unit_attributes_bullet_text_scare_horse	Пугает коней||Отряд снижает боевой дух вражеских коней.
 unit_attributes_bullet_text_immune_cav_penalty	Неуязвим для копий||У копий нет дополнительного преимущества против этой кавалерии.
-unit_attributes_bullet_text_encourages	Ободрение||Отряд повышает мораль союзников рядом.
-unit_attributes_bullet_text_immune_morale_rear_attacks	Неуязвим к штрафам морали от флангов||Нет штрафов морали за атаки в тыл.
+unit_attributes_bullet_text_encourages	Ободрение||Отряд повышает боевой дух союзников рядом.
+unit_attributes_bullet_text_immune_morale_rear_attacks	Неуязвим к штрафам боевого духа от флангов||Нет штрафов боевого духа за атаки в тыл.
 unit_attributes_bullet_text_climb_fast	Быстрое лазание||Отряд лазает по стенам вдвое быстрее обычных.
 unit_attributes_bullet_text_mounted_fire_parthian	Парфянский выстрел||Отряд может стрелять во все стороны, а не только вперёд.
 unit_attributes_bullet_text_scare_immune	Бесстрашие||Отряд невосприимчив к страху от пугающих отрядов.
-unit_attributes_bullet_text_immune_morale_flank_attacks	Неуязвим к штрафам морали от флангов||Нет штрафов морали за атаки во фланг.
+unit_attributes_bullet_text_immune_morale_flank_attacks	Неуязвим к штрафам боевого духа от флангов||Нет штрафов боевого духа за атаки во фланг.

@@ -1,5 +1,5 @@
-arena_matchmaking_hints_hint_text_good_boys	Не держите боевых псов в долгом ближнем бою. Выводите их и снова бросайте в рывок — так выйдет лучше всего.
-arena_matchmaking_hints_hint_text_charging_counter_charging	Когда два отряда мчатся друг на друга, «побеждает» рывок у того, у кого выше удар рывком, и он ранит противника. Если значения схожи, «побеждает» рывок того, кто побежал первым.
+arena_matchmaking_hints_hint_text_good_boys	Не держите боевых псов в долгом ближнем бою. Выводите их и снова бросайте в натиск — так выйдет лучше всего.
+arena_matchmaking_hints_hint_text_charging_counter_charging	Когда два отряда мчатся друг на друга, «побеждает» натиск у того, у кого выше сила натиска, и он ранит противника. Если значения схожи, «побеждает» натиск того, кто побежал первым.
 arena_matchmaking_hints_hint_text_patience_is_virtue	Самый очевидный путь не всегда лучший. Ищите бреши в обороне врага, чтобы добраться до уязвимых целей.
 arena_matchmaking_hints_hint_title_slings_and_stones	Пращи и камни
 arena_matchmaking_hints_hint_text_range_advantages_javelin	Лучники и пращники стреляют дальше метателей дротиков: вступайте в бой с ними, только если можете подобраться близко.
@@ -8,10 +8,10 @@ arena_matchmaking_hints_hint_text_on_the_hunt	Кавалерия не выдер
 arena_matchmaking_hints_hint_title_respawn	Возрождение
 arena_matchmaking_hints_hint_text_slings_and_stones	Благодаря дальности пращники лучше всего действуют против других стрелков. Но тяжелобронированным отрядам их снаряды почти не вредят.
 arena_matchmaking_hints_hint_title_crush_them	Сокрушите их!
-arena_matchmaking_hints_hint_title_charging_counter_charging	Рывок и контррывок
+arena_matchmaking_hints_hint_title_charging_counter_charging	Натиск и контррывок
 arena_matchmaking_hints_hint_title_good_boys	Хорошие мальчики
 arena_matchmaking_hints_hint_title_ji_phalanx	Фаланга Цзи
-arena_matchmaking_hints_hint_text_move_fast_hit_hard	Цао Цао даёт кавалерии невероятную скорость, а его способность «Оппортунист» наносит урон врагам, сбитым рывком. Но ему не хватает чистой силы рывка других кавалерийских полководцев: уклоняйтесь и контратакуйте, а не бейтесь в лоб.
+arena_matchmaking_hints_hint_text_move_fast_hit_hard	Цао Цао даёт кавалерии невероятную скорость, а его способность «Оппортунист» наносит урон врагам, сбитым натиском. Но ему не хватает чистой силы натиска других кавалерийских полководцев: уклоняйтесь и контратакуйте, а не бейтесь в лоб.
 arena_matchmaking_hints_hint_text_tactical_retreat	Не бойтесь выходить из проигрышного боя. Иногда лучше поискать возможности в другом месте.
 arena_matchmaking_hints_hint_title_currencies	Валюты
 arena_matchmaking_hints_hint_text_phalanx_tip	Способность «Фаланга» не помогает в окружении. Отключите её, чтобы продержаться дольше.
@@ -37,12 +37,12 @@ arena_matchmaking_hints_hint_title_pouncing_tigers	Прыгающие тигры
 arena_matchmaking_hints_hint_title_victory_conditions	Условия победы
 arena_matchmaking_hints_hint_title_arror_blot_out_sun	Наши стрелы затмят солнце
 arena_matchmaking_hints_hint_text_team_player	Осторожно со своими! Огонь артиллерии ранит и союзников, и врагов. Урон по своим снижает шансы команды на победу и штрафует награды после боя.
-arena_matchmaking_hints_hint_text_can_you_smell_it	Верблюды — странные и вонючие создания! Лошади их особенно не выносят и теряют мораль просто от соседства. Вместе с высокой посадкой всадников это делает их эффективными против кавалерии.
+arena_matchmaking_hints_hint_text_can_you_smell_it	Верблюды — странные и вонючие создания! Лошади их особенно не выносят и теряют боевой дух просто от соседства. Вместе с высокой посадкой всадников это делает их эффективными против кавалерии.
 arena_matchmaking_hints_hint_text_waypoints	Вы будете бороться за сеть точек захвата — путевых точек. Каждая путевая точка под контролем вашего альянса приносит билеты.
 arena_matchmaking_hints_hint_text_solid_as_mountain	Глефщики выносливы и наносят тяжёлый урон даже бронированным противникам, но уязвимы для стрелков.
 arena_matchmaking_hints_hint_text_spear_shield_bow	Спарабара — универсальный гибридный отряд. Держите ими прочную линию фронта, которая легко обстреливает ближайших врагов из луков. При хорошей позиции они отлично контролируют область.\t
 arena_matchmaking_hints_hint_title_armour_piercing	Бронебойность
-arena_matchmaking_hints_hint_text_lacus_all_trades	Римские мечники универсальны и приспособляемы: у них высокая броня, они бросаются в рывок и стреляют пилумами. Выбирайте нужный инструмент для ситуации.
+arena_matchmaking_hints_hint_text_lacus_all_trades	Римские мечники универсальны и приспособляемы: у них высокая броня, они бросаются в натиск и стреляют пилумами. Выбирайте нужный инструмент для ситуации.
 arena_matchmaking_hints_hint_title_solid_as_mountain	Крепок как гора
 arena_matchmaking_hints_hint_title_master_of_puppet	Мастер марионеток
 arena_matchmaking_hints_hint_title_waypoints	Путевые точки
@@ -88,7 +88,7 @@ arena_matchmaking_hints_hint_title_think_ahead	Думайте наперёд
 arena_matchmaking_hints_hint_title_premium_time	Премиум-время
 arena_matchmaking_hints_hint_title_fully_loaded	Полностью заряжены
 arena_matchmaking_hints_hint_text_phalanx_turing	Чтобы повернуть фалангу, сохранив направление, отдавайте приказы движения, протаскивая правую кнопку мыши.
-arena_matchmaking_hints_hint_text_watch_your_back	Не давайте себя окружить! Атаки сзади и с флангов сильно бьют по морали отряда и могут обратить его в бегство.
+arena_matchmaking_hints_hint_text_watch_your_back	Не давайте себя окружить! Атаки сзади и с флангов сильно бьют по боевому духу отряда и могут обратить его в бегство.
 arena_matchmaking_hints_hint_text_desperate_times	Кавалерии тяжело в долгом бою с пехотой ближнего боя. Если пришлось вступить, бейте в фланг или тыл для максимального урона и отходите, пока бой не обернулся против вас.
 arena_matchmaking_hints_hint_text_packing_punch	Арбалеты наносят крепкий бронебойный урон, но стреляют медленно, так что хороши против вражеской пехоты.
 arena_matchmaking_hints_hint_text_capturing_base	В отличие от путевых точек, захват базы можно остановить только равным или большим числом защитников, чем нападающих.
@@ -100,7 +100,7 @@ arena_matchmaking_hints_hint_text_weak_spot_spear	Копейщики отлич�
 arena_matchmaking_hints_hint_title_friendly_fire_archer	Огонь по своим
 arena_matchmaking_hints_hint_title_replenishing	Пополнение
 arena_matchmaking_hints_hint_text_battlefield_behemoths	Слоны обладают очень высокой бронёй и здоровьем и отлично разрывают вражеские строи. Цельтесь в плотную пехоту ближнего боя.
-arena_matchmaking_hints_hint_text_faction_trees	Древо фракции находится в панели «Армии». У каждой фракции своё древо с разными типами отрядов. Выберите фракцию и открывайте отряды всё более высоких рангов для более мощной и уникальной игры.
+arena_matchmaking_hints_hint_text_faction_trees	Древо фракции находится в панели «Армии». У каждой фракции своё древо с разными типами отрядов. Выберите фракцию и открывайте отряды всё более высоких уровней для более мощной и уникальной игры.
 arena_matchmaking_hints_hint_text_focus_fire_1	Способность «Сосредоточенный огонь» можно направить в точку на земле. Цельтесь туда, где враг будет, а не где он сейчас. Убедитесь, что в области нет союзников!
 arena_matchmaking_hints_hint_text_focus_fire_2	Стрелки могут использовать «Сосредоточенный огонь» для точного обстрела врагов в ближнем бою. Но осторожно: при низкой дуге снаряды могут задеть союзников.
 arena_matchmaking_hints_hint_title_fight_dirty	Грязные приёмы
@@ -125,7 +125,7 @@ arena_matchmaking_hints_hint_text_glass_cannon	Ваши варварские м�
 arena_matchmaking_hints_hint_text_animal_handling	Боевые псы требуют много внимания и сосредоточенности. Убедитесь, что знаете, как работают их способности.
 arena_matchmaking_hints_hint_title_team_player	Командный игрок
 arena_matchmaking_hints_hint_text_friendly_fire_archer	Не стреляйте во врагов, сражающихся с вашими союзниками: союзники получат урон, а вы — штраф к наградам после боя.
-arena_matchmaking_hints_hint_text_pouncing_tigers	Мечников Китая лучше использовать агрессивно. Используйте их скорость и «Рывок», чтобы напасть на фланги врага.
+arena_matchmaking_hints_hint_text_pouncing_tigers	Мечников Китая лучше использовать агрессивно. Используйте их скорость и «Натиск», чтобы напасть на фланги врага.
 arena_matchmaking_hints_hint_title_falxes	Фалксы
 arena_matchmaking_hints_hint_title_capturing_base	Захват базы
 arena_matchmaking_hints_hint_title_covering_fire	Огонь прикрытия
@@ -147,13 +147,13 @@ arena_matchmaking_hints_hint_text_commanders_and_units_artilery	Цезарь м�
 arena_matchmaking_hints_hint_text_work_together	Защищайте союзных стрелков от вражеской пехоты ближнего боя, особенно от кавалерии. Взамен они защитят вас от вражеских стрелков и ослабят вражескую пехоту.
 arena_matchmaking_hints_hint_text_respawn	Если все ваши отряды уничтожены, вы можете возродить их через некоторое время на любом доступном пункте пополнения.
 arena_matchmaking_hints_hint_text_stay_on_target	Движение курсора при прицеливании снижает точность. Дайте ему успокоиться перед выстрелом.
-arena_matchmaking_hints_hint_text_eyes_forward	Убедитесь, что отряд смотрит на приближающихся врагов. Они получат меньше урона от рывка.
+arena_matchmaking_hints_hint_text_eyes_forward	Убедитесь, что отряд смотрит на приближающихся врагов. Они получат меньше урона от натиска.
 arena_matchmaking_hints_hint_text_combined_arms	Возьмите отряд ближнего боя, чтобы защитить артиллерию от врага.
 arena_matchmaking_hints_hint_title_unit_levels	Уровни отрядов
 arena_matchmaking_hints_hint_title_phalanx_tip	Совет по фаланге
-arena_matchmaking_hints_hint_title_unit_morale	Мораль отряда
+arena_matchmaking_hints_hint_title_unit_morale	Боевой дух отряда
 arena_matchmaking_hints_hint_title_shock_tactics	Шоковая тактика
-arena_matchmaking_hints_hint_text_shock_tactics	Хотя китайская кавалерия выносливее большинства ударной кавалерии, ей тяжело в затяжном ближнем бою против мечевой кавалерии. Выжимайте максимум из рывка и не вязните в драке.\t
+arena_matchmaking_hints_hint_text_shock_tactics	Хотя китайская кавалерия выносливее большинства ударной кавалерии, ей тяжело в затяжном ближнем бою против мечевой кавалерии. Выжимайте максимум из натиска и не вязните в драке.\t
 arena_matchmaking_hints_hint_title_focus_fire_2	Фокус-огонь
 arena_matchmaking_hints_hint_title_focus_fire_1	Фокус-огонь
 arena_matchmaking_hints_hint_text_dodging_fire	Можно уйти от части обстрела, двигаясь зигзагом. Меняйте направление в момент выстрела врага.

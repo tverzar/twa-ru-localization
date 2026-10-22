@@ -41,8 +41,8 @@ prologue_loading_screens_title_45	Расходники
 prologue_loading_screens_title_46	Всё ещё в бою
 prologue_loading_screens_title_48	Значки миникарты
 prologue_loading_screens_main_text_109	Победите, уничтожив вражеские силы или захватив вражескую базу.
-prologue_loading_screens_main_text_103	Снизьте мораль отряда ниже нуля, чтобы он перестал атаковать и бежал, — его легко уничтожить.
-prologue_loading_screens_main_text_102	Атакуйте вступившего в бой врага с боков или тыла, чтобы получить бонус фланга и снизить его мораль.
+prologue_loading_screens_main_text_103	Снизьте боевой дух отряда ниже нуля, чтобы он перестал атаковать и бежал, — его легко уничтожить.
+prologue_loading_screens_main_text_102	Атакуйте вступившего в бой врага с боков или тыла, чтобы получить бонус фланга и снизить его боевой дух.
 prologue_loading_screens_main_text_104	Движение сквозь вражеские отряды наносит вам значительный урон.
 prologue_loading_screens_main_text_111	Выстрелы артиллерии видны сразу после запуска. Берегитесь камней, падающих с неба.
 prologue_loading_screens_title_26053165	Пехота ближнего боя ([[img:map_melee]][[/img]])
@@ -57,7 +57,7 @@ prologue_loading_screens_title_11853693	Кавалерия ([[img:horse]][[/img]
 prologue_loading_screens_title_109	Условия победы
 prologue_loading_screens_title_104	Прорыв насквозь
 prologue_loading_screens_title_102	Обход с фланга
-prologue_loading_screens_title_103	Мораль
+prologue_loading_screens_title_103	Боевой дух
 prologue_loading_screens_title_111	Огонь артиллерии
 prologue_loading_screens_main_text_39	Если выйти из боя раньше времени, наград будет меньше. Оставайтесь, пока ваши отряды живы.
 prologue_loading_screens_main_text_36	Нажмите '[[shortcut:standard_ping]]', чтобы отметить карту и миникарту, и '[[shortcut:standard_telestration]]', чтобы рисовать стрелки и подсказки для союзников.
@@ -73,7 +73,7 @@ prologue_loading_screens_main_text_51	Занимайте уступы ради �
 prologue_loading_screens_main_text_48	На миникарте пехота ближнего боя отображается как ([[img:map_melee]][[/img]]), кавалерия — ([[img:map_cav]][[/img]]), стрелки и артиллерия — ([[img:map_ranged]][[/img]]).
 prologue_loading_screens_main_text_46	Полководцы заблокированы до конца боя, даже если вы вышли раньше. Смените полководца, чтобы сразу войти в новый бой.
 prologue_loading_screens_main_text_45	Не забудьте добавить расходники в состав до боя. Они дают преимущество в бою.
-prologue_loading_screens_main_text_92	Рывок во вражеский отряд в лоб часто неэффективен, но рывок в тыл или фланг может быть разрушительным.
+prologue_loading_screens_main_text_92	Натиск во вражеский отряд в лоб часто неэффективен, но натиск в тыл или фланг может быть разрушительным.
 prologue_loading_screens_main_text_85	Держитесь союзников. В изоляции и меньшинстве вы в огромном невыгодном положении.
 prologue_loading_screens_main_text_80	Содержание отрядов и пополнение расходников стоит серебра ([[img:silver]][[/img]]). Оно списывается автоматически после боя.
 prologue_loading_screens_title_163429757	Уровень угрозы врага

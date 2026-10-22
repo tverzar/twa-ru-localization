@@ -101,7 +101,7 @@ unit_effects_unit_effect_description_con_gla_stolen_steeds_3	«Вы уверен
 unit_effects_unit_effect_description_con_gla_stolen_steeds_8	«Вы уверены, что они дикие? Выглядят сытыми...»
 unit_effects_unit_effect_description_con_gla_stolen_steeds_9	«Вы уверены, что они дикие? Выглядят сытыми...»
 unit_effects_unit_effect_description_con_gre_caltrops_10	«Сюрприз — дырявые ноги!» — отличное средство от любого наступления.
-unit_effects_unit_effect_micro_description_com_wrath_of_mars	Разрушительный рывок. \n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Кавалерия][[/col]]
+unit_effects_unit_effect_micro_description_com_wrath_of_mars	Разрушительный натиск. \n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Кавалерия][[/col]]
 unit_effects_unit_effect_description_con_gre_wooden_stakes_8	Смертоносные колья, готовые пронзить безрассудных.
 unit_effects_unit_effect_description_con_gre_wooden_stakes_9	Смертоносные колья, готовые пронзить безрассудных.
 unit_effects_unit_effect_description_con_gre_wooden_stakes_6	Смертоносные колья, готовые пронзить безрассудных.
@@ -111,7 +111,7 @@ unit_effects_unit_effect_description_con_gre_wooden_stakes_5	Смертонос�
 unit_effects_unit_effect_description_con_gre_wooden_stakes_2	Смертоносные колья, готовые пронзить безрассудных.
 unit_effects_unit_effect_description_con_gre_wooden_stakes_3	Смертоносные колья, готовые пронзить безрассудных.
 unit_effects_unit_effect_description_con_gre_wooden_stakes_1	Смертоносные колья, готовые пронзить безрассудных.
-unit_effects_unit_effect_micro_description_com_flying_column	Короткий резкий рывок с малой перезарядкой.\n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Кавалерия][[/col]]
+unit_effects_unit_effect_micro_description_com_flying_column	Короткий резкий натиск с малой перезарядкой.\n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Кавалерия][[/col]]
 unit_effects_unit_effect_micro_description_com_wedge	Кавалерийский клин. \n[[col:white]] [Кавалерия ближнего боя] [[/col]]
 unit_effects_unit_effect_description_con_chi_tightened_strings_10	Доведите арбалет до смертельного предела.
 unit_effects_unit_effect_description_con_gre_tar_pits_10	Подожги врага и отправь прямо в объятия Аида.
@@ -120,7 +120,7 @@ unit_effects_unit_effect_description_con_down_payment_10	Солдат бьётс
 unit_effects_unit_effect_micro_description_com_opportunist	Хитрый удар, игнорирующий щиты и поражающий сбитых с ног врагов. \n[[col:white]] [Отряды ближнего боя] [[/col]]
 unit_effects_unit_effect_micro_description_com_eye_of_asha	Раскрывает и отвлекает врагов в области. \n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_com_forced_march	Приказ форсированного марша проведёт людей по самой тяжёлой местности. \n\n[[col:white]] [Пехота ближнего боя], [Слоны] [[/col]]
-unit_effects_unit_effect_micro_description_com_fury	Бессмертный рывок. \n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Боевые псы] [[/col]]
+unit_effects_unit_effect_micro_description_com_fury	Бессмертный натиск. \n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Боевые псы] [[/col]]
 unit_effects_unit_effect_description_001_spotting_range	Улучшает обзор
 unit_effects_unit_effect_description_002_spotting_range	Улучшает линию обзора
 unit_effects_unit_effect_description_003_spotting_range	Улучшает обзор
@@ -148,7 +148,7 @@ unit_effects_unit_effect_description_con_missile_remover_4	Как вытаски
 unit_effects_unit_effect_description_con_missile_remover_5	Как вытаскивать занозы. Смертельные железные занозы.
 unit_effects_unit_effect_description_con_missile_remover_8	Как вытаскивать занозы. Смертельные железные занозы.
 unit_effects_unit_effect_description_con_missile_remover_9	Как вытаскивать занозы. Смертельные железные занозы.
-unit_effects_unit_effect_description_com_break_ranks	Отряд ломает строй, предпочитая скорость и агрессию строю и дисциплине. \n\n[[col:white]] [Пехота ближнего боя][Лучники] [[/col]]
+unit_effects_unit_effect_description_com_break_ranks	Отряд ломает строй, предпочитая скорость и напор строю и дисциплине. \n\n[[col:white]] [Пехота ближнего боя][Лучники] [[/col]]
 unit_effects_unit_effect_description_con_rom_infantry_tar_pits_10	Подожги врага и отправь прямо в объятия Аида.
 unit_effects_unit_effect_description_con_rom_surveyors_10	Огневая мощь бесполезна при плохом расчёте траектории.
 unit_effects_unit_effect_description_001_melee_damage_base	Повышает урон в ближнем бою
@@ -162,7 +162,7 @@ unit_effects_unit_effect_micro_description_com_anvil	Заглушите и за�
 unit_effects_unit_effect_description_con_gre_double_rations_10	Армия марширует на желудке.
 unit_effects_unit_effect_description_con_chi_taoist_pamphlets_10	Следовать Дао — значит быть в гармонии со всем.
 unit_effects_unit_effect_description_Scipio_1_Effect	Походная колонна позволяет быстрее преодолевать расстояния. Усиливается со временем. \n\n[[col:white]] [Пехота ближнего боя] [[/col]]
-unit_effects_unit_effect_micro_description_com_heavy_infantry_charge	Мощный рывок. \n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
+unit_effects_unit_effect_micro_description_com_heavy_infantry_charge	Мощный натиск. \n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
 unit_effects_unit_effect_description_con_chi_hair_triggers_7	Каждый арбалет подгоняют под нужды владельца.
 unit_effects_unit_effect_description_con_chi_hair_triggers_6	Каждый арбалет подгоняют под нужды владельца.
 unit_effects_unit_effect_description_con_chi_hair_triggers_5	Каждый арбалет подгоняют под нужды владельца.
@@ -173,7 +173,7 @@ unit_effects_unit_effect_description_con_chi_hair_triggers_1	Каждый арб
 unit_effects_unit_effect_description_con_chi_hair_triggers_9	Каждый арбалет подгоняют под нужды владельца.
 unit_effects_unit_effect_description_con_chi_hair_triggers_8	Каждый арбалет подгоняют под нужды владельца.
 unit_effects_unit_effect_description_gladiator_spears_melee_bonus_vs_beasts	Бонусы против слонов и кавалерии.
-unit_effects_unit_effect_micro_description_com_hold_the_line	Упор против рывков и укрепление защиты. \n[[col:white]] [Пехота ближнего боя] [[/col]]
+unit_effects_unit_effect_micro_description_com_hold_the_line	Упор против натисков и укрепление защиты. \n[[col:white]] [Пехота ближнего боя] [[/col]]
 unit_effects_unit_effect_description_001_bracing	Улучшает упор
 unit_effects_unit_effect_description_002_bracing	Улучшает упор
 unit_effects_unit_effect_description_003_bracing	Улучшает упор
@@ -254,9 +254,9 @@ unit_effects_unit_effect_description_con_gla_dionysus_haruspex_10	Ритуал �
 unit_effects_unit_effect_description_con_flaming_bolts_10	Увеличивает урон, уменьшает дальность.
 unit_effects_unit_effect_description_con_rom_fletcher_10	Профессия, остро затачивающая снаряды.
 unit_effects_unit_effect_description_002_accuracy	Повышает меткость снарядов
-unit_effects_unit_effect_description_Caesar_1_Effect	Все союзники рядом с Цезарем воодушевлены и идут за ним в бой: растут скорость движения и урон рывком. \n\n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_description_Caesar_1_Effect	Все союзники рядом с Цезарем воодушевлены и идут за ним в бой: растут скорость движения и урон натиском. \n\n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_micro_description_com_throat_strike	Ударьте по врагам и не дайте им использовать способности \n[[col:white]] [Все] [[/col]]
-unit_effects_unit_effect_micro_description_com_fear	Целевой урон по защите и морали. \n[[col:white]] [Пехота ближнего боя] [Кавалерия ближнего боя] [[/col]]
+unit_effects_unit_effect_micro_description_com_fear	Целевой урон по защите и боевого духа. \n[[col:white]] [Пехота ближнего боя] [Кавалерия ближнего боя] [[/col]]
 unit_effects_unit_effect_description_003_accuracy	Повышает меткость снарядов
 unit_effects_unit_effect_description_con_per_barbed_lash_4	Когда нужно немного больше... поощрения.
 unit_effects_unit_effect_description_con_per_barbed_lash_5	Когда нужно немного больше... поощрения.
@@ -281,7 +281,7 @@ unit_effects_unit_effect_micro_description_com_one_step_ahead	Повышает �
 unit_effects_unit_effect_description_001_accuracy	Повышает меткость снарядов
 unit_effects_unit_effect_micro_description_com_vici	Не даёт выполнять особые приказы. \n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_con_per_magus_prophecy_10	«Я видел твою судьбу в пламени».
-unit_effects_unit_effect_micro_description_com_unity	Мощный краткий бонус агрессии по области, растущий с числом союзных отрядов рядом.
+unit_effects_unit_effect_micro_description_com_unity	Мощный краткий бонус напора по области, растущий с числом союзных отрядов рядом.
 unit_effects_unit_effect_micro_description_com_haste	Двигайтесь и стреляйте быстрее.\n [[col:white]][Все][[/col]]
 unit_effects_unit_effect_description_con_rom_tar_pits_10	Подожги врага и отправь прямо в объятия Аида.
 unit_effects_unit_effect_description_con_bar_tribute_to_epona_10	Преданность богам, особенно если они олицетворяют вашего скакуна, мудра.
@@ -328,9 +328,9 @@ unit_effects_unit_effect_description_con_per_magus_prophecy_3	«Я видел т
 unit_effects_unit_effect_description_con_per_magus_prophecy_1	«Я видел твою судьбу в пламени».
 unit_effects_unit_effect_micro_description_com_hunt	Отметьте и отслеживайте вражеский отряд. \n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_micro_description_com_veni	Вдохновите союзников на более высокое боевое мастерство. \n[[col:white]] [Все] [[/col]]
-unit_effects_unit_effect_description_com_virtuous_presence	Аура повышает скорость перезарядки способностей и мораль союзников рядом.
+unit_effects_unit_effect_description_com_virtuous_presence	Аура повышает скорость перезарядки способностей и боевой дух союзников рядом.
 unit_effects_unit_effect_description_Cynane_1_Effect	Залп за залпом без передышки. \n\n[[col:white]] [Лучники] [Конные лучники] [[/col]]
-unit_effects_unit_effect_description_Cynane_3_Effect	Рассеянный кавалерийский рывок, набирающий силу со временем. Доступен и дальней кавалерии. \n\n[[col:white]] [Кавалерия ближнего боя] [Метательная кавалерия] [[/col]]
+unit_effects_unit_effect_description_Cynane_3_Effect	Рассеянный кавалерийский натиск, набирающий силу со временем. Доступен и дальней кавалерии. \n\n[[col:white]] [Кавалерия ближнего боя] [Метательная кавалерия] [[/col]]
 unit_effects_unit_effect_micro_description_com_puppet_master	Ослабьте врагов и усильте союзников \n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_con_broadhead_javelins_9	Широкий наконечник усиливает рубящий урон, но снижает пробитие брони.
 unit_effects_unit_effect_description_con_broadhead_javelins_8	Широкий наконечник усиливает рубящий урон, но снижает пробитие брони.
@@ -381,10 +381,10 @@ unit_effects_unit_effect_description_con_chi_light_bolts_3	Ошеломляющ�
 unit_effects_unit_effect_description_con_chi_light_bolts_2	Ошеломляющая дальность ценой общего урона.
 unit_effects_unit_effect_description_con_chi_light_bolts_9	Ошеломляющая дальность ценой общего урона.
 unit_effects_unit_effect_description_con_chi_light_bolts_8	Ошеломляющая дальность ценой общего урона.
-unit_effects_unit_effect_micro_description_com_whip	Приказ хлестать отряд плетьми: усилия удваиваются, но мораль страдает.  \n\n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_micro_description_com_whip	Приказ хлестать отряд плетьми: усилия удваиваются, но боевой дух страдает.  \n\n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_micro_description_com_proscription	Подавляющая аура. \n\n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_con_rom_caltrops_10	«Сюрприз — дырявые ноги!» — отличное средство от любого наступления.
-unit_effects_unit_effect_micro_description_com_blaze_of_glory	Быстрый и мощный рывок. \n\n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_micro_description_com_blaze_of_glory	Быстрый и мощный натиск. \n\n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_con_rom_wooden_stakes_6	Смертоносные колья, готовые пронзить безрассудных.
 unit_effects_unit_effect_description_con_rom_wooden_stakes_7	Смертоносные колья, готовые пронзить безрассудных.
 unit_effects_unit_effect_description_con_rom_wooden_stakes_4	Смертоносные колья, готовые пронзить безрассудных.
@@ -427,7 +427,7 @@ unit_effects_unit_effect_description_con_gla_rebel_banner_2	Гордо разв�
 unit_effects_unit_effect_description_con_gla_rebel_banner_3	Гордо развевайте знамя свободы.
 unit_effects_unit_effect_description_con_gla_rebel_banner_1	Гордо развевайте знамя свободы.
 unit_effects_unit_effect_description_com_proscription	Указ Суллы о смерти — идеальное средство массового устрашения.\n\n[[col:white]] [Пехота ближнего боя] [[/col]]
-unit_effects_unit_effect_description_com_whip	Приказ хлестать отряд плетьми: усилия удваиваются, но мораль страдает.  \n\n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_description_com_whip	Приказ хлестать отряд плетьми: усилия удваиваются, но боевой дух страдает.  \n\n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_com_immortality	Мифы о неудержимых персидских ордах особенно верны, когда среди них есть воины, не знающие смерти.
 unit_effects_unit_effect_micro_description_com_tremble_before_xerxes	Подавляет врагов на огромной площади.\n\n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_ammo_bolt_high	Дополнительные боеприпасы
@@ -470,7 +470,7 @@ unit_effects_unit_effect_description_con_gre_archimedies_council_8	Прислу�
 unit_effects_unit_effect_description_con_gre_archimedies_council_9	Прислушайтесь к легендарному Архимеду.
 unit_effects_unit_effect_description_ammo_javelin_med	Дополнительные боеприпасы
 unit_effects_unit_effect_micro_description_Cynane_1_Effect	Молниеносная перезарядка. \n[[col:white]] [Лучники] [[/col]]
-unit_effects_unit_effect_micro_description_Cynane_3_Effect	Яростный рывок ближней и метательной кавалерии. \n[[col:white]] [Кавалерия ближнего боя] [Метательная кавалерия] [[/col]]
+unit_effects_unit_effect_micro_description_Cynane_3_Effect	Яростный натиск ближней и метательной кавалерии. \n[[col:white]] [Кавалерия ближнего боя] [Метательная кавалерия] [[/col]]
 unit_effects_unit_effect_description_con_birchwood_bolts_1	Значительно увеличивает урон, значительно уменьшает дальность.
 unit_effects_unit_effect_description_con_birchwood_bolts_2	Значительно увеличивает урон, значительно уменьшает дальность.
 unit_effects_unit_effect_description_con_birchwood_bolts_3	Значительно увеличивает урон, значительно уменьшает дальность.
@@ -489,7 +489,7 @@ unit_effects_unit_effect_description_con_birchwood_feather_bolts_5	Лёгкий 
 unit_effects_unit_effect_description_con_birchwood_feather_bolts_4	Лёгкий аэродинамичный болт с сильно возросшей дальностью, но сильно сниженным уроном.
 unit_effects_unit_effect_description_con_birchwood_feather_bolts_9	Лёгкий аэродинамичный болт с сильно возросшей дальностью, но сильно сниженным уроном.
 unit_effects_unit_effect_description_con_birchwood_feather_bolts_8	Лёгкий аэродинамичный болт с сильно возросшей дальностью, но сильно сниженным уроном.
-unit_effects_unit_effect_micro_description_Caesar_1_Effect	Растут скорость и урон рывком. \n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_micro_description_Caesar_1_Effect	Растут скорость и урон натиском. \n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_ammo_bolt_low	Дополнительные боеприпасы
 unit_effects_unit_effect_micro_description_com_frenzy	Впадите в безрассудное боевое неистовство. \n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_com_vici	Остановите линию командования врага и не дайте командирам отдавать особые приказы. Прерывается, если отряд атакован в ближнем бою. \n\n[[col:white]] [Все] [[/col]]
@@ -512,7 +512,7 @@ unit_effects_unit_effect_description_con_oil_pots_7	Кожу плавящее м
 unit_effects_unit_effect_description_con_oil_pots_8	Кожу плавящее масло в горшке. Как удобно!
 unit_effects_unit_effect_description_con_oil_pots_9	Кожу плавящее масло в горшке. Как удобно!
 unit_effects_unit_effect_description_con_gla_lanista_gift_6	Знак уважения и, наверное, достижений.
-unit_effects_unit_effect_description_com_fear	Грозное присутствие Мильтиада наносит калечащий урон защите и морали выбранного отряда. \n\n[[col:white]] [Пехота ближнего боя] [Кавалерия ближнего боя] [[/col]]
+unit_effects_unit_effect_description_com_fear	Грозное присутствие Мильтиада наносит калечащий урон защите и боевого духа выбранного отряда. \n\n[[col:white]] [Пехота ближнего боя] [Кавалерия ближнего боя] [[/col]]
 unit_effects_unit_effect_description_con_gla_lanista_gift_7	Знак уважения и, наверное, достижений.
 unit_effects_unit_effect_description_con_gla_lanista_gift_4	Знак уважения и, наверное, достижений.
 unit_effects_unit_effect_description_con_gla_lanista_gift_5	Знак уважения и, наверное, достижений.
@@ -565,7 +565,7 @@ unit_effects_unit_effect_description_con_gre_double_rations_4	Армия мар�
 unit_effects_unit_effect_description_con_gre_double_rations_9	Армия марширует на желудке.
 unit_effects_unit_effect_description_con_gre_double_rations_8	Армия марширует на желудке.
 unit_effects_unit_effect_description_con_acrid_smoke_10	Слепящий, удушающий, деморализующий смог.
-unit_effects_unit_effect_micro_description_com_warcry	Урон морали и защите врага. \n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_micro_description_com_warcry	Урон боевого духа и защите врага. \n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_con_gla_medicus_10	«Не увлекайся там! Я не воскрешаю...»
 unit_effects_unit_effect_description_con_per_royal_inspector_10	«Царь наблюдает. Не разочаруй его».
 unit_effects_unit_effect_description_con_gla_coena_libera_9	Великий последний пир в последний день жизни гладиатора.
@@ -624,12 +624,12 @@ unit_effects_unit_effect_description_con_bar_dog_whistle_1	Работает? Я 
 unit_effects_unit_effect_description_con_bar_dog_whistle_9	Работает? Я ничего не слышу.
 unit_effects_unit_effect_description_con_bar_dog_whistle_8	Работает? Я ничего не слышу.
 unit_effects_unit_effect_description_con_per_angaros_10	Не обычный почтальон.
-unit_effects_unit_effect_description_001_morale	Повышает мораль
-unit_effects_unit_effect_description_002_morale	Повышает мораль
-unit_effects_unit_effect_description_003_morale	Повышает мораль
-unit_effects_unit_effect_description_004_morale	Повышает мораль
-unit_effects_unit_effect_description_005_morale	Повышает мораль
-unit_effects_unit_effect_description_com_eye_of_asha	Дальняя разведка по области, которой можно отвлечь врагов от защиты против рывков.
+unit_effects_unit_effect_description_001_morale	Повышает боевой дух
+unit_effects_unit_effect_description_002_morale	Повышает боевой дух
+unit_effects_unit_effect_description_003_morale	Повышает боевой дух
+unit_effects_unit_effect_description_004_morale	Повышает боевой дух
+unit_effects_unit_effect_description_005_morale	Повышает боевой дух
+unit_effects_unit_effect_description_com_eye_of_asha	Дальняя разведка по области, которой можно отвлечь врагов от защиты против натисков.
 unit_effects_unit_effect_description_con_trilobate_arrows_6	Эти стрелы наносят мало урона, но летят на геркулесовы расстояния.
 unit_effects_unit_effect_description_con_trilobate_arrows_7	Эти стрелы наносят мало урона, но летят на геркулесовы расстояния.
 unit_effects_unit_effect_description_con_trilobate_arrows_4	Эти стрелы наносят мало урона, но летят на геркулесовы расстояния.
@@ -648,9 +648,9 @@ unit_effects_unit_effect_description_con_rom_shield_maker_5	Хороший щи�
 unit_effects_unit_effect_description_con_rom_shield_maker_2	Хороший щит может решить вопрос жизни и смерти.
 unit_effects_unit_effect_description_con_rom_shield_maker_3	Хороший щит может решить вопрос жизни и смерти.
 unit_effects_unit_effect_description_con_rom_shield_maker_1	Хороший щит может решить вопрос жизни и смерти.
-unit_effects_unit_effect_micro_description_com_hammer	Рывок с уроном. \n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Кавалерия][[/col]]
-unit_effects_unit_effect_description_com_fury	Бессмертный рывок, движимый яростью иценов. \n\n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Боевые псы] [[/col]]
-unit_effects_unit_effect_micro_description_com_forced_march	Повышает скорость ценой морали и осведомлённости.\n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Слоны] [[/col]]
+unit_effects_unit_effect_micro_description_com_hammer	Натиск с уроном. \n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Кавалерия][[/col]]
+unit_effects_unit_effect_description_com_fury	Бессмертный натиск, движимый яростью иценов. \n\n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Боевые псы] [[/col]]
+unit_effects_unit_effect_micro_description_com_forced_march	Повышает скорость ценой боевого духа и осведомлённости.\n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [Слоны] [[/col]]
 unit_effects_unit_effect_description_con_trilobate_javelins_10	Эти дротики наносят мало урона, но летят на геркулесовы расстояния.
 unit_effects_unit_effect_micro_description_com_sight_of_the_dragon	Раскройте всех врагов на огромной площади, но раскройте и себя. \n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_ammo_glans_med	Дополнительные боеприпасы
@@ -815,7 +815,7 @@ unit_effects_unit_effect_description_con_per_master_physician_6	«Давай-к�
 unit_effects_unit_effect_description_con_per_master_physician_7	«Давай-ка вскроем тебя и посмотрим, а?»
 unit_effects_unit_effect_description_con_per_master_physician_8	«Давай-ка вскроем тебя и посмотрим, а?»
 unit_effects_unit_effect_description_con_per_master_physician_9	«Давай-ка вскроем тебя и посмотрим, а?»
-unit_effects_unit_effect_micro_description_com_deadly_precision	Огромный прирост мобильности и усиление остальных способностей Сунь Жэня \n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_micro_description_com_deadly_precision	Огромный прирост подвижности и усиление остальных способностей Сунь Жэня \n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_con_gla_coena_libera_10	Великий последний пир в последний день жизни гладиатора.
 unit_effects_unit_effect_description_con_heavy_bullets_6	Тяжёлые камни наносят огромный урон и отбрасывают врага, но дальность сильно снижена.
 unit_effects_unit_effect_description_con_heavy_bullets_7	Тяжёлые камни наносят огромный урон и отбрасывают врага, но дальность сильно снижена.
@@ -855,7 +855,7 @@ unit_effects_unit_effect_description_con_gla_stolen_steeds_10	«Вы увере�
 unit_effects_unit_effect_description_gladiator_spears_projectile_bonus_vs_beasts	Бонусы пилумов против слонов и кавалерии.
 unit_effects_unit_effect_description_002_weapon_range	Увеличивает дальность стрельбы
 unit_effects_unit_effect_description_con_per_barbed_lash_10	Когда нужно немного больше... поощрения.
-unit_effects_unit_effect_description_com_defiance	Повышает агрессию и временно даёт поглощение урона. \n\n[[col:white]] [Пехота ближнего боя] [Кавалерия ближнего боя] [[/col]]
+unit_effects_unit_effect_description_com_defiance	Повышает напор и временно даёт поглощение урона. \n\n[[col:white]] [Пехота ближнего боя] [Кавалерия ближнего боя] [[/col]]
 unit_effects_unit_effect_description_con_gre_mandrocles_council_4	Наймите совет Мандрокла.
 unit_effects_unit_effect_description_con_gre_mandrocles_council_5	Наймите совет Мандрокла.
 unit_effects_unit_effect_description_con_gre_mandrocles_council_6	Наймите совет Мандрокла.
@@ -879,7 +879,7 @@ unit_effects_unit_effect_description_con_rom_wooden_stakes_10	Смертонос
 unit_effects_unit_effect_description_com_testudo	Отряд строится в неподвижную «черепаху» с исключительной защитой от снарядов. \n\n[[col:white]] [Пехота ближнего боя] [Со щитами] [[/col]]
 unit_effects_unit_effect_description_con_rom_war_steeds_10	Это не просто кони, это боевые кони.
 unit_effects_unit_effect_description_con_pay_day_10	Карфаген всегда платит долги.
-unit_effects_unit_effect_description_com_infantry_charge	Рывок в неготового врага ошеломляет и калечит его ряды. \n\n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
+unit_effects_unit_effect_description_com_infantry_charge	Натиск в неготового врага ошеломляет и калечит его ряды. \n\n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
 unit_effects_unit_effect_description_con_melqart_horn_8	Сигнал рога: войска разворачиваются лицом к врагу.
 unit_effects_unit_effect_description_con_melqart_horn_9	Сигнал рога: войска разворачиваются лицом к врагу.
 unit_effects_unit_effect_description_con_melqart_horn_6	Сигнал рога: войска разворачиваются лицом к врагу.
@@ -954,14 +954,14 @@ unit_effects_unit_effect_description_com_vanguard	Разведывательна
 unit_effects_unit_effect_description_caltrop_bonus_damage	Управляет бонусным уроном чеснока против выбранных типов отрядов.
 unit_effects_unit_effect_description_001_entity_deceleration_modifier	Улучшает замедление
 unit_effects_unit_effect_description_001_entity_acceleration_modifier	Улучшает ускорение
-unit_effects_unit_effect_description_001_entity_charge_speed_modifier	Улучшает скорость рывка
-unit_effects_unit_effect_description_005_charge_bonus	Повышает бонус рывка
+unit_effects_unit_effect_description_001_entity_charge_speed_modifier	Улучшает скорость натиска
+unit_effects_unit_effect_description_005_charge_bonus	Повышает бонус натиска
 unit_effects_unit_effect_description_con_rom_weaponsmith_10	Дайте своим римлянам острое преимущество.
 unit_effects_unit_effect_description_con_bodkin_javelins_10	Аэродинамичные и жутко острые, эти дротики летят хорошо и пробивают броню ещё лучше.
 unit_effects_unit_effect_description_con_heated_bullets_10	Жгучий урон, но слабее против бронированных врагов.
 unit_effects_unit_effect_description_con_birchwood_bolts_10	Значительно увеличивает урон, значительно уменьшает дальность.
-unit_effects_unit_effect_description_004_charge_bonus	Повышает бонус рывка
-unit_effects_unit_effect_description_003_entity_charge_speed_modifier	Улучшает скорость рывка
+unit_effects_unit_effect_description_004_charge_bonus	Повышает бонус натиска
+unit_effects_unit_effect_description_003_entity_charge_speed_modifier	Улучшает скорость натиска
 unit_effects_unit_effect_description_con_tanit_banner_6	Высоко поднимите знамя Карфагена.
 unit_effects_unit_effect_description_con_tanit_banner_7	Высоко поднимите знамя Карфагена.
 unit_effects_unit_effect_description_con_tanit_banner_4	Высоко поднимите знамя Карфагена.
@@ -973,7 +973,7 @@ unit_effects_unit_effect_description_con_tanit_banner_8	Высоко подни�
 unit_effects_unit_effect_description_con_tanit_banner_9	Высоко поднимите знамя Карфагена.
 unit_effects_unit_effect_description_con_anath_blessing_10	Только смерть удовлетворит избранного воина Баала.
 unit_effects_unit_effect_description_001_com_entity_selection	Изменяйте строй отряда, выбирая группы бойцов и перемещая их на место.
-unit_effects_unit_effect_description_002_entity_charge_speed_modifier	Улучшает скорость рывка
+unit_effects_unit_effect_description_002_entity_charge_speed_modifier	Улучшает скорость натиска
 unit_effects_unit_effect_description_con_missile_remover_10	Как вытаскивать занозы. Смертельные железные занозы.
 unit_effects_unit_effect_description_ji_bonus_vs_elephant_effect	Бонус против слонов
 unit_effects_unit_effect_description_con_chi_taoist_pamphlets_3	Следовать Дао — значит быть в гармонии со всем.
@@ -985,8 +985,8 @@ unit_effects_unit_effect_description_con_chi_taoist_pamphlets_5	Следоват
 unit_effects_unit_effect_description_con_chi_taoist_pamphlets_4	Следовать Дао — значит быть в гармонии со всем.
 unit_effects_unit_effect_description_con_chi_taoist_pamphlets_9	Следовать Дао — значит быть в гармонии со всем.
 unit_effects_unit_effect_description_con_chi_taoist_pamphlets_8	Следовать Дао — значит быть в гармонии со всем.
-unit_effects_unit_effect_description_005_entity_charge_speed_modifier	Улучшает скорость рывка
-unit_effects_unit_effect_description_001_charge_bonus	Повышает бонус рывка
+unit_effects_unit_effect_description_005_entity_charge_speed_modifier	Улучшает скорость натиска
+unit_effects_unit_effect_description_001_charge_bonus	Повышает бонус натиска
 unit_effects_unit_effect_description_con_trilobate_field_bolts_6	Лёгкий болт с большей дальностью, но меньшим уроном.
 unit_effects_unit_effect_description_con_trilobate_field_bolts_7	Лёгкий болт с большей дальностью, но меньшим уроном.
 unit_effects_unit_effect_description_con_trilobate_field_bolts_4	Лёгкий болт с большей дальностью, но меньшим уроном.
@@ -997,12 +997,12 @@ unit_effects_unit_effect_description_con_trilobate_field_bolts_1	Лёгкий б
 unit_effects_unit_effect_description_con_trilobate_field_bolts_8	Лёгкий болт с большей дальностью, но меньшим уроном.
 unit_effects_unit_effect_description_con_trilobate_field_bolts_9	Лёгкий болт с большей дальностью, но меньшим уроном.
 unit_effects_unit_effect_micro_description_com_god_of_war	Воодушевите союзников рядом легендарной доблестью Гуань Юя. \n[[col:white]] [Все] [[/col]]
-unit_effects_unit_effect_description_004_entity_charge_speed_modifier	Улучшает скорость рывка
+unit_effects_unit_effect_description_004_entity_charge_speed_modifier	Улучшает скорость натиска
 unit_effects_unit_effect_description_con_gre_archimedies_council_10	Прислушайтесь к легендарному Архимеду.
-unit_effects_unit_effect_description_003_charge_bonus	Повышает бонус рывка
+unit_effects_unit_effect_description_003_charge_bonus	Повышает бонус натиска
 unit_effects_unit_effect_description_con_bar_dog_whistle_10	Работает? Я ничего не слышу.
-unit_effects_unit_effect_description_com_iron_discipline	Железная дисциплина Верцингеторига фиксирует мораль отряда. \n\n[[col:white]] [Все] [[/col]]
-unit_effects_unit_effect_description_002_charge_bonus	Повышает бонус рывка
+unit_effects_unit_effect_description_com_iron_discipline	Железная дисциплина Верцингеторига фиксирует боевой дух отряда. \n\n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_description_002_charge_bonus	Повышает бонус натиска
 unit_effects_unit_effect_description_con_trilobate_arrows_10	Эти стрелы наносят мало урона, но летят на геркулесовы расстояния.
 unit_effects_unit_effect_description_con_rom_infantry_tar_pits_1	Подожги врага и отправь прямо в объятия Аида.
 unit_effects_unit_effect_description_con_gre_share_rations_10	Братство освещает самые тёмные места.
@@ -1038,7 +1038,7 @@ unit_effects_unit_effect_description_con_gre_thessalian_steeds_3	Лучшая к
 unit_effects_unit_effect_description_con_gre_thessalian_steeds_1	Лучшая кавалерия, какую можно купить за деньги.
 unit_effects_unit_effect_description_con_gre_thessalian_steeds_8	Лучшая кавалерия, какую можно купить за деньги.
 unit_effects_unit_effect_description_con_gre_thessalian_steeds_9	Лучшая кавалерия, какую можно купить за деньги.
-unit_effects_unit_effect_micro_description_com_adrenaline_rush	Рывок вперёд, затем бонусы в бою. \n\n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_micro_description_com_adrenaline_rush	Натиск вперёд, затем бонусы в бою. \n\n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_con_gre_barricades_8	Постройте стену, чтобы задержать врага и защитить союзников.
 unit_effects_unit_effect_description_con_gre_barricades_9	Постройте стену, чтобы задержать врага и защитить союзников.
 unit_effects_unit_effect_description_con_gre_barricades_2	Постройте стену, чтобы задержать врага и защитить союзников.
@@ -1068,7 +1068,7 @@ unit_effects_unit_effect_description_con_bodkin_arrows_3	Аэродинамич�
 unit_effects_unit_effect_description_con_bodkin_arrows_8	Аэродинамичные и жутко острые, эти стрелы летят хорошо и пробивают броню ещё лучше.
 unit_effects_unit_effect_description_con_bodkin_arrows_9	Аэродинамичные и жутко острые, эти стрелы летят хорошо и пробивают броню ещё лучше.
 unit_effects_unit_effect_description_con_per_extra_feed_10	«Если дорожишь сапогами, корми её досыта».
-unit_effects_unit_effect_micro_description_com_virtuous_presence	Аура повышает скорость перезарядки способностей и мораль союзников рядом.
+unit_effects_unit_effect_micro_description_com_virtuous_presence	Аура повышает скорость перезарядки способностей и боевой дух союзников рядом.
 unit_effects_unit_effect_description_con_down_payment_8	Солдат бьётся яростнее, когда дома ждёт кучка золота.
 unit_effects_unit_effect_description_con_down_payment_9	Солдат бьётся яростнее, когда дома ждёт кучка золота.
 unit_effects_unit_effect_description_con_down_payment_4	Солдат бьётся яростнее, когда дома ждёт кучка золота.
@@ -1099,7 +1099,7 @@ unit_effects_unit_effect_description_con_flaming_arrows_3	Меньше даль�
 unit_effects_unit_effect_description_con_gla_snails_and_oysters_3	Изысканная еда для изысканных мужей.
 unit_effects_unit_effect_description_con_flaming_arrows_1	Меньше дальность, больше ужас от горящего снаряда.
 unit_effects_unit_effect_description_con_gla_snails_and_oysters_1	Изысканная еда для изысканных мужей.
-unit_effects_unit_effect_micro_description_com_iron_discipline	Заморозьте мораль отряда \n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_micro_description_com_iron_discipline	Заморозьте боевой дух отряда \n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_con_gre_share_wine_7	Алкоголь превратит и козла в льва.
 unit_effects_unit_effect_description_con_gre_share_wine_6	Алкоголь превратит и козла в льва.
 unit_effects_unit_effect_description_con_gre_share_wine_5	Алкоголь превратит и козла в льва.
@@ -1133,7 +1133,7 @@ unit_effects_unit_effect_description_con_anath_blessing_3	Только смер�
 unit_effects_unit_effect_micro_description_ji_bonus_vs_elephant_effect	Бонус против слонов
 unit_effects_unit_effect_description_con_anath_blessing_1	Только смерть удовлетворит избранного воина Баала.
 unit_effects_unit_effect_description_con_anath_blessing_6	Только смерть удовлетворит избранного воина Баала.
-unit_effects_unit_effect_description_com_hammer	Рывок с уроном, лучше всего в паре с «Наковальней». \n\n[[col:white]] [Кавалерия ближнего боя] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
+unit_effects_unit_effect_description_com_hammer	Натиск с уроном, лучше всего в паре с «Наковальней». \n\n[[col:white]] [Кавалерия ближнего боя] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
 unit_effects_unit_effect_description_con_anath_blessing_7	Только смерть удовлетворит избранного воина Баала.
 unit_effects_unit_effect_description_con_anath_blessing_4	Только смерть удовлетворит избранного воина Баала.
 unit_effects_unit_effect_description_con_anath_blessing_5	Только смерть удовлетворит избранного воина Баала.
@@ -1143,7 +1143,7 @@ unit_effects_unit_effect_micro_description_com_vengeance	Наращивайте 
 unit_effects_unit_effect_description_con_rom_infantry_barricades_10	Постройте стену, чтобы задержать врага и защитить союзников.
 unit_effects_unit_effect_description_con_gla_improved_gear_10	Разграбление богатых горожан может оказаться выгодным.
 unit_effects_unit_effect_micro_description_com_uprising	Даёт долгие бонусы большим группам союзников.  \n\n[[col:white]] [Все] [[/col]]
-unit_effects_unit_effect_micro_description_com_vanguard	Агрессивная стойка повышает обзор и силу рывка \n\n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_micro_description_com_vanguard	Агрессивная стойка повышает обзор и силу натиска \n\n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_micro_description_com_rebellion	Повышает боевые характеристики в области. \n[[col:white]] [Пехота ближнего боя] [Боевые псы] [Кавалерия ближнего боя] [[/col]]
 unit_effects_unit_effect_description_con_rom_barricades_8	Постройте стену, чтобы задержать врага и защитить союзников.
 unit_effects_unit_effect_description_con_rom_barricades_9	Постройте стену, чтобы задержать врага и защитить союзников.
@@ -1177,7 +1177,7 @@ unit_effects_unit_effect_description_003_missile_block_chance	Улучшает �
 unit_effects_unit_effect_micro_description_com_from_the_shadows	Растут дальность и точность, падает скорость.\n[[col:white]][Лучники][[/col]]
 unit_effects_unit_effect_description_con_per_spark_of_the_eternal_flame_10	Атар — земное воплощение самого Ахура-Мазды.
 unit_effects_unit_effect_micro_description_com_momentum	Набирайте импульс в движении. \n[[col:white]] [Все] [[/col]]
-unit_effects_unit_effect_micro_description_com_infantry_charge	Быстрый пехотный рывок. \n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
+unit_effects_unit_effect_micro_description_com_infantry_charge	Быстрый пехотный натиск. \n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
 unit_effects_unit_effect_description_002_missile_block_chance	Улучшает шанс блока снарядов
 unit_effects_unit_effect_description_con_rom_war_steeds_6	Это не просто кони, это боевые кони.
 unit_effects_unit_effect_description_con_rom_war_steeds_7	Это не просто кони, это боевые кони.
@@ -1213,7 +1213,7 @@ unit_effects_unit_effect_description_con_per_falcon_standard_2	Все армии
 unit_effects_unit_effect_description_con_per_falcon_standard_3	Все армии мира идут под знаменем Великих царей.
 unit_effects_unit_effect_description_con_per_falcon_standard_1	Все армии мира идут под знаменем Великих царей.
 unit_effects_unit_effect_description_con_gre_whetstones_10	Заточите оружие, пусть оно сработает.
-unit_effects_unit_effect_description_com_warcry	Бесстрашный леденящий хор калечит защиту и мораль врагов. \n\n[[col:white]] [Все] [[/col]]
+unit_effects_unit_effect_description_com_warcry	Бесстрашный леденящий хор калечит защиту и боевой дух врагов. \n\n[[col:white]] [Все] [[/col]]
 unit_effects_unit_effect_description_con_gla_lanista_gift_10	Знак уважения и, наверное, достижений.
 unit_effects_unit_effect_description_con_bar_dirt_pouches_10	Бросьте врагу землю в глаза.
 unit_effects_unit_effect_description_con_bar_incentives_9	Наградите боевых псов: они хорошие мальчики.
@@ -1224,7 +1224,7 @@ unit_effects_unit_effect_description_con_bar_incentives_5	Наградите б�
 unit_effects_unit_effect_description_con_bar_incentives_4	Наградите боевых псов: они хорошие мальчики.
 unit_effects_unit_effect_description_con_bar_incentives_3	Наградите боевых псов: они хорошие мальчики.
 unit_effects_unit_effect_description_con_bar_incentives_2	Наградите боевых псов: они хорошие мальчики.
-unit_effects_unit_effect_description_com_unity	Мощный краткий бонус агрессии по области, растущий с числом союзных отрядов рядом.
+unit_effects_unit_effect_description_com_unity	Мощный краткий бонус напора по области, растущий с числом союзных отрядов рядом.
 unit_effects_unit_effect_description_con_bar_incentives_1	Наградите боевых псов: они хорошие мальчики.
 unit_effects_unit_effect_description_con_heavy_boulders_9	Тебе камешек! И тебе камешек! Всем по камешку!
 unit_effects_unit_effect_description_con_heavy_boulders_8	Тебе камешек! И тебе камешек! Всем по камешку!
@@ -1255,7 +1255,7 @@ unit_effects_unit_effect_description_con_baal_sacrifice_3	Баал-Хаммон 
 unit_effects_unit_effect_description_con_baal_sacrifice_2	Баал-Хаммон многого требует, но награды велики.
 unit_effects_unit_effect_description_con_baal_sacrifice_9	Баал-Хаммон многого требует, но награды велики.
 unit_effects_unit_effect_description_con_baal_sacrifice_8	Баал-Хаммон многого требует, но награды велики.
-unit_effects_unit_effect_micro_description_com_defiance	Повышает агрессию и временно даёт поглощение урона.
+unit_effects_unit_effect_micro_description_com_defiance	Повышает напор и временно даёт поглощение урона.
 unit_effects_unit_effect_micro_description_com_vicious_assault	Разгоните врага мощными ударами. \n\n[[col:white]] [Пехота ближнего боя] [[/col]]
 unit_effects_unit_effect_description_light_arty_bonus_vs_elephant	Бонус против слонов
 unit_effects_unit_effect_description_con_rom_surveyors_1	Огневая мощь бесполезна при плохом расчёте траектории.
@@ -1290,7 +1290,7 @@ unit_effects_unit_effect_description_con_bar_intoxicate_9	Резко повыш�
 unit_effects_unit_effect_description_com_anvil	Ненадолго сковывает врага в бою с вашим отрядом, снижая его отражение ударов и лишая шанса отступить. \n\n[[col:white]] [Пехота ближнего боя] [Кавалерия ближнего боя] [[/col]]
 unit_effects_unit_effect_description_ammo_bolt_large_med	Дополнительные боеприпасы
 unit_effects_unit_effect_micro_description_com_testudo	Медленный строй с отличной защитой от снарядов. \n[[col:white]] [Пехота ближнего боя] [Со щитами] [[/col]]
-unit_effects_unit_effect_description_com_heavy_infantry_charge	Короткий мощный рывок, лучше для тяжёлых отрядов. \n\n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
+unit_effects_unit_effect_description_com_heavy_infantry_charge	Короткий мощный натиск, лучше для тяжёлых отрядов. \n\n[[col:white]] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
 unit_effects_unit_effect_description_heavy_arty_bonus_vs_elephant	Бонус против слонов
 unit_effects_unit_effect_micro_description_com_barrage	Молниеносная перезарядка. \n[[col:white]] [Лучники] [[/col]]
 unit_effects_unit_effect_description_com_hold_the_line	В упоре и готовы ко всему; строй устоит. \n\n[[col:white]] [Пехота ближнего боя] [[/col]]
@@ -1344,7 +1344,7 @@ unit_effects_unit_effect_description_con_gre_whetstones_2	Заточите ор�
 unit_effects_unit_effect_description_con_gre_whetstones_3	Заточите оружие, пусть оно сработает.
 unit_effects_unit_effect_description_con_gre_whetstones_1	Заточите оружие, пусть оно сработает.
 unit_effects_unit_effect_description_Miltiades_3_Effect	Поднимите щиты, чтобы снизить урон от снарядов. \n\n[[col:white]] [Пехота ближнего боя] [Со щитами] [[/col]]
-unit_effects_unit_effect_description_Miltiades_5_Effect	Бросок щитов на землю повышает скорость и делает упор на агрессию, но отряд становится уязвим для снарядов. \n\n[[col:white]] [Пехота ближнего боя] [Со щитами] [[/col]]
+unit_effects_unit_effect_description_Miltiades_5_Effect	Бросок щитов на землю повышает скорость и делает упор на напор, но отряд становится уязвим для снарядов. \n\n[[col:white]] [Пехота ближнего боя] [Со щитами] [[/col]]
 unit_effects_unit_effect_description_con_gre_whetstones_8	Заточите оружие, пусть оно сработает.
 unit_effects_unit_effect_description_con_gre_whetstones_9	Заточите оружие, пусть оно сработает.
 unit_effects_unit_effect_description_ammo_bolt_large_low	Дополнительные боеприпасы
@@ -1383,7 +1383,7 @@ unit_effects_unit_effect_micro_description_com_champion	Усильте свою 
 unit_effects_unit_effect_description_002_melee_attack	Повышает атаку в ближнем бою
 unit_effects_unit_effect_description_con_per_spark_of_the_eternal_flame_9	Атар — земное воплощение самого Ахура-Мазды.
 unit_effects_unit_effect_description_con_per_spark_of_the_eternal_flame_8	Атар — земное воплощение самого Ахура-Мазды.
-unit_effects_unit_effect_description_com_wrath_of_mars	Рывок в нужный момент может сокрушить отряд одним ударом. \n\n[[col:white]] [Кавалерия ближнего боя] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
+unit_effects_unit_effect_description_com_wrath_of_mars	Натиск в нужный момент может сокрушить отряд одним ударом. \n\n[[col:white]] [Кавалерия ближнего боя] [Пехота ближнего боя] [Стрелковая пехота] [[/col]]
 unit_effects_unit_effect_description_con_bar_intoxicate_10	Резко повышает боевую мощь, но жертвует здоровьем отряда.
 unit_effects_unit_effect_micro_description_com_fortify	Оборонительный строй. \n\n[[col:white]] [Пехота ближнего боя со щитами] [[/col]]
 unit_effects_unit_effect_description_003_melee_attack	Повышает атаку в ближнем бою
@@ -1405,13 +1405,13 @@ unit_effects_unit_effect_description_con_flaming_bolts_4	Увеличивает 
 unit_effects_unit_effect_description_con_gla_dionysus_haruspex_4	Ритуал безумия для безумного бога.
 unit_effects_unit_effect_description_con_flaming_bolts_5	Увеличивает урон, уменьшает дальность.
 unit_effects_unit_effect_description_con_gla_dionysus_haruspex_5	Ритуал безумия для безумного бога.
-unit_effects_unit_effect_description_com_wedge	Кавалерийский строй для максимального проникновения рывком и урона от удара. \n\n[[col:white]] [Кавалерия ближнего боя] [[/col]]
+unit_effects_unit_effect_description_com_wedge	Кавалерийский строй для максимального проникновения натиском и урона от удара. \n\n[[col:white]] [Кавалерия ближнего боя] [[/col]]
 unit_effects_unit_effect_description_con_rom_carpenters_9	Если онагр уже брыкается, как мул, эти люди заставят его лягаться, как кони Нептуна.
 unit_effects_unit_effect_description_con_rom_carpenters_8	Если онагр уже брыкается, как мул, эти люди заставят его лягаться, как кони Нептуна.
 unit_effects_unit_effect_description_con_rom_carpenters_1	Если онагр уже брыкается, как мул, эти люди заставят его лягаться, как кони Нептуна.
 unit_effects_unit_effect_description_004_melee_attack	Повышает атаку в ближнем бою
 unit_effects_unit_effect_description_con_rom_carpenters_3	Если онагр уже брыкается, как мул, эти люди заставят его лягаться, как кони Нептуна.
-unit_effects_unit_effect_description_com_flying_column	Короткий жестокий рывок.
+unit_effects_unit_effect_description_com_flying_column	Короткий жестокий натиск.
 unit_effects_unit_effect_description_con_rom_carpenters_2	Если онагр уже брыкается, как мул, эти люди заставят его лягаться, как кони Нептуна.
 unit_effects_unit_effect_description_con_rom_carpenters_5	Если онагр уже брыкается, как мул, эти люди заставят его лягаться, как кони Нептуна.
 unit_effects_unit_effect_description_con_rom_carpenters_4	Если онагр уже брыкается, как мул, эти люди заставят его лягаться, как кони Нептуна.

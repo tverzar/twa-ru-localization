@@ -1,6 +1,6 @@
 achievements_title_rule_through_fear	Власть через страх
 achievements_title_belgaes_revenge	Месть белгов
-achievements_description_ad_victoriam	Достигните X ранга со всеми полководцами и откройте все отряды X ранга
+achievements_description_ad_victoriam	Достигните X уровня со всеми полководцами и откройте все отряды X уровня
 achievements_description_evocati_centurion_2	Выиграйте 500 боёв
 achievements_description_evocati_centurion_3	Выиграйте 2 500 боёв
 achievements_description_evocati_centurion_1	Выиграйте 100 боёв
@@ -9,10 +9,10 @@ achievements_title_blood_drinker_3	Кровопийца III
 achievements_title_blood_drinker_2	Кровопийца II
 achievements_title_blood_drinker_1	Кровопийца I
 achievements_title_blood_drinker_4	Кровопийца IV
-achievements_description_ad_cursum_4	Откройте отряд VIII ранга
-achievements_description_ad_cursum_3	Откройте отряд VI ранга
-achievements_description_ad_cursum_2	Откройте отряд IV ранга
-achievements_description_ad_cursum_1	Откройте отряд II ранга
+achievements_description_ad_cursum_4	Откройте отряд VIII уровня
+achievements_description_ad_cursum_3	Откройте отряд VI уровня
+achievements_description_ad_cursum_2	Откройте отряд IV уровня
+achievements_description_ad_cursum_1	Откройте отряд II уровня
 achievements_description_corona_aurea	Получите больше всех наград за блок и уклонение от урона в бою
 achievements_title_corona_vallaris	Корона валларис
 achievements_title_dictator_4	Диктатор IV
@@ -118,10 +118,10 @@ achievements_title_restorer_1	Реставратор I
 achievements_title_restorer_2	Реставратор II
 achievements_title_strategos	Стратег
 achievements_title_restorer_3	Реставратор III
-achievements_description_ad_magnificientia_4	Достигните VIII ранга с любым полководцем
-achievements_description_ad_magnificientia_1	Достигните II ранга с любым полководцем
-achievements_description_ad_magnificientia_3	Достигните VI ранга с любым полководцем
-achievements_description_ad_magnificientia_2	Достигните IV ранга с любым полководцем
+achievements_description_ad_magnificientia_4	Достигните VIII уровня с любым полководцем
+achievements_description_ad_magnificientia_1	Достигните II уровня с любым полководцем
+achievements_description_ad_magnificientia_3	Достигните VI уровня с любым полководцем
+achievements_description_ad_magnificientia_2	Достигните IV уровня с любым полководцем
 achievements_title_that_makes_sixteen	Вот и шестнадцать
 achievements_title_cb_2_pathfinder	Закрытая бета: следопыт
 achievements_title_legatus	Легаты
@@ -186,10 +186,10 @@ achievements_description_renegade_4	Выиграйте 4 000 боёв за Лю�
 achievements_description_renegade_3	Выиграйте 1 000 боёв за Люй Бу
 achievements_description_renegade_2	Выиграйте 200 боёв за Люй Бу
 achievements_description_renegade_1	Выиграйте 40 боёв за Люй Бу
-achievements_description_terracotta_army_4	Откройте все обычные отряды X ранга фракции Китая
-achievements_description_terracotta_army_2	Откройте все обычные отряды V ранга фракции Китая
-achievements_description_terracotta_army_3	Откройте все обычные отряды VIII ранга фракции Китая
-achievements_description_terracotta_army_1	Откройте все обычные отряды III ранга фракции Китая
+achievements_description_terracotta_army_4	Откройте все обычные отряды X уровня фракции Китая
+achievements_description_terracotta_army_2	Откройте все обычные отряды V уровня фракции Китая
+achievements_description_terracotta_army_3	Откройте все обычные отряды VIII уровня фракции Китая
+achievements_description_terracotta_army_1	Откройте все обычные отряды III уровня фракции Китая
 achievements_title_history_rewritten	Переписанная история
 achievements_title_ca_1_alpha_scout	Закрытая альфа: разведчик
 achievements_description_exterminatus	Убейте 800 вражеских солдат за один бой
@@ -200,10 +200,10 @@ achievements_title_terracotta_army_1	Терракотовая армия I
 achievements_title_terracotta_army_3	Терракотовая армия III
 achievements_title_terracotta_army_2	Терракотовая армия II
 achievements_title_terracotta_army_4	Терракотовая армия IV
-achievements_description_revered_general_1	Откройте 1 отряд ранга X
-achievements_description_revered_general_2	Откройте 3 отряда ранга X
-achievements_description_revered_general_3	Откройте 6 отрядов ранга X
-achievements_description_revered_general_4	Откройте 11 отрядов ранга X
+achievements_description_revered_general_1	Откройте 1 отряд уровня X
+achievements_description_revered_general_2	Откройте 3 отряда уровня X
+achievements_description_revered_general_3	Откройте 6 отрядов уровня X
+achievements_description_revered_general_4	Откройте 11 отрядов уровня X
 achievements_title_prince_vs_princess	Принц против принцессы
 achievements_description_strategos	Получите закрытого греческого полководца
 achievements_title_auctoratus	Ауктор
@@ -234,10 +234,10 @@ achievements_title_lioness_2	Львица II
 achievements_title_lioness_1	Львица I
 achievements_title_lioness_4	Львица IV
 achievements_description_corona_obsidionalis	Больше всех помог командному результату в бою
-achievements_description_scarred_veteran_1	Достигните X ранга с 1 полководцем
-achievements_description_scarred_veteran_2	Достигните X ранга с 3 полководцами
-achievements_description_scarred_veteran_3	Достигните X ранга с 5 полководцами
-achievements_description_scarred_veteran_4	Достигните X ранга с 7 полководцами
+achievements_description_scarred_veteran_1	Достигните X уровня с 1 полководцем
+achievements_description_scarred_veteran_2	Достигните X уровня с 3 полководцами
+achievements_description_scarred_veteran_3	Достигните X уровня с 5 полководцами
+achievements_description_scarred_veteran_4	Достигните X уровня с 7 полководцами
 achievements_description_gladiator_smack_down	За Спартака убейте Крикса
 achievements_description_greco_persian_wars	За персидского полководца убейте за один бой столько греков, сколько в лохе (500 бойцов)
 achievements_title_king_of_kings_4	Царь царей IV

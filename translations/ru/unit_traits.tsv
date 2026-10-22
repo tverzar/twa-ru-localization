@@ -1,5 +1,5 @@
 unit_traits_bullet_text_climb_fast	Быстро лазает
-unit_traits_bullet_text_encourages	обеспечивает бонус к морали ближайшим союзникам
+unit_traits_bullet_text_encourages	обеспечивает бонус к боевому духу ближайшим союзникам
 unit_traits_bullet_text_immune_cav_penalty	копья не получают бонус против кавалерии
 unit_traits_bullet_text_scare_horse	Пугает лошадей
 unit_traits_bullet_text_scare_immune	Иммунитет к страху
@@ -13,7 +13,7 @@ unit_traits_bullet_text_hide_grass	Может прятаться в траве
 unit_traits_bullet_text_resist_cold	Не берут лишних в жертву в холодных краях
 unit_traits_bullet_text_hide_building	Может прятаться в постройках
 unit_traits_bullet_text_scare_all	Пугает всех
-unit_traits_bullet_text_impetuous	При рвении дополнительный бонус к морали
+unit_traits_bullet_text_impetuous	При рвении дополнительный бонус к боевому духу
 unit_traits_bullet_text_hide_wood	Может прятаться в лесу
 unit_traits_bullet_text_ignore_ground_move_mod	Не замедляется из-за рельефа местности
 unit_traits_bullet_text_cant_run	Как правило для передовой артиллерии
@@ -23,5 +23,5 @@ unit_traits_bullet_text_guerrilla_deploy	Развёртывание вне зо�
 unit_traits_bullet_text_mounted_fire_move	Стрельба во время движения
 unit_traits_bullet_text_resist_heat	не несёт лишних потерь от жаркого климата
 unit_traits_bullet_text_fatigue_res	усталость действует слабее
-unit_traits_bullet_text_disciplined	не теряет мораль при гибели полководца
+unit_traits_bullet_text_disciplined	не теряет боевой дух при гибели полководца
 unit_traits_bullet_text_all_ranks_fire	все шеренги стреляют, если оружие допускает одну шеренгу

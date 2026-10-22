@@ -1,13 +1,13 @@
 scripted_objectives_localised_text_congratulations	Поздравляем, полководец: вы прошли подготовку новобранцев. Вы готовы встретить врагов на поле боя!
 scripted_objectives_localised_text_rec_8_attacking_4	Мечники
-scripted_objectives_localised_text_enemy_is_flanked	Враг обойдён с фланга! Смотрите, как падает его мораль: скоро отряд побежит.
+scripted_objectives_localised_text_enemy_is_flanked	Враг обойдён с фланга! Смотрите, как падает его боевой дух: скоро отряд побежит.
 scripted_objectives_localised_text_rec_8_attacking_2	Атакуйте и уничтожьте вражескую пехоту.
 scripted_objectives_localised_text_rec_8_attacking_1	Атакуйте врага
-scripted_objectives_localised_text_rec_9_morale_1	У отрядов есть и [[col:orange]]мораль[[/col]] (1, белая), и [[col:orange]]здоровье[[/col]] (2, цветное).
-scripted_objectives_localised_text_rec_9_morale_3	Обход с фланга, особенно с тыла, — один из простейших способов снизить мораль врага.
-scripted_objectives_localised_text_rec_9_morale_2	Сломленная мораль отряда заставляет его бежать и прекращать сопротивление.
-scripted_objectives_localised_text_rec_9_morale_5	У отрядов есть и [[col:white]]мораль (1)[[/col]], и [[col:red]]здоровье (2)[[/col]]. Сломленная мораль заставляет отряд прекратить бой и бежать на свою базу.
-scripted_objectives_localised_text_rec_9_morale_4	Атакуйте вражеский отряд сзади, чтобы обойти его с фланга и сломить мораль.
+scripted_objectives_localised_text_rec_9_morale_1	У отрядов есть и [[col:orange]]боевой дух[[/col]] (1, белая), и [[col:orange]]здоровье[[/col]] (2, цветное).
+scripted_objectives_localised_text_rec_9_morale_3	Обход с фланга, особенно с тыла, — один из простейших способов снизить боевой дух врага.
+scripted_objectives_localised_text_rec_9_morale_2	Сломленная боевой дух отряда заставляет его бежать и прекращать сопротивление.
+scripted_objectives_localised_text_rec_9_morale_5	У отрядов есть и [[col:white]]боевой дух (1)[[/col]], и [[col:red]]здоровье (2)[[/col]]. Сломленная боевой дух заставляет отряд прекратить бой и бежать на свою базу.
+scripted_objectives_localised_text_rec_9_morale_4	Атакуйте вражеский отряд сзади, чтобы обойти его с фланга и сломить боевой дух.
 scripted_objectives_localised_text_rec_9_morale_7	Убейте врага
 scripted_objectives_localised_text_rec_9_morale_6	Обойдите врага с фланга
 scripted_objectives_localised_text_rec_9_morale_9	[[col:orange]]СОВЕТ:[[/col]] Удерживайте [[col:orange]]ПРОБЕЛ[[/col]], чтобы увидеть точное расположение ваших бойцов в бою. Также видны дальность атаки отряда и его приказы движения, если они есть.
@@ -47,7 +47,7 @@ scripted_objectives_localised_text_off_ba_4_hints_2	Подсказки появ�
 scripted_objectives_localised_text_off_fe_6_tiers_4	Откройте лёгких гоплитов за опыт отряда
 scripted_objectives_localised_text_off_fe_6_tiers_5	Теперь нужно потратить серебро, чтобы добавить лёгких гоплитов в состав
 scripted_objectives_localised_text_off_fe_6_tiers_6	Откройте лёгких гоплитов
-scripted_objectives_localised_text_off_fe_6_tiers_1	Теперь ваш полководец II ранга, и вы можете покупать отряды этого ранга.
+scripted_objectives_localised_text_off_fe_6_tiers_1	Теперь ваш полководец II уровня, и вы можете покупать отряды этого уровня.
 scripted_objectives_localised_text_off_fe_6_tiers_3	Теперь можно открыть лёгких гоплитов
 scripted_objectives_localised_text_throw_pila	(По желанию) Используйте alt+правую кнопку, чтобы бросить пилумы в переднего спартанского отряда
 scripted_objectives_localised_text_rec_4_select_and_move_1	Выберите головной отряд, чтобы взять его под управление.
@@ -84,15 +84,15 @@ scripted_objectives_localised_text_off_ba_2_mission_2	Это побочные з
 scripted_objectives_localised_text_off_ba_3_mission_2	Это побочные задания: их выполнение даст дополнительные награды после боя.
 scripted_objectives_localised_text_select_whole_squad	Чтобы выбрать весь отряд, зажмите и протяните рамку выбора вокруг всех ваших отрядов.
 scripted_objectives_localised_text_change_depth_obj	(По желанию) Измените глубину строя, чтобы быстрее пройти по узкой дороге
-scripted_objectives_localised_text_b2_swords_charge	Бросьтесь в рывок на вражеские отряды
+scripted_objectives_localised_text_b2_swords_charge	Бросьтесь в натиск на вражеские отряды
 scripted_objectives_localised_text_b2_swords_engage	Вступите в ближний бой
 scripted_objectives_localised_text_alternate_rotate_camera	Либо удерживайте среднюю кнопку мыши и двигайте мышь.
 scripted_objectives_localised_text_b2_units_1	Обычные типы отрядов
 scripted_objectives_localised_text_b2_units_3	[[img:inf_bow]][[/img]] [[col:orange]]Лучники[[/col]] — стрелки с высоким уроном, слабые в ближнем бою.
 scripted_objectives_localised_text_b2_units_2	[[img:inf_sword]][[/img]] [[col:orange]]Мечевая пехота[[/col]] — бойцы ближнего боя с хорошим нападением и защитой.
-scripted_objectives_localised_text_b2_units_5	[[img:inf_spear]][[/img]] [[col:orange]]Копейная пехота[[/col]] — защитные бойцы ближнего боя: перекрывают пути и отражают рывки спереди.
-scripted_objectives_localised_text_b2_units_4	[[img:cav_spear]][[/img]] [[col:orange]]Копейная кавалерия[[/col]] — быстрые всадники с разрушительным рывком, но слабые в затяжном бою.
-scripted_objectives_localised_text_charge_remaining	Совет: нажмите T, чтобы активировать «Рывок тяжёлой пехоты» и ударить в спины оставшимся спартанцам
+scripted_objectives_localised_text_b2_units_5	[[img:inf_spear]][[/img]] [[col:orange]]Копейная пехота[[/col]] — защитные бойцы ближнего боя: перекрывают пути и отражают натиски спереди.
+scripted_objectives_localised_text_b2_units_4	[[img:cav_spear]][[/img]] [[col:orange]]Копейная кавалерия[[/col]] — быстрые всадники с разрушительным натиском, но слабые в затяжном бою.
+scripted_objectives_localised_text_charge_remaining	Совет: нажмите T, чтобы активировать «Натиск тяжёлой пехоты» и ударить в спины оставшимся спартанцам
 scripted_objectives_localised_text_rec_rotate_camera	Вращайте камеру клавишами Q или E либо зажав среднюю кнопку мыши и двигая мышью
 scripted_objectives_localised_text_b2_swords_throw_pila	Лёгкие пилумы по вражеским отрядам
 scripted_objectives_localised_text_rec_7_fog_of_war_1	Отряды «видят» лишь на ограниченное расстояние ([[col:orange]]дальность обзора[[/col]]). Всё за её пределами скрыто [[col:orange]]туманом войны[[/col]].
@@ -105,12 +105,12 @@ scripted_objectives_localised_text_eliminate_defenders	(По желанию) У�
 scripted_objectives_localised_text_directed_move_order	Выбрав отряды, щёлкните правой кнопкой и тяните, чтобы отдать направленный приказ движения. Это сбросит строй отряда.
 scripted_objectives_localised_text_off_fe_5_orders_8	Свободного опыта хватает, чтобы открыть его второй боевой приказ!
 scripted_objectives_localised_text_off_fe_5_orders_9	Откройте способность «Держать строй».
-scripted_objectives_localised_text_off_fe_5_orders_2	Это отряд II ранга, поэтому ваш полководец должен быть II ранга, чтобы их использовать.
-scripted_objectives_localised_text_off_fe_5_orders_3	Давайте повысим вашего полководца до II ранга.
-scripted_objectives_localised_text_off_fe_5_orders_1	Вы почти можете открыть лёгких гоплитов, но они II ранга, поэтому полководец тоже должен быть II ранга
+scripted_objectives_localised_text_off_fe_5_orders_2	Это отряд II уровня, поэтому ваш полководец должен быть II уровня, чтобы их использовать.
+scripted_objectives_localised_text_off_fe_5_orders_3	Давайте повысим вашего полководца до II уровня.
+scripted_objectives_localised_text_off_fe_5_orders_1	Вы почти можете открыть лёгких гоплитов, но они II уровня, поэтому полководец тоже должен быть II уровня
 scripted_objectives_localised_text_off_fe_5_orders_6	Нажмите на портрет Леонида, чтобы увидеть его приказы.
 scripted_objectives_localised_text_off_fe_5_orders_7	Чтобы повысить полководца, нужно потратить свободный опыт на его приказы.
-scripted_objectives_localised_text_off_fe_5_orders_4	Достигните II ранга полководца
+scripted_objectives_localised_text_off_fe_5_orders_4	Достигните II уровня полководца
 scripted_objectives_localised_text_off_fe_5_orders_5	Откройте панель полководцев
 scripted_objectives_localised_text_off_fe_3_equipment_10	Поздравляем, ваши гоплиты-ополченцы получили щегольской шлем.
 scripted_objectives_localised_text_off_fe_3_equipment_11	Откроем шлем для этого отряда
@@ -129,7 +129,7 @@ scripted_objectives_localised_text_off_fe_2_unit_progression_6	Нажмите к
 scripted_objectives_localised_text_off_fe_4_matchmaking_1	Пора начать следующий бой.
 scripted_objectives_localised_text_off_fe_4_matchmaking_3	Войдите во второй бой
 scripted_objectives_localised_text_off_fe_4_matchmaking_2	Нажмите кнопку «Играть».
-scripted_objectives_localised_text_off_fe_5_orders_10	Поздравляем, Леонид теперь II ранга и имеет доступ к отрядам II ранга.
+scripted_objectives_localised_text_off_fe_5_orders_10	Поздравляем, Леонид теперь II уровня и имеет доступ к отрядам II уровня.
 scripted_objectives_localised_text_capture_base	Захватите вражескую базу
 scripted_objectives_localised_text_off_fe_1_commander_6	Выберите Леонида своим полководцем
 scripted_objectives_localised_text_off_fe_1_commander_5	Наконец пора взять Леонида в бой. Нажмите кнопку его выбора на левой панели.
@@ -189,4 +189,4 @@ scripted_objectives_localised_text_select_unit	Щёлкните левой кн�
 scripted_objectives_localised_text_br_archers_focus_fire	Используйте «Сосредоточенный огонь»
 scripted_objectives_localised_text_move_camera	Двигайте камеру клавишами WASD и вращайте её клавишами Q и E
 scripted_objectives_localised_text_select_guan_yu	Щёлкните левой кнопкой по отряду полководца, чтобы выбрать его.
-scripted_objectives_localised_text_b2_cav_charge	Бросьтесь в рывок на вражеские отряды
+scripted_objectives_localised_text_b2_cav_charge	Бросьтесь в натиск на вражеские отряды

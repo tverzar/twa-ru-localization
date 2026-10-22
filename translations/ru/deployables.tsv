@@ -140,12 +140,12 @@ deployables_description_con_gre_caltrops_7	«Сюрприз — дырявые �
 deployables_description_con_gre_caltrops_8	«Сюрприз — дырявые ноги!» — отличное средство от любого наступления.
 deployables_description_con_gre_caltrops_9	«Сюрприз — дырявые ноги!» — отличное средство от любого наступления.
 deployables_name_con_rom_tar_pits_1	Смоляные Ямы
-deployables_tooltip_con_rom_infantry_caltrops_10	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
+deployables_tooltip_con_rom_infantry_caltrops_10	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
 deployables_description_archetype_barricade	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
 deployables_name_con_gre_wooden_stakes_10	Деревянные колья
 deployables_description_deployable_barricade	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
 deployables_name_004_woodenStakes	Большие деревянные колья
-deployables_name_005_woodenStakes	Деревянные колья 5 ранга
+deployables_name_005_woodenStakes	Деревянные колья 5 уровня
 deployables_name_con_rom_infantry_caltrops_4	Пехотные ежи
 deployables_name_con_rom_infantry_caltrops_5	Пехотные ежи
 deployables_name_con_rom_infantry_caltrops_6	Пехотные ежи
@@ -164,7 +164,7 @@ deployables_description_con_rom_infantry_tar_pits_5	Подожги врага и
 deployables_description_con_rom_infantry_tar_pits_4	Подожги врага и отправь прямо в объятия Аида.
 deployables_description_con_rom_infantry_tar_pits_7	Подожги врага и отправь прямо в объятия Аида.
 deployables_description_con_rom_infantry_tar_pits_6	Подожги врага и отправь прямо в объятия Аида.
-deployables_tooltip_con_gre_caltrops_10	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
+deployables_tooltip_con_gre_caltrops_10	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
 deployables_tooltip_con_gre_wooden_stakes_4	Колья наносят урон отрядам, подходящим спереди.
 deployables_tooltip_con_gre_wooden_stakes_5	Колья наносят урон отрядам, подходящим спереди.
 deployables_tooltip_con_gre_wooden_stakes_6	Колья наносят урон отрядам, подходящим спереди.
@@ -178,14 +178,14 @@ deployables_name_con_rom_wooden_stakes_10	Деревянные колья
 deployables_name_001_woodenStakes	Малые деревянные колья
 deployables_tooltip_archetype_woodenStakes	Деревянные колья наносят урон отрядам, подходящим спереди.
 deployables_name_002_woodenStakes	Средние деревянные колья
-deployables_name_003_woodenStakes	Деревянные колья 3 ранга
+deployables_name_003_woodenStakes	Деревянные колья 3 уровня
 deployables_tooltip_001_caltrop	Чеснок наносит урон отрядам с любого направления и дополнительный урон, если они движутся быстро.
 deployables_tooltip_002_caltrop	Чеснок наносит урон отрядам под любым углом и дополнительный урон, если они движутся быстро.
 deployables_tooltip_003_caltrop	Чеснок наносит урон отрядам с любого направления и дополнительный урон, если они движутся быстро.
 deployables_tooltip_004_caltrop	Чеснок наносит урон отрядам с любого направления и дополнительный урон, если они движутся быстро.
 deployables_tooltip_005_caltrop	Чеснок наносит урон отрядам с любого направления и дополнительный урон, если они движутся быстро.
 deployables_name_archetype_barricade	Прототип баррикад
-deployables_tooltip_con_rom_caltrops_10	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
+deployables_tooltip_con_rom_caltrops_10	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
 deployables_name_archetype_caltrop	Прототип чеснока
 deployables_tooltip_con_rom_wooden_stakes_8	Колья наносят урон отрядам, подходящим спереди.
 deployables_tooltip_con_rom_wooden_stakes_9	Колья наносят урон отрядам, подходящим спереди.
@@ -291,8 +291,8 @@ deployables_name_con_rom_infantry_caltrops_10	Пехотные ежи
 deployables_tooltip_con_gre_wooden_stakes_10	Колья наносят урон отрядам, подходящим спереди.
 deployables_name_001_barricade	Маленькие Баррикады
 deployables_name_002_barricade	Средние баррикады
-deployables_name_003_barricade	Баррикады 3 ранга
-deployables_name_004_barricade	Баррикады 4 ранга
+deployables_name_003_barricade	Баррикады 3 уровня
+deployables_name_004_barricade	Баррикады 4 уровня
 deployables_name_005_barricade	Большие баррикады
 deployables_name_deployable_ignitible_tar	Горючая смола
 deployables_description_deployable_stakes	Колья наносят урон отрядам, подходящим спереди.
@@ -311,10 +311,10 @@ deployables_name_con_rom_infantry_stakes_10	Пехотные колья
 deployables_description_archetype_caltrop	Чеснок наносит урон отрядам под любым углом и дополнительный урон, если они движутся быстро.
 deployables_tooltip_deployable_caltrop	Чеснок наносит урон отрядам с любого направления и дополнительный урон, если они движутся быстро.
 deployables_name_001_caltrop	Железный чеснок
-deployables_name_003_caltrop	Чеснок 3 ранга
+deployables_name_003_caltrop	Чеснок 3 уровня
 deployables_name_002_caltrop	Стальной чеснок
-deployables_name_005_caltrop	Чеснок 5 ранга
-deployables_name_004_caltrop	Чеснок 4 ранга
+deployables_name_005_caltrop	Чеснок 5 уровня
+deployables_name_004_caltrop	Чеснок 4 уровня
 deployables_name_con_rom_wooden_stakes_5	Деревянные колья
 deployables_name_con_rom_wooden_stakes_4	Деревянные колья
 deployables_name_con_rom_wooden_stakes_7	Деревянные колья
@@ -344,15 +344,15 @@ deployables_tooltip_con_rom_infantry_barricades_7	Баррикады на вре
 deployables_tooltip_con_rom_infantry_barricades_6	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
 deployables_tooltip_con_rom_infantry_barricades_9	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
 deployables_tooltip_con_rom_infantry_barricades_8	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
-deployables_tooltip_con_rom_caltrops_8	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_caltrops_9	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_caltrops_1	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_caltrops_2	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_caltrops_3	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_caltrops_4	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_caltrops_5	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_caltrops_6	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_caltrops_7	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
+deployables_tooltip_con_rom_caltrops_8	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_caltrops_9	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_caltrops_1	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_caltrops_2	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_caltrops_3	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_caltrops_4	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_caltrops_5	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_caltrops_6	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_caltrops_7	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
 deployables_description_con_gre_wooden_stakes_6	Смертоносные колья, готовые пронзить безрассудных.
 deployables_description_con_gre_wooden_stakes_7	Смертоносные колья, готовые пронзить безрассудных.
 deployables_description_con_gre_wooden_stakes_4	Смертоносные колья, готовые пронзить безрассудных.
@@ -415,36 +415,36 @@ deployables_description_001_caltrop	Чеснок наносит урон отр�
 deployables_description_004_caltrop	Чеснок наносит урон отрядам под любым углом и дополнительный урон, если они движутся быстро.
 deployables_description_005_caltrop	Чеснок наносит урон отрядам под любым углом и дополнительный урон, если они движутся быстро.
 deployables_description_con_rom_infantry_caltrops_10	«Сюрприз — дырявые ноги!» — отличное средство от любого наступления.
-deployables_tooltip_con_rom_infantry_caltrops_9	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_infantry_caltrops_8	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_infantry_caltrops_5	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_infantry_caltrops_4	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_infantry_caltrops_7	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_infantry_caltrops_6	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_infantry_caltrops_1	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_infantry_caltrops_3	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_rom_infantry_caltrops_2	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
+deployables_tooltip_con_rom_infantry_caltrops_9	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_infantry_caltrops_8	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_infantry_caltrops_5	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_infantry_caltrops_4	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_infantry_caltrops_7	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_infantry_caltrops_6	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_infantry_caltrops_1	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_infantry_caltrops_3	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_rom_infantry_caltrops_2	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
 deployables_name_con_gre_tar_pits_10	Смоляные Ямы
 deployables_tooltip_001_barricade	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
 deployables_tooltip_002_barricade	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
 deployables_tooltip_003_barricade	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
 deployables_tooltip_004_barricade	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
 deployables_tooltip_005_barricade	Баррикады на время задерживают продвижение отрядов.\n\nИх можно разрушить.
-deployables_tooltip_con_gre_caltrops_5	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_gre_caltrops_4	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_gre_caltrops_7	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_gre_caltrops_6	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_gre_caltrops_1	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
+deployables_tooltip_con_gre_caltrops_5	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_gre_caltrops_4	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_gre_caltrops_7	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_gre_caltrops_6	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_gre_caltrops_1	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
 deployables_name_con_gre_wooden_stakes_9	Деревянные колья
 deployables_name_con_gre_wooden_stakes_8	Деревянные колья
-deployables_tooltip_con_gre_caltrops_3	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
-deployables_tooltip_con_gre_caltrops_2	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
+deployables_tooltip_con_gre_caltrops_3	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
+deployables_tooltip_con_gre_caltrops_2	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
 deployables_name_con_gre_wooden_stakes_5	Деревянные колья
 deployables_name_con_gre_wooden_stakes_4	Деревянные колья
 deployables_name_con_gre_wooden_stakes_7	Деревянные колья
 deployables_name_con_gre_wooden_stakes_6	Деревянные колья
-deployables_tooltip_con_gre_caltrops_9	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
+deployables_tooltip_con_gre_caltrops_9	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
 deployables_name_con_gre_wooden_stakes_1	Деревянные колья
-deployables_tooltip_con_gre_caltrops_8	Бросьте под ноги чеснок, чтобы замедлить врагов и их рывки.
+deployables_tooltip_con_gre_caltrops_8	Бросьте под ноги чеснок, чтобы замедлить врагов и их натиски.
 deployables_name_con_gre_wooden_stakes_3	Деревянные колья
 deployables_name_con_gre_wooden_stakes_2	Деревянные колья
