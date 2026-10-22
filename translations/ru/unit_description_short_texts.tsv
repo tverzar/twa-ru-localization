@@ -144,3 +144,312 @@ unit_description_short_texts_text_rom_pre_sarmatian_lancers	Возьми сил�
 unit_description_short_texts_unit_description_gla_samnites	Самниты были первым типом гладиаторов с особым видом, ставшим образцом для многих последующих: защита рук и ног и затейливый шлем, но никакой брони на теле, кроме широкого пояса, — намеренная уязвимость, символизирующая готовность умереть на арене. Они были вооружены обычным гладиусом и большим прямоугольным щитом. Как и многие гладиаторы, самниты были скопированы с врага Рима, в данном случае народа из центра Италии, которого римляне покорили около IV века до н. э.
 unit_description_short_texts_unit_description_chi_crossbow_militia	В эпоху постоянной войны каждый должен быть готов сражаться. Лучнику могут понадобиться годы, чтобы нарастить силу верхней части тела для натяжения лука и отточить меткость, а арбалету достаточно, чтобы солдат повернулся в нужную сторону и нажал на спуск. Владение арбалетом приходит за считаные дни, а не годы. Серийные арбалеты можно выдать наспех собранному крестьянскому ополчению, превратив его из неэффективной толпы в боевую силу, способную наносить урон врагу издалека.
 unit_description_short_texts_unit_description_gre_gymnitai	Гимниты — буквально «нагие» — были сверхлёгкими застрельщиками, сражавшимися рядом с греческими армиями, обычно вооружёнными пращами. Самыми знаменитыми пращниками Средиземноморья были жители Балеарских островов. Их мастерство было столь велико, что обычное греческое название островов — Гимнесии, или Гимнасийские острова, что, по Страбону, прямо отсылает к этому типу лёгких войск.
+unit_description_short_texts_text_gla_pre_slave_legionaries	Гладиаторов учили подражать врагам Рима. Почему бы не самим римлянам?
+unit_description_short_texts_text_gla_pre_gladiator_lancers	Месть свершится громом копыт и острым копьём.
+unit_description_short_texts_text_rom_pre_legio_ix_hispana	Легенды об этих ветеранах вдохновляют их товарищей.
+unit_description_short_texts_text_rom_republican_skirmishers	Эти застрельщики изматывают и ослабляют врага до столкновения главных линий.
+unit_description_short_texts_text_bar_cimbri_archers	Вдохновлённые жуткими обрядами, эти лучники готовы нести смерть издалека.
+unit_description_short_texts_text_gre_agema_spears	Люди, которых даже элита зовёт элитой.
+unit_description_short_texts_text_bar_proven_falxmen	Эти бойцы владеют свирепыми двуручными мечами, пробивающими броню и игнорирующими щиты.
+unit_description_short_texts_text_bar_hound_handlers	Слюнявые псы надёжно занимают врага.
+unit_description_short_texts_text_gre_pre_engineers	Эти хитрые греки — знатоки полевой инженерии и могут построить батарею смертоносной лёгкой артиллерии.
+unit_description_short_texts_text_gre_engineers	Эти хитрые греки — знатоки полевой инженерии и могут построить батарею смертоносной лёгкой артиллерии.
+unit_description_short_texts_text_rom_light_ballista	Если красть — то у греков.
+unit_description_short_texts_text_chi_mercenary_repeating_crossbows	Что ценнее: воины или их оружие?
+unit_description_short_texts_text_chi_shu_crossbows	Не имея людей и ресурсов, Шу полагалось в бою на изобретательность и технологии.
+unit_description_short_texts_text_gre_levy_pikemen	В упоре этот отряд выдержит почти любой фронтальный удар.
+unit_description_short_texts_text_bar_decebalus_guard	Децебал не склонился перед тиранией, и эти люди последуют его примеру.
+unit_description_short_texts_text_gla_rebel_fighters	Восставшим рабам пришлось быстро учиться и использовать все доступные приёмы.
+unit_description_short_texts_text_per_persian_camel_raiders	Верблюды несутся туда, где кони боятся ступить.
+unit_description_short_texts_text_chi_peasant_rabble	Чего им не хватает в броне, они восполняют яростью и рвением.
+unit_description_short_texts_text_chi_central_guard	В сердце лагеря шатёр военачальника, а вокруг — грозная стража.
+unit_description_short_texts_text_rom_pre_war_dogs	Громадные мускулистые звери, обученные выслеживать и рвать врагов хозяев.
+unit_description_short_texts_text_gre_ionian_archers	Эти страстно независимые ионийцы осыплют врагов Греции смертоносными стрелами.
+unit_description_short_texts_text_bar_blood_riders	Эти всадники способны впадать в кровавое неистовство.
+unit_description_short_texts_text_gre_hellenic_cataphracts	Неудержимая сила.
+unit_description_short_texts_text_gla_pre_trainee_scutarii	Новички-гладиаторы, свежие и жаждущие проявить себя.
+unit_description_short_texts_text_chi_yellow_turbans	Воспламенённые беспримерным рвением, жёлтые повязки стремились очистить страну от коррупции.
+unit_description_short_texts_text_per_parthian_cataphracts	Натиск катафрактов может стать врагу смертным приговором.
+unit_description_short_texts_text_per_paighan_band	Когда царь приказывает, крестьяне идут на войну.
+unit_description_short_texts_text_gla_pre_auctorati	Арена бывает смертельным, но прибыльным местом работы.
+unit_description_short_texts_text_rom_augustan_skirmishers	Среди застрельщиков выживают только быстрые.
+unit_description_short_texts_text_rom_eagle_cohort	Легионеры следуют за своим Орлом даже в самые отчаянные ситуации.
+unit_description_short_texts_text_bar_archer_warband	В луке чести, может, меньше, чем в мече, но эти лучники не менее смертоносны.
+unit_description_short_texts_text_chi_pre_white_horse_fellows	Их белые скакуны были не просто конями, а психологическим оружием.
+unit_description_short_texts_text_bar_naked_warriors	Чей боевой дух не дрогнет перед такой дерзкой уверенностью?
+unit_description_short_texts_text_gre_pre_spartan_hoplites	Военное мастерство спартанцев легендарно: эти гоплиты быстрее и проворнее остальных греков.
+unit_description_short_texts_text_gla_pre_liberated_elephants	Римляне думали, что справятся с любым зверем и человеком. Они ошибались.
+unit_description_short_texts_text_bar_pre_riders_of_taranis	Метательная кавалерия с дротиками убивает издалека и уходит от любой расплаты.
+unit_description_short_texts_text_chi_polearm_buqu	Система бугу превратила войну в семейное дело.
+unit_description_short_texts_text_gre_pre_myrmidons	Древние воины эпохи мифов: каждый мирмидонец достоин быть соратником героев старины.
+unit_description_short_texts_text_per_persian_levy	Вчера землепашец, сегодня солдат, завтра — пища воронам.
+unit_description_short_texts_text_car_punic_hoplites	Регулярная пехота карфагенской армии.
+unit_description_short_texts_text_chi_picked_cavalry	Узы «гуаньси» связывали полководца и людей в нерушимое целое.
+unit_description_short_texts_text_bar_scouts	Быстрые разведчики осматривают местность и внезапно бросаются в натиск на ничего не подозревающего врага.
+unit_description_short_texts_text_gre_cretan_archers	Славные прежде всего как лучники, эти люди давали свои луки самым легендарным полководцам древности.
+unit_description_short_texts_text_gre_cimmerian_heavy_archers	Лучники, закалённые на краю света.
+unit_description_short_texts_text_gre_lesbos_archers	Они застрелят тебя, а потом сложат об этом прекрасную поэму.
+unit_description_short_texts_text_chi_ji_mercenaries	Жизнь наёмника быстро отсеивает слабых.
+unit_description_short_texts_text_car_carthaginian_cavalry	Крепкая кавалерия, хоть и без слонов.
+unit_description_short_texts_text_rom_evocati_cohort	Одни готовы сменить войну на мир, но не эти люди.
+unit_description_short_texts_text_bar_pre_berserkers	Свирепые воины с легендарной агрессией, снова и снова бросающиеся на врага.
+unit_description_short_texts_text_bar_pre_bloodsworn	Подгоняемые кровавыми клятвами, эти люди бросаются в натиск с невероятной яростью.
+unit_description_short_texts_text_gre_pre_telesillas_argives	Молодые и старые, свободные и рабы — народ Аргоса стоял единым перед врагами.
+unit_description_short_texts_text_rom_pre_auxiliary_cavalry	Иногда успех рождается из понимания, что кто-то другой справится лучше.
+unit_description_short_texts_text_car_caesai	Слоны: мощные, благородные и опасные.
+unit_description_short_texts_text_bar_pre_belgae_skirmishers	Даже враги признают, что белги — самые храбрые из племён.
+unit_description_short_texts_text_rom_pre_auxilia_palatina	Набранные со всей империи, эти копейщики — мощное дополнение к легионерам с мечами.
+unit_description_short_texts_text_gre_theban_cavalry	Вовремя проведённый натиск этих всадников может мгновенно переломить ход боя.
+unit_description_short_texts_text_car_baal	Бог среди слонов.
+unit_description_short_texts_text_gre_helot_slingers	Эти люди знают: лучше убивать за спартанцев, чем быть убитым ими, и мечут камни с отчаянным пылом.
+unit_description_short_texts_text_chi_pre_wu_marines	Эти опытные моряки способны дать свирепый бортовой залп.
+unit_description_short_texts_text_rom_pre_auxiliary_sagittari	Римляне дополнили родную тяжёлую пехоту лучшими лучниками со всего Средиземноморья.
+unit_description_short_texts_text_chi_white_feathers	Пехота Белых Перьев Чэнь Дао была одним из элитных отрядов Шу.
+unit_description_short_texts_text_gre_pre_attendant_archers	За каждым гоплитом стоит тяжело нагруженный слуга.
+unit_description_short_texts_text_bar_pre_cantabrian_cavalry	Дикие, кружащие кантабры опасны и в ближнем бою, и на расстоянии.
+unit_description_short_texts_text_bar_riders	Быстрые легковооружённые всадники, бьющие с неожиданных направлений.
+unit_description_short_texts_text_gla_rudiarii_murmillones	Рудиарий решил сражаться и после получения свободы.
+unit_description_short_texts_text_rom_pre_murmillo_gladiators	Хотя они легко бронированы, эти воины сотни раз смотрели смерти в лицо: быстрые, свирепые и бесстрашные.
+unit_description_short_texts_text_rom_murmillo_gladiators	Хотя они легко бронированы, эти воины сотни раз смотрели смерти в лицо: быстрые, свирепые и бесстрашные.
+unit_description_short_texts_text_gla_damnati	Даже последний подонок может искупить вину кровью и песком.
+unit_description_short_texts_text_car_tanit	Сила, посеявшая страх и трепет по всему древнему миру.
+unit_description_short_texts_text_car_boii_spearmen	Кому нужна дисциплина, когда горишь ненавистью к Риму?
+unit_description_short_texts_text_rom_hastati	Хорошо экипированный отряд, дополняющий меч и щит смертоносными дротиками.
+unit_description_short_texts_text_chi_cavalry_militia	Жизнь в пограничном ополчении была строгой и дисциплинированной.
+unit_description_short_texts_text_rom_equites	Богатство не делает лучшего солдата, но даёт коня побольше и меч поострее.
+unit_description_short_texts_text_bar_night_hunters	Нельзя сражаться с тем, чего не видишь. Жаль, что это не взаимно.
+unit_description_short_texts_text_bar_dacias_chosen	Враг падёт, как пшеница под косой.
+unit_description_short_texts_text_rom_pre_raetian_auxiliary	Племенное искусство копья позволяет им и метать дротики, и строить плотную фалангу.
+unit_description_short_texts_text_chi_armoured_repeating_crossbows	Стена щитов и стальных болтов.
+unit_description_short_texts_text_gre_toxotai	Нет оружия, неподвластного греку.
+unit_description_short_texts_text_chi_xiliang_cavalry	Провинция Сянлян вырастила собственную кавалерию как ответ на набеги кочевников.
+unit_description_short_texts_text_bar_proven_warriors	Ветераны жизни, прошедшей в войнах, одетые в добычу сотни сражений.
+unit_description_short_texts_text_chi_shesheng_repeating_crossbows	Дальнобойная элита Хань была оснащена новейшими технологическими новинками.
+unit_description_short_texts_text_rom_legatus	Чтобы дослужиться до легата, нужны упорство и решимость.
+unit_description_short_texts_text_rom_accensi	Римская подготовка делает грозного пехотинца даже из беднейшего солдата.
+unit_description_short_texts_text_gla_arbelai	Кровь — его краска, арена — его холст.
+unit_description_short_texts_text_chi_ji_buqu	Цзи — свирепая смесь пики, топора и кинжала.
+unit_description_short_texts_text_chi_pre_handmaiden_guard	Грозные телохранители грозной женщины.
+unit_description_short_texts_text_chi_heavy_xiliang_cavalry	Сянлян переняли часть тактики, а может, и нрав своих кочевых противников.
+unit_description_short_texts_text_gre_levy_slingers	Меткие пращники способны осыпать далёких врагов градом камней.
+unit_description_short_texts_text_car_libyan_recruits	Дешёвые и эффективные ливийские наёмники: им платят за меч и подчинение.
+unit_description_short_texts_text_gre_foot_companions	Свирепая копейная фаланга, хорошо экипированная и готовая идти за полководцем на край света.
+unit_description_short_texts_text_rom_pre_masinissas_guard	Хитрый Масинисса одолжил Риму легендарное мастерство нумидийцев.
+unit_description_short_texts_text_car_libyan_infantry	Постоишь слишком долго — они прокатятся прямо по тебе.
+unit_description_short_texts_text_bar_raiders	Эти конные налётчики бьют врага в самый слабый момент и уходят, не дав ответить.
+unit_description_short_texts_text_car_libyan_hoplites	Закалённые наёмники с жаждой славы и жгучей ненавистью к Римской империи.
+unit_description_short_texts_text_bar_warg_warriors	Эти жуткие псы медленно выслеживают добычу, а потом бросаются с невероятной скоростью.
+unit_description_short_texts_text_car_carthaginian_hoplites	Вооружённое ополчение, готовое проткнуть пару римлян.
+unit_description_short_texts_text_per_zhayedan_immortal_cataphracts	Бессмертная элита — верхом.
+unit_description_short_texts_text_rom_leves	Ловкие застрельщики уходят от врагов, осыпая их смертоносными дротиками
+unit_description_short_texts_text_gre_pre_thureos_swordsmen	С колющим мечом и лёгким щитом эти солдаты бьются там, где гоплиты не могут.
+unit_description_short_texts_text_gre_silver_shield_pikemen	Несдвигаемая преграда.
+unit_description_short_texts_text_chi_pre_shesheng_crossbows	«Стреляющие на звук» были одним из элитных регулярных корпусов династии Хань.
+unit_description_short_texts_text_rom_cheiroballistra	Механическое чудо, выплёвывающее жестокие залпы болтов.
+unit_description_short_texts_text_gla_plebeian_rabble	Даже самый знатный патриций боится гнева толпы.
+unit_description_short_texts_text_gla_pre_rudiarii_scissores	Рудиарий сражался ради острых ощущений, добровольно возвращаясь на арену.
+unit_description_short_texts_text_rom_rorarii	Отряд рорариев поддерживает тяжёлую пехоту смертоносными снарядами.
+unit_description_short_texts_text_gre_archaic_archers	Эти лучники истачивают врага издалека, пока не сломят его волю.
+unit_description_short_texts_text_car_campaign_elites	Вы в присутствии легендарных победителей.
+unit_description_short_texts_text_per_armoured_camel_warriors	Обученный воин на боевом верблюде — грозное зрелище, и часто последнее для врага.
+unit_description_short_texts_text_bar_seconded_strays	По приказу эти люди спускают на врага быстрых свирепых псов.
+unit_description_short_texts_text_bar_archers_of_ullr	Каждая меткая стрела — свидетельство мощи Улля.
+unit_description_short_texts_text_rom_veteran_velites	Бой на передовой быстро отделяет слабых от сильных.
+unit_description_short_texts_text_bar_andartas_swords	Не зря Победа — женщина.
+unit_description_short_texts_text_gre_agema_cavalry	Восточное искусство верховой езды в сочетании с греческой тактикой даёт быстрый и смертоносный отряд ударной кавалерии.
+unit_description_short_texts_text_rom_pre_ghosts_of_cannae	Преследуемые памятью о немыслимом кровопролитии, выжившие при Каннах неумолимо идут к искуплению или смерти
+unit_description_short_texts_text_gre_citizen_cavalry	Эти благородные граждане быстро манёвряют по полю боя и наносят мощный натиск.
+unit_description_short_texts_text_bar_niflheim_riders	Из Нифльхейма пришли и в Нифльхейм отправят своих врагов.
+unit_description_short_texts_text_bar_dacian_warriors	Земли за Дунаем рождают выносливых свирепых воинов.
+unit_description_short_texts_text_per_pre_gyan_avspar	Элитные телохранители, готовые умереть за царя.
+unit_description_short_texts_text_bar_warband	Воины, связанные клятвой, со свирепым натиском.
+unit_description_short_texts_text_rom_celeres	Отборная кавалерия Ромула способна на мощный натиск и на стойкость в ближнем бою.
+unit_description_short_texts_text_rom_velites	Эти рьяные юные бойцы выкладываются до предела, чтобы доказать умение и храбрость
+unit_description_short_texts_text_rom_pedites	Гибкий отряд, способный построиться в плотный дисциплинированный строй.
+unit_description_short_texts_text_gre_royal_cavalry	Мастерство и выучка царской кавалерии вдохновляют любого солдата.
+unit_description_short_texts_text_chi_sword_militia	Двух лет на границе довольно, чтобы превратить любого крестьянина в солдата.
+unit_description_short_texts_text_rom_imperial_guard	Эти люди могут сделать императора или свергнуть его.
+unit_description_short_texts_text_gre_theban_hoplites	Эти гоплиты готовы держать линию плотной фалангой или прорываться к победе.
+unit_description_short_texts_text_rom_vespa	Батарея лёгкой артиллерии со смертоносным жалом.
+unit_description_short_texts_text_rom_milites	Стойкая, хорошо обученная пехота.
+unit_description_short_texts_text_rom_tirones	Эти застрельщики осыпают врага дротиками и отступают в безопасность.
+unit_description_short_texts_text_bar_mounted_warband	Агрессивная кавалерия из воинов на всю жизнь.
+unit_description_short_texts_text_per_camel_lancers	Лучшей платформы для копейного удара, чем несущийся верблюд, не найти.
+unit_description_short_texts_text_bar_falxmen	Вооружённые жутким изогнутым клинком, эти воины прорубают броню и щиты.
+unit_description_short_texts_text_per_pushtighban_cataphracts	Придворные рыцари Персии.
+unit_description_short_texts_text_chi_crossbow_buqu	После распада Хань полководцы обратились к собственным частным армиям.
+unit_description_short_texts_text_car_elite_hippeis	Одни из лучших всадников, каких можно купить за деньги.
+unit_description_short_texts_text_rom_elite_velites	Умелые застрельщики, бьющие врагов из-за пределов их досягаемости.
+unit_description_short_texts_text_per_savaran_cataphracts	Благородные всадники разрушения.
+unit_description_short_texts_text_rom_principes	Гибкая надёжная пехота, способная вести натиск или держать линию.
+unit_description_short_texts_text_gre_sacred_band	Теснейшие узы держат этих людей вместе на поле боя.
+unit_description_short_texts_text_per_azat_guard	Армянская знать, ныне верная Персии.
+unit_description_short_texts_text_bar_wild_wolves	Яростно преданные звери, готовые броситься на врагов хозяев.
+unit_description_short_texts_text_chi_repeating_crossbow_guard	Арбалетные болты часто окунали во вредные вещества, делая каждый выстрел смертельным.
+unit_description_short_texts_text_per_pasargadae_guard	Когда эти возвышенные воины вступают в бой, ожидания высоки.
+unit_description_short_texts_text_chi_pre_palace_guard	Последний рубеж обороны.
+unit_description_short_texts_text_rom_legionary_cavalry	Местное искусство верховой езды, отточенное римской дисциплиной.
+unit_description_short_texts_text_rom_praetorians	Они защитят императора от чего угодно — когда им это выгодно.
+unit_description_short_texts_text_chi_tiger_and_leopard_cavalry	Элитную кавалерию Цао Чуня позже объявили личными войсками самого Цао Цао.
+unit_description_short_texts_text_chi_pre_the_lost_legion	Эти бывалые воины проделали дальний путь, но не растеряли выучки.
+unit_description_short_texts_text_chi_black_mountain_ambushers	Грабят богатых, чтобы кормить... ну, в основном себя.
+unit_description_short_texts_text_car_veterans_of_cannae	Неудержимые безжалостные убийцы, распорядители резни при Каннах.
+unit_description_short_texts_text_gre_companion_cavalry	Фланговый натиск этих элитных всадников способен разгромить даже самый дисциплинированный строй.
+unit_description_short_texts_text_gla_fugitives	Беглые гладиаторы пошли по дорогам, подбирая любое оружие и доспехи.
+unit_description_short_texts_text_gla_murmillones	Мирмиллоны были среди самых популярных гладиаторов, сочетая защиту и силу.
+unit_description_short_texts_text_gre_pre_thorax_spearmen	Крепкие копейщики с мощным ударом.
+unit_description_short_texts_text_gre_myrmidons	Древние воины эпохи мифов, мирмидонцы — агрессивный копейный отряд с мощным натиском.
+unit_description_short_texts_text_per_immortals	Не устают, не колеблются, не отступают.
+unit_description_short_texts_text_rom_pre_germanic_scouts	Если нужно знать, что впереди, спросите местного.
+unit_description_short_texts_text_car_iberian_skirmishers	Мелькая в схватке, эти застрельщики тревожат вражеские линии.
+unit_description_short_texts_text_chi_pre_protectors_of_heaven	Защита императора — священный долг; от неё зависит сам порядок мира.
+unit_description_short_texts_text_gla_mine_slaves	Спартак рано обратился к рабам с рудников: тела закалены изнурительным трудом, а воля заострена римской жестокостью.
+unit_description_short_texts_text_gre_pre_delian_peltasts	Смертоносные застрельщики, чьи дротики сеют ранения и смерть среди врага.
+unit_description_short_texts_text_car_armoured_elephant	Страшнее несущегося слона только бронированный несущийся слон.
+unit_description_short_texts_text_chi_ji_guard	Полководец может спать спокойно за стеной цзи.
+unit_description_short_texts_text_bar_pre_iberian_royal_cavalry	Повелители коней.
+unit_description_short_texts_text_per_sparabara	Бей издалека — и из укрытия.
+unit_description_short_texts_text_per_honoured_immortals	Золотые герои Персидской империи.
+unit_description_short_texts_text_bar_ambushers	Убей врагов, пока они не узнали, что ты рядом.
+unit_description_short_texts_text_car_punic_mercenaries	Безжалостные наёмники со всей Северной Африки.
+unit_description_short_texts_text_bar_tribesmen	Отряд бойцов на всю жизнь, способный на свирепый натиск.
+unit_description_short_texts_text_chi_qingzhou_infantry	Цао Цао увидел, что побеждённых жёлтых повязок можно перековать в новое оружие.
+unit_description_short_texts_text_bar_cernunnos_hunters	Бог охоты благословляет стрелы своих верных.
+unit_description_short_texts_text_per_pre_arabian_camelry	Вся выносливость, упорство и злоба.
+unit_description_short_texts_text_per_maraphii_sparabara	Благородные потомки древней Персии выходят на поле.
+unit_description_short_texts_text_chi_pre_qin_crossbows	Арбалеты защищали династию Цинь и в жизни, и в смерти.
+unit_description_short_texts_text_gla_venatores	Если кровоточит, они могут это убить.
+unit_description_short_texts_text_Gre_Mycenaean_Archers	Микенцы — первое великое греческое царство, и их военной мощи боялись по всему региону.
+unit_description_short_texts_text_gre_mycenaean_archers	Этими лучниками можно ослаблять врага издалека или наносить мощный прицельный залп.
+unit_description_short_texts_text_car_numidian_vanguard	Главная заноза во вражеском боку.
+unit_description_short_texts_text_gre_pre_thracian_royal_cavalry	Фракийцы были мастерами верховой езды, и эти всадники лучше греческих в затяжном бою.
+unit_description_short_texts_text_rom_centurion	Железный хребет легиона.
+unit_description_short_texts_text_chi_heavy_shu_crossbows	Отряд тяжёлых арбалетов был идеальным гарнизоном для горного перевала Шу.
+unit_description_short_texts_text_bar_oathsworn	Связанные нерушимыми клятвами, эти элитные тяжеловооружённые воины готовы сражаться и умереть за вождя и племя.
+unit_description_short_texts_text_gla_pre_caestus	Железная перчатка, железный кулак.
+unit_description_short_texts_text_gla_lucanian_highwaymen	Холмы Лукании полны памяти о былой славе и обиды на прежних завоевателей.
+unit_description_short_texts_text_chi_wu_marksmen	Солдаты У должны были стрелять с качающегося корабля так же уверенно, как с твёрдой земли.
+unit_description_short_texts_text_gla_hoplomaches	Мало что радует римлянина больше, чем зрелище надменного грека, борющегося за жизнь.
+unit_description_short_texts_text_per_camel_cataphracts	Верблюд и так выносливее коня, а в броне враг в беде.
+unit_description_short_texts_text_gre_athenian_hoplites	Может, спартанцы и лучше сражаются, но смогут ли они сочинить сократический диалог, насаживая перса на копьё?
+unit_description_short_texts_text_chi_wu_assault_infantry	Люди юга славились огненным, агрессивным нравом.
+unit_description_short_texts_text_bar_pre_celtic_slingers	Хотя они легко бронированы, эти воины стреляют метательными снарядами гораздо дальше любого лучника.
+unit_description_short_texts_text_car_phoenician_warriors	Эти хорошо обученные финикийцы используют греческую фалангу, чтобы держать крепкую линию.
+unit_description_short_texts_text_gla_rudiarii_retiarii	Для кого-то слава и честь стоят риска всем.
+unit_description_short_texts_text_gla_bestiarii	Не подходит для вегетарианцев.
+unit_description_short_texts_text_gla_bustuarii	Первыми гладиаторами были бустуарии, сражавшиеся насмерть на похоронах знатных римлян.
+unit_description_short_texts_text_gla_pre_animal_trappers	Эти охотники бродят по самым диким уголкам мира в поисках самых свирепых и зрелищных зверей.
+unit_description_short_texts_text_car_veterans_of_trebia	Воодушевлённые победой над Римом, эти ветераны — одна из лучших карфагенских пехот.
+unit_description_short_texts_text_rom_socii_javelineers	Они не римляне, но их дротики от этого не менее смертоносны.
+unit_description_short_texts_text_chi_xiongnu_mercenaries	Кочевники сюнну были постоянным раздражителем для Хань, но и потенциальным ресурсом.
+unit_description_short_texts_text_rom_legionaries	Люди, покорившие известный мир.
+unit_description_short_texts_text_chi_ji_warriors	Выдрессированные солдаты, способные стать непреодолимым препятствием для любого противника.
+unit_description_short_texts_text_bar_chosen_swordsmen	Закалённые ветераны с разным вооружением: вдохновение для племени.
+unit_description_short_texts_text_car_mercenary_hippeis	Кавалеристы по призванию, привыкшие к бою.
+unit_description_short_texts_text_per_pre_nisean_chargers	Небесные кони, обращённые к бою.
+unit_description_short_texts_text_gla_secutores	Секуторы («преследователи») полагались на быстрые вспышки силы, чтобы смять противников.
+unit_description_short_texts_text_chi_conscript_cavalry	Более богатых призывников отправляли на север в кавалерийское ополчение.
+unit_description_short_texts_text_car_pre_panther_cavalry	Римлянам нумидийцы могут казаться варварами, но при умелом применении способны повернуть ход боя.
+unit_description_short_texts_text_car_pre_melqart	Слоны никогда не забывают.
+unit_description_short_texts_text_rom_veteran_legionaries	Стальная стена, что удержит линию перед любым врагом.
+unit_description_short_texts_text_car_insubres_swordsmen	Ненавидящие Рим мечники — грозный и непредсказуемый враг.
+unit_description_short_texts_text_gla_scissores	Одни приходят на арену ради драмы, другие — ради крови.
+unit_description_short_texts_text_rom_pre_triarii	Эти копейные ветераны — третья и последняя линия обороны.
+unit_description_short_texts_text_gre_macedonian_hoplites	Эти гоплиты — исключительные защитники, плод строгой подготовки.
+unit_description_short_texts_text_gla_shepherds	Одинокие стражи высоких холмов.
+unit_description_short_texts_text_per_pre_naft_throwers	Персидский огонь.
+unit_description_short_texts_text_gre_cycladic_archers	Вдохновлённые примером своих богов, эти лучники пускают стрелы со смертельной меткостью.
+unit_description_short_texts_text_chi_feathered_forest	Лес гнётся, но не ломается.
+unit_description_short_texts_text_rom_palatini	Дворцовая стража — продолжение воли императора и орудие его власти.
+unit_description_short_texts_text_car_pre_lusitanian_guerrillas	Свирепые мятежники Иберийского полуострова.
+unit_description_short_texts_text_gla_pre_beast_handlers	Мастера псарни и клетки, бесстрашные перед клыками и когтями
+unit_description_short_texts_text_car_band_of_carthage	Эти благородные воины пойдут на всё ради дела своего города.
+unit_description_short_texts_text_car_pre_nubian_archers	Экзотичные даже по меркам космополитичного Карфагена, эти быстрые лучники прибыли издалека, чтобы выгодно использовать своё смертоносное мастерство.
+unit_description_short_texts_text_car_pre_surus	Старейшина боевых слонов.
+unit_description_short_texts_text_rom_scorpion	Болты этой смертоносной батареи легко пробивают броню и плоть.
+unit_description_short_texts_text_car_numidian_cavalry	Обучены ударить и исчезнуть, прежде чем враг опомнится.
+unit_description_short_texts_text_chi_nomad_levy	Мало кого освобождали от запросов военной машины Хань.
+unit_description_short_texts_text_gre_mycenaean_hoplites	В фаланге эти гоплиты — мощная оборонительная сила.
+unit_description_short_texts_text_rom_vitruvian_scorpion	Лучшие инженеры древнего мира.
+unit_description_short_texts_text_gre_hellenic_pikemen	Совершенная оборона.
+unit_description_short_texts_text_bar_pre_harii_painted_warriors	Тронутые тенью леса Германии скрывают существ куда страшнее кабанов и медведей.
+unit_description_short_texts_text_car_boii_skirmishers	Войска переднего края, не знающие страха.
+unit_description_short_texts_text_gla_pre_retiarii_gladiatrices	Гладиатриссы шокировали и возмущали болтливую римскую публику: возможно, они забыли, что Минерва родилась с копьём в руке.
+unit_description_short_texts_text_chi_tuntian_crossbows	Солдат, который сам растит себе еду, поистине ценен.
+unit_description_short_texts_text_bar_broceliande_biters	Дикие звери из дикой земли — и это только вожатые!
+unit_description_short_texts_text_gla_samnites	Самниты были древнейшими врагами Рима, и их оружие и доспехи вдохновили ранних гладиаторов.
+unit_description_short_texts_text_gre_gymnitai	Хрупкие, но способные быстро и точно метать залпы камней.
+unit_description_short_texts_text_chi_crossbow_militia	Наведи и стреляй: арбалет — идеальное оружие для необученных войск.
+unit_description_short_texts_text_chi_pre_tamed_tigers	Эти люди научились жить в глуши и кормиться землёй.
+unit_description_short_texts_text_car_pre_carthaginian_marines	Карфагенские морпехи сметали вражеские палубы жестоким обстрелом, а затем бросались в схватку.
+unit_description_short_texts_text_car_amazigh_tribesmen	Из пустыни приходят амазиги, несравненные всадники Сахары.
+unit_description_short_texts_text_chi_sword_guard	Даже самому сильному полководцу нужен кто-то, кто прикроет спину.
+unit_description_short_texts_text_bar_cleavers	Бей с силой молнии.
+unit_description_short_texts_text_car_african_elephant	Со слонами всё лучше.
+unit_description_short_texts_text_per_pre_conquerors_of_babylon	Взятие Вавилона сделало Кира непревзойдённым владыкой Ближнего Востока.
+unit_description_short_texts_text_gre_olympic_slingers	Быстрые, меткие, способные метать камни на невероятные расстояния, эти пращники — образец греческого физического совершенства.
+unit_description_short_texts_text_bar_pre_belgae_archers	Дерзкие и смелые, лучники белгов приносят на поле непоколебимую уверенность.
+unit_description_short_texts_text_bar_harbingers	Боевой клич — предвестник сокрушительного натиска предвестников.
+unit_description_short_texts_text_chi_wei_heavy_infantry	Контроль Вэй над великими арсеналами императора Хань дал им буквальное преимущество.
+unit_description_short_texts_text_rom_pre_martiobarbuli	Размер не главное: дротики этих людей летят дальше любого копья.
+unit_description_short_texts_text_car_mercenary_spears	Крепче и искуснее среднего наёмного отряда.
+unit_description_short_texts_text_gla_dimachaeri	Два меча — вдвое веселее.
+unit_description_short_texts_text_bar_pre_druids	Культурные и религиозные вожди кельтов, друиды сочетают боевые способности народа с властью, вдохновляющей и поддерживающей союзников.
+unit_description_short_texts_text_gla_cilician_pirates	«Да-да, свобода и справедливость — это здорово. Можно начинать грабить?»
+unit_description_short_texts_text_gre_elite_companions	Собственные всадники царя — грозная боевая сила.
+unit_description_short_texts_text_gre_athenian_pikemen	Афинский ум и мощь соединяются в грозный оборонительный отряд.
+unit_description_short_texts_text_chi_shu_light_cavalry	Местность Шу благоприятствовала более ловкой, приспосабливающейся кавалерии.
+unit_description_short_texts_text_car_mercenary_rabble	Монета может мотивировать не хуже верности.
+unit_description_short_texts_text_bar_brigands	Быстрые всадники, способные на быстрые свирепые натиски.
+unit_description_short_texts_text_gre_rhodian_slingers	«Лови!»
+unit_description_short_texts_text_chi_pre_zhuge_crossbows	Чжугэ Лян применял свой незаурядный ум ко всем видам изобретений, включая оружие.
+unit_description_short_texts_text_per_veteran_sparabara	Тяжёлый опыт научил эту сборную силу выживать.
+unit_description_short_texts_text_per_pre_royal_persian_archers	Быть персидским вельможей — значит быть несравненным лучником.
+unit_description_short_texts_text_gre_scythian_archers	Стрельба из лука у этих людей в крови.
+unit_description_short_texts_text_gre_ballista	Когда нужно что-то построить, обратитесь к грекам: эти люди могут собрать мощное орудие, стреляющее дробящими валунами или болтами длиной с копьё.
+unit_description_short_texts_text_gre_pre_elite_ballista	Когда нужно что-то построить, обратитесь к грекам: эти люди могут собрать мощное орудие, стреляющее дробящими валунами или болтами длиной с копьё.
+unit_description_short_texts_text_bar_gungnir_chargers	Мощная ударная кавалерия с натиском, достойным богов.
+unit_description_short_texts_text_chi_mercenary_swordsmen	Хитрые могут превратить хаос в возможность.
+unit_description_short_texts_text_rom_architecti	Эти инженеры быстро разворачивают артиллерийскую батарею, пускающую смертоносные точные болты.
+unit_description_short_texts_text_gla_escaped_gladiators	Гладиаторы, бежавшие из лудуса Батиата, принесли с собой лишь своё необыкновенное боевое мастерство.
+unit_description_short_texts_text_rom_imperial_velites	Никогда не нападай на человека со львом вместо шапки.
+unit_description_short_texts_text_gla_retiarii	Ретиарий — экзотичный и опасный враг.
+unit_description_short_texts_text_car_pre_gallic_cavalry	Пугающее зрелище и часто последнее для врага.
+unit_description_short_texts_text_gla_freedom_fighters	Вскоре беглецы поняли, что Рим не отпустит их без боя.
+unit_description_short_texts_text_bar_pre_spear_brothers	В стене копий каждый должен доверять остальным как родным.
+unit_description_short_texts_text_bar_cherusci_warband	Грозные победители Тевтобурга.
+unit_description_short_texts_text_gre_hypaspists	Элитные гоплиты, лично отобранные одним из величайших военных умов классической эпохи.
+unit_description_short_texts_text_rom_vitruvian_onager	Эти инженеры убивают наукой. И тупой травмой.
+unit_description_short_texts_text_car_samnite_warriors	Римские «буки», сеющие неприятности.
+unit_description_short_texts_text_gre_pre_dahae_archers	Даи сражались за величайших завоевателей эпохи — скоро придёт и их время...
+unit_description_short_texts_text_bar_huntsmen	С навыками, отточенными за жизнь охоты, эти лучники точны и смертоносны.
+unit_description_short_texts_text_bar_pre_cimbri_spear_warriors	Жрицы-воительницы кимвров вдохновляют племя кровавыми пророчествами.
+unit_description_short_texts_text_bar_woodsmen	Лесовики способны выскочить из леса внезапным мощным натиском.
+unit_description_short_texts_text_car_pre_greek_hoplites	Классические пехотные воины древнего мира, задавшие стандарт для будущих солдат.
+unit_description_short_texts_text_bar_fenrirs_followers	Волчий вой внушает глубокий первобытный страх всем, кроме самых стойких.
+unit_description_short_texts_text_chi_sword_buqu	Восстание жёлтых повязок ускорило появление частных армий.
+unit_description_short_texts_text_chi_rapid_tiger_swords	Профессиональные солдаты с войной в крови.
+unit_description_short_texts_text_gla_pre_galli	Завоевание и порабощение не ослабили галльскую жажду боя.
+unit_description_short_texts_text_gla_thraeces	Свирепость фракийцев заслужила появления нового типа гладиатора в их честь.
+unit_description_short_texts_text_rom_praetorian_cavalry	Береги спину, когда на поле преторианцы.
+unit_description_short_texts_text_gla_herdsmen	Гнать скот по волчьим холмам Италии — дело храбрости и умения.
+unit_description_short_texts_text_chi_repeating_crossbows	Многозарядные арбалеты компенсировали малую дальность огромным объёмом огня.
+unit_description_short_texts_text_bar_noble_horse	Племя пойдёт лишь за сильным.
+unit_description_short_texts_text_rom_catapult	Крупное артиллерийское орудие, мечущее россыпь тяжёлых валунов.
+unit_description_short_texts_text_gla_pre_thracian_horsemasters	Навыки, обретённые на равнинах Фракии, можно смертоносно применить на холмах Кампании.
+unit_description_short_texts_text_rom_ballista	Нужен ли дробящий камень или пронзающий болт — баллиста готова.
+unit_description_short_texts_text_rom_vitruvian_ballista	«Это лучшая баллиста, созданная человеком. Её зовут Верина».
+unit_description_short_texts_text_bar_pre_getae_horsemen	Вооружённые злыми изогнутыми клинками, эти всадники — грозная сила в ближнем бою.
+unit_description_short_texts_text_chi_pre_pearl_dragons	Война — искусство, и они были мастерами.
+unit_description_short_texts_text_per_camel_clibanarii	Величественно. Блестяще. Смертоносно.
+unit_description_short_texts_text_chi_tuntian_colonists	Сельскохозяйственные колонии «туньтянь» были ценным источником и пищи, и людей.
+unit_description_short_texts_text_gla_pre_gladiatrices	Римляне никогда не давали приличиям мешать развлечениям.
+unit_description_short_texts_text_bar_warriors	Жестокие жизни куют жестоких бойцов.
+unit_description_short_texts_text_gla_pre_noxii	Даже крыса опасна, когда её загнали в угол.
+unit_description_short_texts_text_gla_collegium_enforcers	Подонки. Но полезные подонки.
+unit_description_short_texts_text_bar_pre_youths	Эти рьяные воины вооружены дротиками, которыми могут изводить врагов издалека.
+unit_description_short_texts_text_chi_pre_youxia	Юся бродили по земле, защищая слабых и вершя правосудие.
+unit_description_short_texts_text_gre_macedonian_pikemen	Строй, построивший империю: щетинистая стена пик почти неуязвима для лобовой атаки.
+unit_description_short_texts_text_chi_conscript_infantry	Хань ввели всеобщий призыв в беспрецедентных масштабах.
+unit_description_short_texts_text_rom_pre_imperator_gladiators	Находящиеся на содержании императора, это отборные торговцы смертью.
+unit_description_short_texts_text_gre_archaic_hoplites	Эти люди могут построить плотную фалангу, отражающую большинство лобовых ударов.
